@@ -1,0 +1,10 @@
+Trash80 is a micromusic/bitpop project from Timothy Lamb (born  on March 5, 1979), a pioneer of independent Game Boy music. He has published several songs online under a Creative Commons license (BY-NC-ND) under the Trash80 and Tresk banners. Whereas many Trash80 songs are ambient soundscapes featuring the use of Game Boy sounds, Tresk songs feature simple piano lines. Most prominently, Lamb's music has been featured on the soundtrack of the real-time strategy game Darwinia.The name "Trash80" is a reference to a slang term for the Tandy / Radio Shack computer model (now defunct) TRS-80 (model 1/2/3/4/4p).
+In 2003 the EP Hologram was released. and in May 2008 the EP Icarus was released.In the Fall of 2008, Trash80 unveiled the ArduinoBoy, a relatively cheap and easy-to-assemble device that allows MIDI synchronization with a Game Boy running the proper software.  As the name implies, it is based on the Arduino open-source microcontroller.
+
+
+== External links ==
+Official website
+Biography
+
+
+== References ==

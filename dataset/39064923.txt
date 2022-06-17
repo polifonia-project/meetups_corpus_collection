@@ -1,0 +1,27 @@
+Mārtiņš Saulespurēns (born 1943) is a Latvian-American audio engineer who co-founded Blue Microphones with musician Skipper Wise. Saulespurēns also developed the tunable capsule for contemporary microphone design and invented the Champagne Microphone Cable.
+
+
+== Early life and education ==
+Saulespurēns was born and raised in Rīga, Latvia. He graduated from Riga Polytechnical Institute (now Riga Technical University) in 1974 with a Bachelor of Electrical Engineering. In 1967, Saulespurēns was a drummer in an R&B band for which he bought a damaged LOMO 19A-19 tube condenser microphone and refurbished it to use for recording.
+
+
+== Career ==
+Saulespurēns worked as an audio engineer for the Latvian Conservatory of Music when he met American session musician, Skipper Wise. In 1995, they created the Blue Microphones company to repair and refurbish vintage microphones for which parts were no longer available. "Blue" was an acronym for Baltic Latvian Universal Electronics.
+Under the encouragement of New York City recording studio owner Walter Sear, Saulespurēns and Wise developed their own line of microphones. The BLUE microphone was base upon an old RFT Bottle design but without the internal power supply making it a quieter and smoother.
+
+Saulespurēns and Wise also built microphones to handle digital processing (extended frequency response, dynamic range, etc.). They used a movable round brass plate instead of a permanent membrane in the rear part of the capsule. This allowed Blue to move the plate to change the volume of the air inside, changing the frequency response. The first microphone they created was the Blueberry. The replacement of rear Mylar film membranes with solid tuned brass pieces became standard industry practice.
+Saulespurēns, in collaboration with Blue, developed the first microphone cable to pass both power and the audio signal in a single cable without extensive audio signal degradation. To eliminate the need for two cable connections in a tube microphone –  power supply and audio signal – he combined two pairs of conductors twisted to eliminate noise and then covered with a fine-tinned copper braid for additional protection.
+After receiving an early copy of GarageBand recording software from Apple Computers, Saulespurēns and Wise developed a microphone that connected directly to a computer through the USB port. Although there were other USB microphones in production, the BLUE company's Snowball microphone was the first directed at professional sound recording. In 2005, Apple decided to stock the Snowball with its store products which dramatically boosted the popularity of Blue Microphones. Saulespurēns and Wise sold their company to Transom Capital Group in 2008.
+
+
+== Patents ==
+Felikss Stanevics USPTO Patent Application 20110228954, Electret microphone circuit
+
+
+== Awards ==
+2013 TEC Award Spark Digital - Microphone/Technology Recording 
+2001 TEC Award Dragonfly - Microphone Technology/Studio 
+Best Studio Microphone-The MIPA Awards (Musikmesse International Press Awards)
+
+
+== References ==

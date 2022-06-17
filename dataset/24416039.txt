@@ -1,0 +1,30 @@
+William A. Sethares (born April 19, 1955) is an American music theorist and professor of electrical engineering at the University of Wisconsin. In music, he has contributed to the theory of Dynamic Tonality and provided a formalization of consonance.
+
+
+== Consonance and dissonance ==
+Among the earliest musical traditions, musical consonance was thought to arise in a quasi-mystical manner from ratios of small whole numbers. (For instance, Pythagoras made observations relating to this, and the ancient Chinese Guqin contains a dotted scale representing the harmonic series.) The source of these ratios, in the pattern of vibrations known as the harmonic series, was exposed by Joseph Sauveur the early 18th century and even more clearly by Helmholtz in the 1860s.
+In 1965, Plomp and Levelt showed that this relationship could be generalized beyond the harmonic series, although they did not elaborate in detail.
+In the 1990s, Sethares began exploring Plomp and Levelt's generalization, both mathematically and musically. His 1993 paper On the relationship between timbre and scale formalized the relationships between a tuning's notes and a timbre's partials that control sensory consonance. A more accessible version also appeared in Experimental Musical Instruments as "Relating Tuning and Timbre" These papers were followed by two CDs, Xenotonality and Exomusicology (some songs from which can be freely downloaded here), which explored the application of these ideas to musical composition.
+In his 1998 book Tuning, Timbre, Spectrum, Scale, Sethares developed these ideas further, using them to expose the intimate relationship between the tunings and timbres of Indonesian and Thai indigenous music, and to explore other novel combinations of related tunings and timbres. Where microtonal music was previously either dissonant (due to being played with harmonic timbres to which it was not "related"), or restricted to the narrow range of harmonically related tunings (to retain sensory consonance), Sethares's mathematical and musical work showed how musicians might explore microtonality without sacrificing sensory consonance.
+As one reviewer of the second edition of this book wrote, "Physics had built a prison round music, and Sethares set it free." Another reviewer wrote that it "is not only the most important book about tuning written to date, but it is the most important book about music theory written in human history."
+
+
+== Musica Facta ==
+Sethares' conception of consonance is one of the foundation-stones of a new research program called Musica Facta.
+
+
+== See also ==
+Dynamic tonality
+Isomorphic keyboard
+Syntonic temperament
+
+
+== References ==
+
+
+== Further reading ==
+Sethares, William A. (2011). "Alternate tuning guide". Madison, Wisconsin: University of Wisconsin; Department of Electrical Engineering. 2010 PDF version by Bill Sethares. Retrieved 19 May 2012.
+
+
+== External resources ==
+Webpage of Professor William Sethares at the University of Wisconsin

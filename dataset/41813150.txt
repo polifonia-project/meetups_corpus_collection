@@ -1,0 +1,104 @@
+Bebe Barron ((1925-06-16)June 16, 1925 – April 20, 2008(2008-04-20) (aged 82)) and Louis Barron ((1920-04-23)April 23, 1920 – November 1, 1989(1989-11-01) (aged 69)) were two American pioneers in the field of electronic music. They are credited with writing the first electronic music for magnetic tape composed in the United States, and the first entirely electronic film score for the MGM movie Forbidden Planet (1956).
+
+
+== Bebe Barron ==
+She was born as Charlotte May Wind in Minneapolis on June 16, 1925, the only child of Ruth and Frank Wind. She studied piano at the University of Minnesota and a post-graduate degree in political science. In Minneapolis, she studied composition with Roque Cordero. She moved to New York, and worked as a researcher for Time-Life and studied musical composition. She studied music with Wallingford Riegger and Henry Cowell. She married Louis in 1947. They lived in Greenwich Village. It was Louis who nicknamed her "Bebe".  She died on April 20, 2008 in Los Angeles.
+
+
+== Louis Barron ==
+He was born in Minneapolis on April 23, 1920. As a young man, Louis had an affinity for working with a soldering gun and electrical gear. He studied music at the University of Chicago. He died on 1 November 1989 in Los Angeles.
+
+
+== Early works ==
+The couple married in 1947 and moved to New York City. Louis' cousin, who was an executive at the Minnesota Mining and Manufacturing Company (3M), gave the newlyweds their first tape recorder as a wedding gift.[1] It was early tape recorder technology that used magnetized plastic tape. Using their newly acquired equipment, the couple delved into the study of musique concrète.
+The first electronic music for magnetic tape composed in the United States was completed by Louis and Bebe in 1950 and was titled Heavenly Menagerie. Electronic music composition and production were one and the same, and were slow and laborious. Tape had to be physically cut and pasted together to edit finished sounds and compositions.
+
+
+== Method ==
+The 1948 book Cybernetics: Or, Control and Communication in the Animal and the Machine, by mathematician Norbert Wiener from MIT played an important role in the development of the Barrons' composition. The science of cybernetics proposes that certain natural laws of behavior apply to both animals and more complex electronic machines.
+By following the equations presented in the book, Louis was able to build electronic circuits that he manipulated to generate sounds. Most of the tonalities were generated with a circuit called a ring modulator. The sounds and patterns that came out of the circuits were unique and unpredictable because they were actually overloading the circuits until they burned out to create the sounds.  The Barrons could never recreate the same sounds again, though they later tried very hard to recreate their signature sound from Forbidden Planet. Because of the unforeseen life span of the circuitry, the Barrons made a habit of recording everything.
+Most of the production was not scripted or notated in any way. The Barrons didn't even consider the process as music composition themselves. The circuit generated sound was not treated as notes, but instead as 'actors'. In future soundtrack composition, each circuit would be manipulated according to actions of the underlying character in the film.
+After recording the sounds, the couple manipulated the material by adding effects, such as reverb and tape delay. They also reversed and changed the speed of certain sounds[2]. The mixing of multiple sounds was performed with at least three tape recorders. The outputs of two machines would be manually synchronized[3], and fed into an input of a third one, recording two separate sources simultaneously. The synchronization of future film work was accomplished by two 16 mm projectors that were tied into a 16 mm tape recorder, and thus ran at the same speed.
+While Louis spent most of his time building the circuits and was responsible for all of the recording, Bebe did the composing. She had to sort through many hours of tape. As she said, "it just sounded like dirty noise".  Over time, she developed the ability to determine which sounds could become something of interest. Tape loop gave the Barrons' sounds rhythm. They mixed the sounds to create the otherworldly and strange electronic soundscapes required by Forbidden Planet.
+
+
+== Recording studio ==
+Soon after relocation to New York, the Barrons opened a recording studio at 9 West 8th Street in Greenwich Village that catered to the avant-garde scene. This may have been the first electronic music studio in the United States. At the studio, the Barrons used a tape recorder to record everything and everyone. They recorded Henry Miller, Tennessee Williams, and Aldous Huxley reading their work in a form of early audiobook. In June 1949, Anaïs Nin recorded a full version of House of Incest and four other stories from Under a Glass Bell. These recordings were pressed on red vinyl and released on the Barrons' Contemporary Classics record label under the Sound Portraits series.
+For a short time, the Barrons held a monopoly on tape recording equipment. The only other competition in town were the studios owned by Raymond Scott and Eric Siday. The connection through Louis' cousin working at 3M proved to be vital in obtaining batches of early magnetic tape. Due to the lack of competition in the field, and to the surprise of the owners, the recording business was a success.
+Aside from the tape recorders, most of the equipment in the studio was completely built by Louis. One of the home made pieces was a monstrous speaker that could produce very heavy bass. Electronic oscillators that produced sawtooth, sine, and square waves were also home built prize possessions. They had a filter, a spring reverberator, and several tape recorders. A Stancil-Hoffmann reel to reel was custom built by the inventor for looping the samples, and changing their speed. The thriving business brought in enough income to purchase some commercial equipment.
+The Barrons' music was noticed by the avant-garde scene. During 1952-53 the studio was used by John Cage for his very first tape work Williams Mix. The Barrons were hired by Cage to be the engineers. They recorded over 600 different sounds, and arranged them with Cage's directions in various ways by splicing the tape together. The four and a half minute piece took over a year to finish. Cage also worked in the Barrons' studio on his Music for Magnetic Tape with other notable composers, including Morton Feldman, Earle Brown, and David Tudor. It was Cage who first encouraged the Barrons to consider their creations "music".
+
+
+== Film works ==
+The Barrons quickly learned that the avant-garde scene did not reap many financial rewards. They turned to Hollywood, which had already been using electronic instruments such as the theremin in film soundtracks for several years.
+In the early 50s, the Barrons collaborated with various celebrated filmmakers to provide music and sound effects for art films and experimental cinema. The Barrons scored three of Ian Hugo's short experimental films based on the writings of his wife Anaïs Nin. The most notable of these three films were Bells of Atlantis (1952) and Jazz of Lights (1954). The Barrons assisted Maya Deren in the audio production of the soundtrack for The Very Eye of Night (1959), which featured music by Teiji Ito. Bridges-Go-Round (1958) by Shirley Clarke featured two alternative soundtracks, one by the Barrons and one by jazz musician Teo Macero. The film's two versions showed the same four-minute film of New York City bridges. Showing the two versions back-to-back showed how different soundtracks affected the viewer's perception of the film.
+In 1956 the Barrons composed the very first electronic score for a commercial film — Forbidden Planet, released by Metro-Goldwyn-Mayer. The Barrons approached Dore Schary (MGM's executive producer) at an exhibit of Schary's wife's paintings in 1955. He hired them soon after, when the film was in post-production.
+
+
+== Forbidden Planet ==
+
+The soundtrack for Forbidden Planet (1956) is today recognized as the first entirely electronic score for a film. Eerie and sinister, the soundtrack was unlike anything that audiences had heard before. Music historians have often noted how groundbreaking the soundtrack was in the development of electronic music.
+On the album sleeve notes of the Forbidden Planet soundtrack, Louis and Bebe explain:
+
+We design and construct electronic circuits [that] function electronically in a manner remarkably similar to the way that lower life-forms function psychologically. [. . .]. In scoring Forbidden Planet – as in all of our work – we created individual cybernetics circuits for particular themes and leit motifs, rather than using standard sound generators. Actually, each circuit has a characteristic activity pattern as well as a "voice". [. . .]. We were delighted to hear people tell us that the tonalities in Forbidden Planet remind them of what their dreams sound like.[4]
+
+The producers of the film had originally wanted to hire Harry Partch to do the music score. The Barrons were brought in to do only about twenty minutes of sound effects. After the producers heard the initial sample score, the Barrons were assigned an hour and ten minutes of the rest of the film. The studio wanted to move the couple to Hollywood where most of the film scores were produced at the time. But the couple would not budge, and took the work back to their New York studio.
+The music and the sound effects stunned the audience. During the preview of the movie when the sounds of the spaceship landing on Altair IV filled the theater, the audience broke out in spontaneous applause. Later, the Barrons turned over their audio creation to GNP Crescendo records for distribution. GNP had previously demonstrated its expertise in producing and marketing science fiction film soundtracks and executive album producer Neil Norman had proclaimed the film (and the soundtrack) his favorites.
+Not everyone was happy with the score. Louis and Bebe did not belong to the Musicians' Union. The original screen credit for the film, which was supposed to read "Electronic Music by Louis and Bebe Barron", was changed at the last moment by a contract lawyer from the American Federation of Musicians. In order to not upset the union, the association with the word music had to be removed. The Barrons were credited with "Electronic Tonalities". Because of their non-membership in the union, the film was not considered for an Oscar in the soundtrack category.
+
+
+== Later works ==
+The Barrons did not know what to call their creations; it was John Cage, working with the Barrons in their studio for his earliest electronic work, who convinced them that it was "music".
+The Musicians' Union forced MGM to title the Forbidden Planet score "electronic tonalities", not "music".  And seeing the handwriting on the wall, used that excuse to deny them membership in the 1950s; the union's primary concern was losing jobs for performers rather than the medium itself.  As a result, the Barrons never scored another film for Hollywood. As the years passed, the Barrons did not continue to keep up with technology, and were perfectly content to make their music in the way they always had.  However, modern digital technology is now imitating the rich sounds of those old analog circuits.  Bebe's last work was Mixed Emotions  in 2000, from raw material collected at the University of California, Santa Barbara studio. It sounds remarkably like the Barrons' earlier material.
+In 1962, the Barrons moved to Los Angeles. Although they divorced in 1970, they continued to compose together until the death of Louis in 1989. Bebe Barron was a founding member and the first Secretary of the Society for Electro-Acoustic Music in the United States from 1985 to 1987. They awarded her with a lifetime achievement award in 1997.In 2000, she was invited to create a new work at University of California, Santa Barbara, using the latest in sound generating technology to collect sounds there. From October through early November 2000, she did all the actual composing in Jane Brockman's Santa Monica studio with Brockman serving as recording engineer. The sounds collected at UCSB were imported into Digital Performer on a Macintosh computer and organized to create Bebe's final work, Mixed Emotions.
+Bebe Barron remarried in 1975, Louis died in 1989, and Bebe died April 20, 2008.
+
+
+== Quotations ==
+"[Barrons' music sounds like] a molecule that has stubbed its toes." — From the Diary of Anais Nin, Volume 7 (1966-1974).
+
+
+== Works ==
+Heavenly Menagerie (1951–52) Tape
+Bells of Atlantis (1952) Film score
+For an Electronic Nervous System (1954) Tape
+Miramagic (1954) Film score
+Forbidden Planet (1956) Videotape; Laserdisc MGM/UA Home Video, 1991; 2-DVD Warner edition, 2006
+Jazz of Lights (1956) Film score
+Bridges-Go-Round (1958) one of two alternative soundtracks, the other composed by Teo Macero
+Crystal Growing (1959) Film score
+Music of Tomorrow (1960) Tape
+The Computer Age (1968) Film score
+Louise Huebner's Seduction Through Witchcraft (1969) Spoken word by Louise Huebner, Music by Louis and Bebe Barron; Warner Bros. - Seven Arts Records – WS 1819
+Time Machine (1970) on Music from the Soundtrack of 'Destination Moon' and Other Themes, Cinema Records LP-8005
+Space Boy (1971) Tape; revised and used for film of same name, 1973
+What's The Big Hurry? (1974) Driver's education film
+More Than Human (1974) Film score
+Cannabis (1975) Film score
+The Circe Circuit (1982) Tape
+Elegy for a Dying Planet (1982) Tape
+New Age Synthesis II on Totally Wired (1986) Pennsylvania Public Radio Associates Cassette Series
+What's the Big Hurry? (date unknown) [5] from Sid Davis Productions
+Mixed Emotions by Bebe Barron (2000) CD
+
+
+== Notes ==
+^  Speeding up and slowing down the tape in effect changed the pitch of the recorded material and individual sounds.
+^  Manual synchronization was accomplished by actually counting out loud "one-two-three-go" and pushing the play back buttons at the same time. Precise synchronization was not necessary in composing atmospheric music.
+^  Quoted from the sleeve notes of the Forbidden Planet soundtrack. See References.
+
+
+== References ==
+
+
+== Further reading ==
+Barron, Louis and Bebe. Forbidden Planet soundtrack LP. Small Planet Records (1956). Album sleeve notes.
+Holmes, Thom (2002). Electronic and Experimental Music (2nd ed.). New York: Routledge. ISBN 0-415-93644-6
+Stone, Susan. The Barrons:  Forgotten Pioneers of Electronic Music. Text and Audio Broadcast. NPR, Morning Edition, February 7, 2005.
+Brockman, Jane, The First Electronic Filmscore—Forbidden Planet:  A Conversation with Bebe Barron, "The Score" published by the Society of Composers & Lyricists, Vol. VII, No.3, Fall/Winter 1992 (ISSN 1066-5447).
+Wierzbicki, James (2005). Louis and Bebe Barron's Forbidden Planet: A Film Score Guide. The Scarecrow Press. ISBN 0-8108-5670-0
+Zvonar, Richard, Strange Cues from the ID, e/i Magazine, Issue 3, https://web.archive.org/web/20101227184937/http://www.ei-mag.com/, pp. 18–23, 2004?
+
+
+== External links ==
+"Bebe Barron, Scored the Science Fiction Film Forbidden Planet"- AllAboutJazz.com - Posted: 2008-04-28

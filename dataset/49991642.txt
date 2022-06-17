@@ -1,0 +1,29 @@
+Dražen Bošnjak is a composer and sound designer based in New York City. He founded Q Department, Mach1, and Department of Records. He has created soundtracks and sound design for a number of films, television shows, video games, advertisements, and more recently, virtual reality projects.In 2014, he composed a soundtrack for John Perry Barlow's narrated version of  A Declaration of the Independence of Cyberspace, released through Bošnjak's own label. The recording was featured in the 2016 BBC documentary HyperNormalisation by British filmmaker Adam Curtis.
+Bošnjak has worked on numerous projects with Marco Brambilla including Ghost starring Natasha Poly, Evolution (Megaplex) 3D, and  Ferrari's RPM. His collaborations with Brambilla have been shown at numerous festivals including the Sundance Film Festival and  Art Basel, Miami.Bošnjak has won numerous awards for his work including a Webby Award, an Association of Music Producers Award, and several Clio Awards. He has worked on projects that have been shown at the Cannes Lions International Festival of Creativity and the Tribeca Film Festival.
+
+
+== Mach1 ==
+Mach1 is a sound technology company started in 2015 by Dražen Bošnjak and Jacqueline Bošnjak specializing in audio for virtual reality projects. Mach1 was developed to overcome the audio limitations of game engines like Unreal Engine and Unity.Mach1 technologies and techniques extend traditional audio engineering practices to interactive media, especially virtual reality (VR) and augmented reality (AR). Mach1 focuses development on its custom spatial audio formats that do not utilize additional active processes during user playback. Mach1's Spatial format is a multi-channel isotropic audio file with an 8x1 configuration at 48k/44.1k 16bit sample rate. All 8 channels are placed into a single audio track. For support on Android hardware running Samsung VR, that audio track is transcoded to 4 audio tracks with 2 channels each.Mach1 technology has been implemented in numerous VR projects including The Martian VR Experience, Mr. Robot, The New York Times Magazine VR, Ford VR at 24 Hours of Le Mans, and VR films that have appeared at Fantastic Fest.In November 2016, Mach1 partnered with Secret Location, and Moving Picture Company to power The New York Times' VR app for Google Daydream.Mach1 provided audio for Ridley Scott and  David Karlak's Alien: Covenant In Utero VR experience for Oculus Rift and Samsung VR, which served as a teaser for the 2017 film Alien: Covenant.As of May 2017, Mach1 technology is also supported by and integrated in the Samsung VR platform v1.70.6.In 2017, Dražen and Jacqueline Bošnjak were included in Advertising Age's Creativity 50 list of the year's most influential creative figures for Mach1's contributions to the field of spatial audio.
+
+
+== Partial filmography ==
+No Maps for These Territories, composer - theme song (2000)Oprah's Master Class, composer (2011-2014)
+Prometheus, composer: additional music (2012)
+David Blaine: Real or Magic, composer (2013)
+Made in America, composer (2013)
+Creative Control, composer (2015)
+The Martian VR Experience, composer/sound designer (2016)
+The New York Times Magazine VR, sound design - Great Performers: L.A. Noir, sound designer (2016) 
+The Mr. Robot VR Experience, sound designer (2016) 
+Dear Angelica, composer (2017) 
+Passengers: Awakening, sound design (2017)
+Alien: Covenant In Utero, sound design (2017)
+Night Night, composer/sound designer/mixer (2017) 
+
+
+== References ==
+
+
+== External links ==
+Dražen Bošnjak at The Internet Movie Database
+Official Website

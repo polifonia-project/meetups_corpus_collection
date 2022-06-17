@@ -1,0 +1,16 @@
+Tanaka Shōhei (田中正平, Tanaka Shōhei, May 15, 1862 – October 16, 1945) was a Japanese physicist, music theorist, and inventor. He graduated from Tokyo University in 1882 as a science student. On an imperial scholarship, he was sent to Germany for doctoral studies in 1884, together with Mori Ōgai. His dissertation concerned just intonation and practical means to its implementation.
+Tanaka was an early advocate of 53 equal temperament as a means of closely approximating 5-limit just intonation. He was the first to obtain a clear understanding of the temperament, noticing that it tempered out both the schisma, 32805/32768, but also the kleisma (Play ), an interval of size 15625/15552 = 2−6 3−5 56, which is the interval by which five just minor thirds of size 6/5 exactly differs from a just tenth of size 5/2 exactly. Tanaka was the first to take practical note of this interval and gave it its name. Tanaka realized that the 53 equal temperament was completely characterized as a five limit temperament by the fact that it tempers out both the schisma and the kleisma.
+Tanaka was also an early advocate of the use of the hexagonal lattice for representing the pitch classes of 5-limit just intonation. First proposed in the 18th century by Leonhard Euler, this model was also used by Hugo Riemann in his theory of harmony. Tanaka also suggested what would now be called a Fokker block as a way of viewing the pitch classes of 53 equal temperament.
+Tanaka proposed a set of harmonic cadences designed to reflect a traditional Japanese aesthetic, acknowledging pentatonic scales and incorporating suspended tones in the manner of the chords played by the shō. Tanaka's suggestion was taken up by a number of 20th-century Japanese composers and theorists.Tanaka was an inventor as well as a theoretician. He designed and patented a just intonation Enharmonium (enharmonic+harmonium) with 20 keys and 26 pitches in an octave. He had Johannes Kewitsch, of Berlin, construct a 5-octave version and in 1891 he demonstrated it to Anton Bruckner in Vienna, who was impressed with its potential. He also constructed an early calculating machine.
+
+
+== Further reading ==
+Tanaka, Shohé, "Studien im Gebiete der reinen Stimmung", Vierteljahrsschrift für Musikwissenschaft vol. 6 no. 1, Friedrich Chrysander, Philipp Spitta, Guido Adler (eds.), Breitkopf und Härtel, Leipzig, pp. 1–90.
+William Pole "A New Keyed Musical Instrument for Just Intonation" Nature vol.44, no.1141, September 10, 1891 p. 446-448
+Rey Akai "Dr.Tanaka's Enharmonium", ROS Bulletin (ISSN 0736-9549) February 1992 pp. 16–17
+
+
+== External links ==
+S. Tanaka. Musical Instrument. United States Patent 443,305. December 23, 1890 (pdf version)
+Anonymous. Testimonials, Etc. (Translations) Relating to the "Enharmonium," Invented by Shohé Tanaka. London, 1891.
+Item 0194 4443215 Enharmonium (Junseicho orugan) Japan, Shizuoka Pref., Hamamatsu Nippon Gakki 1936 G1 - c4 Invented by Shohei Tanaka, 1931. Gakkigaku Shiryôkan (Collection for Organology), Kunitachi College of Music

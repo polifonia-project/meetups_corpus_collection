@@ -1,0 +1,24 @@
+Robert de Reins (Rains, Reims) La Chievre was a trouvère from the Île de France, probably active in the thirteenth century. He is among those trouvères, like Richard de Fournival, who are associated with the early development of the motet and who may be more numerous than previously believed.Robert may have belonged to the La Chievre family documented in Reims in the thirteenth and fourteenth centuries. The Roman de Renart attributed a poem about Tristan to a certain Chievre de Reins, who may be Robert. This attribution led Wilhelm Mann to conclude that he was active before 1300, though other scholars have argued on linguistic grounds that he must have been writing later.
+Nine songs are attributed to Robert and "no fewer than four have their first stanza enhanced by a liturgical tenor in a motet appearing anonymously in a polyphonic source". These four are numbers 1-4 in the list below. Two of these motets (1-2) are preserved as liturgical clausulae. Three of the motets (2-4) have the same music and text as the song versions but one has the same music but transmits a contrafact Latin text.
+
+
+== List of works ==
+The RS number is that found in the standard catalogue for songs. The refrains are numbered from the catalogue of Nico van den Boogaard. The motet voice numbers are the ones in the standard catalogues for motets.
+L'autrier de jouste un rivage (RS35). As a song in TrouvX f.189v (3 stanzas) with refrain vdB1424 in stanza II. As a motet with text Virgo gignit (Motet voice 133) and Tenor DOMINO QUONIAM (M13) in W2 (Wolfenbüttel Cod. Guelf. Helmst. 1099) f.190r. As a 2-voice clausula in motet MS F (Pluteo 29.1) f.156r.
+Quant voi le dous tens venir (RS1485). As a song in TrouvK p.190, TrouvN f.91r, Trouv X fol.135r (3 stanzas) with refrain vdB1149 in stanza I and vdB1580 in stanza II. As 2-voice motet Qant voi le douz (Motet voice 235) and tenor LATUS (M14) in W2 f.245r. As 3-voice motet with Triplum En mai quant rose (Motet voice 236) in Montpellier Codex f.203v, Paris, Bibliothèque Nationale de France, n.a.fr.13521 (‘La Clayette’) f.382v, Montpellier Codex f.167v. As 2-voice clausula in F f.158v.
+Main s'est levee Aëlis (RS1510). As a song in TrouvX f.190v (2 stanzas) with refrain vdB689 in stanza I. As motets Main s'est levee (Motet voice 565a) with tenor MANSUETUDINEM (M71) in the Munich fragments f.A7r, Noailles Chansonnier =TrouvT f.184v, Chansonnier du roi =TrouvM f.206r.
+Quant fueillissent li buisson (RS 1852). As a song in TrouvX f.190r (2 stanzas) with refrain vdB670 in stanza I and vdB1242 in stanza II. As motet Quant florissent li buisson (Motet voice 137) with tenor DOMINO QUONIAM (M13) in Montpellier f.244v.
+Plaindre m'estuet de la bele en chantant (RS319). As a song in Trouv C = the Berne Chansonnier f.215r, TrouvK p.188, TrouvN f.90r, TrouvP f.113r, TrouvX f.134r.
+Jamais pour tant (RS383). As a song in TrouvM f.175v, TrouvT, f.153r and the Saint Germain-des-Pres Chansonnier = TrouvU f.32r (5 or 6 stanzas).
+Touse (Bergier) de vile (RS957). As a song in Trouva f.124 (index only, as this folio is missing), TrouvK p.401, TrouvX f.190r (three stanzas).
+Bien s'est Amours honie (RS1163). As a song in TrouvC f.30v, TrouvK p.188, TrouvN f.89v, TrouvP f.71v, Trouv X f.133v, TrouvU f.33v (4 or 6 stanzas).
+Qui bien veut Amours descrivre (RS1655). As a song in Trouva f.102v, TrouvC f.113r, TrouvF f.115r, TrouvH f.223v, the Cangé Chansonnier = TrouvO f.115v, TrouvK p.189, TrouvP f.72r, TrouvN f.90v, TrouvX f.134v, TrouvM f.174v, TrouvT f.152v, TrouvU f.37r (4, 5, or 6 stanzas) with refrain vdB710 in all sources.
+
+
+== See also ==
+Falck, Robert. "Robert de Reins La Chievre." Grove Music Online. Oxford Music Online. Accessed 20 September 2008.
+Saint-Cricq, Gaël. "Genre, Attribution and Authorship in the Thirteenth Century: Robert de Reims vs ‘Robert de Rains’." Early Music History 38 (2019): 141-213. https://doi.org/10.1017/S0261127919000044
+Doss-Quinby, Eglal; Gaël, Saint-Cricq; Rosenberg, Samuel N., eds. (2020). Robert de Reims : songs and motets. University Park, Pennsylvania: The Pennsylvania State University Press. ISBN 978-027-1087-184.
+
+
+== References ==

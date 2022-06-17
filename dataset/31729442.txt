@@ -1,0 +1,70 @@
+Bob Heil (born October 5, 1940) is an American sound and radio engineer most well known for creating the template for modern rock sound systems. He founded the company Heil Sound in 1966,  which went on to create unique touring sound systems for bands such as The Grateful Dead and The Who. He invented the Heil Talk Box in 1973, which was frequently used by musicians such as Peter Frampton, Joe Walsh and Richie Sambora, and is still in use today.Heil has been an innovator in the field of amateur radio, manufacturing microphones and satellite dishes for broadcasters and live sound engineers. In the late 1980s Heil Sound became one of the first American companies to create and install Home Theaters, and Heil has lectured at major electronic conventions and taught classes at various institutions.He has won multiple awards and honors, and in 2007 he was invited to exhibit at the Rock and Roll Hall of Fame.
+
+
+== Early life ==
+Bob Heil was born in 1940 in Illinois. He resided in Marissa, IL. He became a proficient theater organ musician at a young age, beginning to perform at various local restaurants at the age of 14. At the age of 15, he became house player for the Wurlitzer theater organ in the Fox Theater in St. Louis. During that time he learned how to tune and voice the thousands of pipes in that great Wurlitzer.   It was the platform that taught Heil how to listen - mentally dissect discrete tones which became so important throughout his several careers .In his teens he also became an avid amateur radio operator, and began designing and building homemade transmitters, amplifiers, and antenna systems. His call sign is K9EID.
+
+
+== Career ==
+In his early twenties Heil began designing and building various theater pipe organ installations in the Holiday Inn North restaurant in St. Louis, playing the instruments 6 nights a week. After having played the organ for eight years solid, Heil opened a successful professional music shop in the small town of Marissa, Illinois.In 1966 he founded Heil Sound, experimenting with live sound systems and becoming the technician to several venues around St. Louis, from auditoriums to bowling alleys. Large sound systems at the time were comparatively weak and primitive; in 1965 The Beatles had played New York's Shea Stadium using only a Shure Vocalmaster PA system plugged into the baseball park's announcement system.
+
+
+=== The Grateful Dead concert ===
+On February 2, 1970, jam band the Grateful Dead were scheduled to play a concert at the Fox Theater in St. Louis. For the tour they were using a sound system run and developed by "Bear" Augustus Owsley Stanley III. Owsley, who had a pending drug charge for producing copious amounts of LSD, was under orders not to leave the state of California. Owsley had been arrested on February 1 for leaving the state while at a Grateful Dead show in New Orleans, with police detaining most of the Dead's sound system as well.George Bales, a stage hand at Fox Theater gave Jerry Garcia Heil's phone number, and Heil remembers Garcia calling to say "Hey man, I heard you have a really big PA." Heil had been toying and tinkering with the large speakers that the Fox had replaced months earlier with a new system.  Heil, one of the two organists at the Mighty Wurlitzer in the Fox (dating back to 1956) was given their old speakers which Heil built into his new sound system using the massive Altec Lansing A-4 speaker cabinets. Heil replaced the 15-inch speakers with JBL D140s, and added an array of four radial horns and ring tweeters all driven by McIntosh amplifiers. He has stated "That made a huge difference. It was like a big 'hi-fi' system.  No one was putting radial horns into PA systems; they were just doing speakers in columns, like the Vocalmaster. The horns are what give the system intelligibility — you can actually understand the lyrics." His stack riggings resulted in an unusual frequency range from below 200 Hz to well over 15 kHz.Heil also brought in a modified Langevin studio recording console, uniquely adapted for live work. Heil's friend Tomlinson Holman, then a young student at the University of Illinois, had helped with the rewiring. (Holman would go on to create the THX theater sound protocol.) Heil himself created an electronic crossover in the console to control speaker output. Beyond the PA system that night, Heil also supplied the mixers, saying "My two roadies, Peter Kimble and John Lloyd, knew all the Dead songs — they were big fans. So that night they moved the PA, set it up and mixed the show."Heil also had a unique technique to handle the feedback problems; a small second microphone taped behind each main microphone. He stated, "We would run the microphones out of phase from the monitors, something that nobody had been doing yet. Since they were out of phase with the microphones and the FOH system, anything that leaked in from the monitors would be canceled out. As a result, we could get these things incredibly loud before they would feed back. That's one of the things that Jerry Garcia really loved."The show was a success, and the Grateful Dead asked Heil, his crew, and his sound system to join them on the road. Heil's setup would later become a template for the modern concert touring sound system.
+
+
+=== Major tours ===
+The WhoAfter touring with the Dead, Billboard reported publicly that a small Midwest sound system purveyor had snagged the position. Shortly after the article Heil received a call from the management of The Who. They had been experiencing a bumpy start to their US tour, and Heil brought a more refined and powerful version of his sound system to their shows. He's stated, "We did the Who's Next tour for a year and a half, across the US, to Europe and back here again." The tour created a bond between Heil and Who guitarist Pete Townshend, who commissioned Heil to create the quadraphonic sound system he had envisioned for the live tour after the release of their Quadrophenia LP. According to Heil, "We set up two 15-channel Midas consoles together, put speakers in four corners and we were able to fly Roger's [Daltrey] voice around the room. When we did Madison Square Garden with Quadrophenia, the PA was enormous. I think we had on each side six to eight 15-inch speaker bins, six to eight radial horns, and about a dozen tweeters. We could get about 110dB to 115dB on that stage before feedback. And the Who loved it, man, because it was loud, and they loved loud."Heil toured with multiple other major acts of the 1970s, including Joe Walsh, Peter Frampton, and Jeff Beck.
+
+
+=== Heil Sound ===
+Heil founded Heil Sound which is based in Fairview Heights, Illinois, and manufactures a variety of microphones for professional use as well a variety of gear for Amateur Radio enthusiastss.
+
+Heil Talk Box
+The Heil Talk Box was made famous after being used by Joe Walsh, Peter Frampton, and Richie Sambora. It was the first high-powered Talk Box on the market, which could reliably be used on high-level rock stages. The first Heil Talk Box was built for Joe Walsh's Barnstorm Tour. It was developed in 1973. Heil later sold the rights to Dunlop Manufacturing, Inc. Frampton frequently used a Heil Talk Box after receiving one as a Christmas present from Heil in 1974, and it can be prominently heard on his 1975 album Frampton.
+Amateur radio
+In the late 1970s Heil Sound entered the amateur radio market, with Heil ostensibly working to fix his perception of problems in the industry involving poorly transmitted and received audio. He applied science he had learned from Paul Klipsch, Don Leslie, Martin Wick, and the Bell Labs Fletcher-Munson curves. He developed his HC series microphones, intended for amateur radio communication. Heil Sound was also an early installer of large satellite dishes for radio.
+NetcastIn May 2011, Heil became the host of a live weekly Ham Radio Netcast "Ham Nation" on Leo Laporte's podcasting network, TWiT.
+
+Home theatersIn the late 1980s, Heil Sound entered the home theater movement becoming popular in the United States. His company became one of the first to design and install Custom Home theater systems and nationally, with over 3,000 audio/video systems as of 2010. Heil installed the very first DSS System, which he placed at the St. Louis office of Bob Costas. He was also on the original test team for the RCA DirecTV dish system.
+
+
+== Lectures, publications ==
+Heil has consistently worked as a teacher and lecturer, often appearing at major electronic and satellite conventions. He has taught classes at CES and NAB shows in Las Vegas, Trebas Institute in Toronto and Blackbird Academy in Nashville. He has published five books on music and sound technology.
+
+
+== Awards ==
+Since the 1980s, Heil has won a number of awards and honors. He was the "International Amateur Radio Operator of the Year" in 1982, an award which had been held by Barry Goldwater the year before. He was later awarded the 1989 "USA Satellite Dealer of the Year" by the Satellite Broadcasting and Communications Association in Las Vegas. In 1995, he received the very first "Live Sound Pioneer Award" at the Audio Engineering Society Convention" in San Francisco.Heil won the Parnelli Award for Innovator of the Year in 2007. Also in 2007, he was invited into the Rock and Roll Hall of Fame to put up a display of his historically important gear, which included the first modular mixing console (the Mavis), his custom quadraphonic mixer (originally used in the Quadrophenia tour), and the very first Heil Talk Box. He was the very first manufacturer to be invited into the Hall.  December 20, 2014  Bob Heil was awarded an Honorary Doctoral Degree  in Music and Technology from the University of Missouri.
+
+
+== Personal life ==
+Heil lives with his wife Sarah in Metro-East St. Louis. He has two daughters and one step-son. He continues to play the Wurlitzer Organ at the Fox Theater, and has a classic car collection, chiefly of 50s Thunderbirds. Heil additionally performs his organ music on Lebanon, Tennessee-based international shortwave station WTWW's 100,000 watt 5085 kHz shortwave frequency each Saturday at 8 PM central time (192 kbit/s stereo internet stream also available).
+
+
+== Publishing history ==
+Heil, Bob (1966). Professional Drawbar Tips for the Hammond Organ. Heil.
+Heil, Bob (1978). Practical Guide for Concert Sound. Melco Publishing. OCLC 6239218.
+Heil, Bob (1980). The 10 meter FM handbook. Melco Publishing.
+Heil, Bob (1983). Heil Ham Radio Handbook.
+Heil, Bob (1984). Practical Guide for Concert Sound - Volume 2. Melco Publishing.
+
+
+== See also ==
+Talk box
+Quadraphonic sound
+Amateur radio
+
+
+== References ==
+
+
+== Further reading ==
+"Bob Heil: A Living Sound Legend". Musician's Friend. July 2010.
+Daley, Dan (December 2008). "The Night that Modern Live Sound Was Born: Bob Heil and the Grateful Dead". Archived from the original on 2011-10-05. Retrieved 2011-05-10.
+NAMME Video: Bob Heil Oral History
+Bob Heil interviewed on the TV show Triangulation on the TWiT.tv network
+Bob Heil interviewed on the TV show Home Theatre Geeks on the TWiT.tv networkInterview with Bob Heil at famousinterview.com
+
+
+== External links ==
+Official website

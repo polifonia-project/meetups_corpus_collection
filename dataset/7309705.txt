@@ -1,0 +1,9 @@
+Russell Pinkston (born January 1, 1949) is a professor of composition and the director of the electronic music studios at the University of Texas at Austin School of Music.
+Pinkston is both an active composer and a researcher in the field of computer music. His compositions range from sacred anthems and concert works to computer-generated tape pieces and live electronic interactive music for dance. The primary focus of Pinkston's research has been in developing software and hardware for real-time synthesis and digital signal processing, including substantial work involving the Csound audio programming language, including Csound user interface software, numerous tutorials, and example Csound instruments. Some of this work can be found in The Csound Book.Pinkston studied composition at Dartmouth College, where he was a student of Jon Appleton, and Columbia University, where he earned the Doctor of Musical Arts degree in 1984. His compositions have been played throughout Europe, South America and the United States and has received numerous awards for his compositions, most notably from the American Academy and Institute of Arts and Letters and a Fulbright Fellowship in Composition and Computer Music to Brazil.Pinkston is a founding member and former president of the Society for Electro-Acoustic Music in the United States (SEAMUS), and a former Regional Director for the Americas of the International Computer Music Association (ICMA).
+
+
+== References ==
+
+
+== External links ==
+http://www.music.utexas.edu/directory/details.aspx?id=89, Russell Pinkston's listing in The University of Texas College of Fine Arts Directory

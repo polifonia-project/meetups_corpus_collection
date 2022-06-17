@@ -1,0 +1,19 @@
+Rosa Menkman (born 1983) is a Dutch art theorist, curator, and visual artist specialising in glitch art and resolution theory. She investigates video compression, feedback, and glitches, using her exploration to generate art works.
+Menkman's The Collapse of PAL (2011), in which she acknowledges the end of PAL (Phase Alternating Line)—an analogue video programming structure—is the digital version of a live audio visual performance first performed on national Danish television and afterward realized at oa. Transmediale (Germany) and Nova festival (Brasil).Menkman has curated several international exhibitions of other artists' work. In 2019 Menkman won the Collide International Barcelona Award from CERN.
+
+
+== Glitch art ==
+In 2011, Menkman published Network Notebook #04: The Glitch Moment(um). This book uses information theory to propose an understanding of "glitch art" as a particular genre of contemporary art. She argues that the glitch shifts between being an artifact and a process.She also wrote A Vernacular of File Formats and the Glitch Studies Manifesto in the same year. The manifesto was awarded 'best practice' by Virtueel Platform, then sector institute for e-culture in the Netherlands.The publication of Network Notebook #04: The Glitch Moment(um) coincided with the GLI.TC/H festival, organized by Menkman in collaboration with American artists Nick Briz and Jon Satrom. The first GLI.TC/H festival in 2010 (Chicago) was followed by a second and third edition in 2011 (Chicago, Amsterdam, Birmingham) and 2012 (Chicago). Her work makes use of compression artifacts, resulting from discrete cosine transform blocks (DCT blocks), which are used in most digital media data compression formats, such as JPEG digital images and MP3 digital audio.In 2015, Menkman opened the institutions of Resolution Disputes at Transfer Gallery in New York City (in reference to dispute resolution and display resolution). In October 2015, one of the works in the show, called DCT (referencing discrete cosine transform), was awarded first prize at the Crypto Design Challenge hosted by Museum Of The Image (MOTI) in Breda, the Netherlands.Her Vernacular of File Formats piece has attained "cult status". It was translated to Polish (together with Glitch Studies Manifesto), commented and republished in Glitch Art is Dead in 2016. In 2016 it was acquired by the Stedelijk Museum Amsterdam and MOTI.
+
+
+== See also ==
+Glitch
+List of Glitch Artists
+
+
+== References ==
+
+
+== External links ==
+Official website
+Jason Huff, Artist Profile: Rosa Menkman, rhizome.org

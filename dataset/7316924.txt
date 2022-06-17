@@ -1,0 +1,26 @@
+Salvatore Giovanni Martirano (January 12, 1927 – November 17, 1995) was an American composer of contemporary classical music. Born in Yonkers, New York, he taught for many years at the University of Illinois. He also worked in electronic music and invented electronic musical instruments.
+
+
+== Professional background ==
+Born in Yonkers, New York, Martirano received his undergraduate degree in 1951 from Oberlin College, where he studied composition with Herbert Elwell. A year later he completed his master's degree in composition at the Eastman School of Music, where he studied with Bernard Rogers. He then pursued further studies in Florence, Italy with Luigi Dallapiccola from 1952 through 1954.Martirano worked in Italy from 1956 to 1959, when he was a resident fellow at the American Academy.
+Between 1959 and 1964, Martirano received commissions, awards, and fellowships from the Guggenheim, Ford, Koussevitzky, and Fromm Foundations, as well as from the American Academy of Arts and Letters and Brandeis University.
+In 1963, Martirano joined the Theory and Composition Department at the University of Illinois in Urbana. He served on the faculty until his retirement and death in 1995. Martirano was the second person to live in the 1955 "Garvey House" in Urbana after Garvey, for whom it was designed by notable architect Bruce Goff.
+
+
+=== Music ===
+Many of Martirano's early works incorporate twelve-tone compositional techniques as well as jazz, vernacular, and multimedia idioms. His best-known composition, "L's GA" (Lincoln's Gettysburg Address), was widely performed in the late 1960s and early 1970s. It became associated with the anti-Vietnam War movement.
+
+
+== SAL-MAR Construction ==
+In 1969, Salvatore Martirano, along with a group of engineers and musicians at the University of Illinois, began work on the design and construction of a musical electronic instrument. The instrument, named the SAL-MAR Construction, is a hybrid system in which TTL logical circuits (small and medium scale integration) drive analog modules, such as voltage-controlled oscillators, amplifiers and filters. The performer sits at a horizontal control panel of 291 lightable touch-sensitive switches (no moving parts). The two-state switches are used by a performer to dial sequences of numbers that are characterized by a variety of intervals and lengths. A sequence may bypass, address, or be added to other sequences forming an interlocked tree of control and data according to a performer's choice. The unique characteristic of the switch is that it can be driven both manually and logically, which allows human/machine interaction. The most innovative feature of the human/machine interface is that it allows the user to switch from control of macro to micro parameters of the information output. This is analogous to a zoom lens on a camera.
+
+
+== Legacy and honors ==
+In the year following Martiano's death, a music composition award was established in his name, the Salvatore Martirano Memorial Composition Award, and has been given annually since 1996.
+
+
+== References ==
+
+
+== External links ==
+Salvatore Martirano archive, The Sousa Archives and Center for American Music, University of Illinois

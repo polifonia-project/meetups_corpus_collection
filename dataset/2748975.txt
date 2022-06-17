@@ -1,0 +1,27 @@
+Félix Savart (; French: [savaʁ]; 30 June 1791, Mézières – 16 March 1841, Paris) was a physicist and mathematician who is primarily known for the Biot–Savart law of electromagnetism, which he discovered together with his colleague Jean-Baptiste Biot. His main interest was in acoustics and the study of vibrating bodies. A particular interest in the violin led him to create an experimental trapezoidal model. He gave his name to the savart, a unit of measurement for musical intervals, and to Savart's wheel—a device he used while investigating the range of human hearing.
+
+
+== Biography ==
+He was the son of Gérard Savart, an engineer at the military school of Metz.  His brother, Nicolas, who was a student at the École Polytechnique and an officer in the engineering corps, did work on vibration. At the military hospital at Metz, Savart studied medicine and later he went on to continue his studies at the University of Strasbourg, where he received his medical degree in 1816. Savart became a professor at Collège de France in 1820 and was the co-originator of the Biot–Savart law, along with Jean-Baptiste Biot. Together, they worked on the theory of magnetism and electrical currents. Their law was developed and published in 1820. The Biot–Savart law relates magnetic fields to the currents which are their sources.
+Savart also studied acoustics. He developed the Savart wheel which produces sound at specific graduated frequencies using rotating discs.
+Félix Savart is the namesake of a unit of measurement for musical intervals, the savart, though it was actually invented by Joseph Sauveur (Stigler's law of eponymy).
+
+
+== Works ==
+Mémoire sur la construction des instrumens à cordes et à archet (in French). Paris: Jean-François-Pierre Deterville. 1819.
+
+
+== See also ==
+Fluid thread breakup
+Portevin–Le Chatelier effect
+Velocimetry
+Violin acoustics
+
+
+== References ==
+
+
+== External links ==
+ Media related to Félix Savart at Wikimedia Commons
+O'Connor, John J.; Robertson, Edmund F., "Félix Savart", MacTutor History of Mathematics archive, University of St Andrews
+Logarithmic Interval Measures

@@ -1,0 +1,16 @@
+Deane Jensen was the founder of Jensen Transformers, Inc, and the inventor of the 990 Operational Amplifier. He also developed the COMTRAN circuit analysis software.
+
+
+== Early life ==
+Jensen grew up in Princeton, New Jersey. His father, Arthur S. Jensen, was a physicist who earned his PhD at the University of Pennsylvania in 1941.  He went to Penn as well, majoring in physics and electrical engineering. In 1961, he was chief studio engineer for the student-run radio station, WXPN-FM.
+
+
+== 990 Op Amp ==
+Jensen developed a low-noise, high-performance operational amplifier called the 990 in the late 1970s and was awarded a patent for it September 1, 1981  Following the granting of the patent, Jensen published the circuit so that it could be the basis of further, public development. The circuit has gone on to be popular with both professional equipment manufacturers as well as Hobbyists. It is also pin-compatible with the API 2520, contributing to its popularity. In 2018, the 990 op amp was inducted into the NAMM Hall of Fame.
+
+
+== References ==
+
+
+== External links ==
+Jensen Transformers

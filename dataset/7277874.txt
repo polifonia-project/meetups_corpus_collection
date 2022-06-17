@@ -1,0 +1,47 @@
+Haile (pronounced Hi-lee) is a robot percussionist developed by the Georgia Institute of Technology that listens to music in real time and creates an accompanying beat. The robot was designed in 2006 by Georgia Tech's professor of musical technology, Gil Weinberg. He and one of his graduate students, Scott Driscoll, created the robot to be able to "listen like a human, [and] improvise like a robot" (Weinberg). Haile "listens" through a microphone mounted on the drum and analyzes the sound, separating it into beats, rhythms, pitches and several other qualities. Detecting changes in these qualities helps Haile to assume either a leading or following style of play, roles that define the robot's collaborative abilities. Haile was also the first robot to create an acoustic percussion experience rather than play music through speakers. Its anthropomorphic design, which gives it movable arms that can move in any direction, allow it to create this acoustic music.
+
+
+== Goals and purpose ==
+Driscoll's initial goal for making Haile was to combine the use of auditory input and robotics to create a musical experience that would lead to further human–robot interaction. The final goal was a robot that could translate live music into an acoustic performance that could implement and transcend human capabilities. Haile wasn't designed to replace human musicians, but rather to accompany them with expressive playing.These goals led to Weinberg wanting to create an acoustic musical experience.  His earlier experiments failed to incorporate the visual or auditory aspects associated with acoustic music. Haile's functional drumming arms add musical cues (visually stimulating bouncing drum sticks and live, acoustic sounds) that other robot performances lack. Additionally, other attempts at percussion playing robots, Weinberg saw, were limited in the variety of beats that they could produce. Haile is not only preloaded with individual beats, but is also programmed to identify pitch, rhythm, and patterns, allowing it to improvise and play different beats every time, rather than simply mimic.
+
+
+== Design ==
+Haile's anthropomorphic or human-like design mimics human movements which supports interactive play with other musicians. Its two robotic arms are responsible for creating different sounds; the right arm plays faster notes, while the left arm has larger motions for louder and slower beats. While other robotic drummers at the time were limited to playing only a few locations on the drum, Haile is versatile in its ability to play along a straight line from the rim to the center of the drum.
+
+
+=== Form ===
+Haile's wooden designed was modeled to match the natural feel of a Native American pow wow(Native American gathering), so it was made out of wood rather than metal. The wooden parts were made at the Advanced Wood Product Laboratory at Georgia Tech's College of Architecture using a CNC wood router. It was originally designed to play a pow wow drum, a multiplayer drum that supports Haile's collaborative purpose. However, it also was made with metal joints that give it adjustable height so it can play other drums. These joints are the keys to the robot's arm movement up and down, left and right, and front and back. If needed, they detach, allowing for full disassembly.
+
+
+=== Perception ===
+Haile uses a microphone on the drum which first detected rhythms played by a human in real time. The robot identifies tempo and beats allowing it to play along with the other player. It can also adjust to the human's changes in volume, tempo or beat, allowing it to switch between accompanying and lead playing.
+Weinberg and his team first developed the robot's low-level perception ability, which includes detecting hit onsets, pitch, amplitude, and density. In terms of sound, a hit refers to a distinct change in both volume and sound quality. Once the outside music is captured, the sound is analyzed through a number of instruments, called perception modules, which each detect a certain aspect of the sound:
+
+Pitch - detects hits and changes in frequency and translates them to find pitches
+Beat - processes onsets and determines rhythms and tempo
+Amplitude - recognizes changes in volume to determine when to assume leading or following roles
+Density - detects changes in rhythm complexity at tempo to also help Haile assume leading or following roles
+
+
+=== Arm mechanics ===
+Haile's arms are driven by two separate means. The left arm uses a linear motor which is responsible for larger movements that correspond to louder sounds. The linear motor, along with a linear encoder is used to control the robot's arm height. The larger motions are louder and more visible, but limit the arm to swinging at a top speed of 11 Hz. The right arm, which plays softer and faster notes, is driven by a solenoid, which uses an aluminum stick and return spring capable of hitting the drum at up to 15 Hz. Both arms are capable of hitting anywhere (from the rim to the center) on the drum through the use of a linear slide, which allows each of them completely independent movement in a single direction.
+
+
+== Playing ==
+Haile's system adopts a leader-follower model, using tempo and beat changes to determine who the current leader is. Haile understands when a new leader emerges based on musical changes (tempo, volume, beat, etc.).
+The robot has two modes of play:
+
+As a follower, Haile first analyzes the external music. It then matches and maintains the tempo, allowing the human player to play more complicated rhythms. Haile can also tell when the other player begins to play louder or more quickly, forcing it into the submissive role. When the human beings to play basic rhythms at a steady tempo, the robot takes the lead.
+As a leader, Haile uses rhythms produced earlier by the human and improvises a rhythm with its right arm. The left arm detects and maintains the other player's tempo.
+
+
+== Challenges ==
+Some of the challenges that Weinberg faced with Haile's programming involved being able to distinguish between different, simultaneous sounds. Initially, analysis algorithms were unable to pick out softer and more subtle notes amidst louder sounds. Also, the inability to filter out ambient noise prevented Haile from working properly. After a considerable amount of adjusting, the filters and input hardware were tuned to differentiate between various volumes of music while ignoring interfering noise.As Haile was designed to play in either leading or following roles, early detection algorithms limited the human's ability to lead. The robot was designed to be able to detect changes in the music it heard, but would only respond to changes in tempo. This flaw only allowed the human to lead as long as he or she kept speeding up or slowing down. Weinberg, trying to model human musical interaction, implemented volume and noise density sensors to aid in the robot's ability to define leadership. These additions gave the human longer periods of leadership, giving Haile more opportunity to build upon what it heard.
+
+
+== References ==
+
+
+== External links ==
+CNN article about Haile
+project description at Georgia Tech

@@ -1,0 +1,27 @@
+A mastering engineer is a person skilled in the practice of taking audio (typically musical content) that has been previously mixed in either the analog or digital domain as mono, stereo, or multichannel formats and preparing it for use in distribution, whether by physical media such as a CD, vinyl record, or as some method of streaming audio.
+
+
+== Education and experience ==
+The mastering engineer is responsible for a final edit of a product and preparation for manufacturing copies. Although there are no official requirements to work as an audio mastering engineer, practitioners often have comprehensive domain knowledge of audio engineering, and in many cases, may hold an audio or acoustic engineering degree. Most audio engineers master music or speech audio material. The best mastering engineers might possess arrangement and production skills, allowing them to 'trouble-shoot' mix issues and improve the final sound. Generally, good mastering skills are based on experience, resulting from many years of practice.
+
+
+== Equipment ==
+Generally, mastering engineers use a combination of specialized audio-signal processors, low-distortion-high-bandwidth loudspeakers (and corresponding amplifiers with which to drive them), within a dedicated, acoustically-optimized playback environment. The equipment and processors used within the field of mastering are almost entirely dedicated to the purpose; engineered to a high-standard, often possessing low signal-to-noise ratios [at nominal operating levels] and in many cases, the incorporation of parameter-recall, such as indented potentiometers, or in some more-sophisticated designs, via a digital-controller. Some advocates for digital software claim that plug-ins are capable of processing audio in a mastering context, though without the same degree of signal degradation as those introduced from processors within the analogue domain. The quality of the results varies according to the algorithms used within these processors, which in some cases, can introduce distortions entirely exclusive to the digital-domain.
+Frequency spectrum analyzers, phase oscilloscopes, and also peak, RMS, VU and 'K' meters are frequently used within the audio analysis stage of the process as a means of rendering a visual representation of the audio, or signal, being analysed.
+
+
+== Aspects of their work ==
+Most mastering engineer accolades are given for their ability to make a mix consistent with respect to subjective factors based on the perception of listeners, regardless of their playback systems and the environment. This is a difficult task due to the varieties of systems now available and the effect it has on the apparent qualitative attributes of the recording. For instance, a recording that sounds great on one speaker/amplifier combination playing CD audio, may sound drastically different on a computer-based system playing back a low-bitrate MP3. Some engineers maintain that the main mastering engineer's task is to improve upon playback systems translations while the position of others is to make a sonic impact.Prolonged periods of listening to improperly mastered recordings usually leads to hearing fatigue that ultimately takes the pleasure out of the listening experience.A professional mastering engineer renders mixes that have a good harmonic balance. Harmonic balancing can be accomplished by correcting and removing tonal imbalances. Once corrected or removed, the audio will be much more pleasurable for listening. This is a fundamental aspect to a mastering engineer's job and the reason why many consider mastering to be a form of art as well as an "audio engineering" discipline.
+
+
+== See also ==
+
+Audio mastering
+Remaster
+Grammy Award for Best Surround Sound Album
+PMCD
+Real Time Analyzer
+Loudness war
+
+
+== References ==

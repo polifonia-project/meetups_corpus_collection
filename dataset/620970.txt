@@ -1,0 +1,66 @@
+Kaija Anneli Saariaho (Finnish: [ˈkɑi̯jɑ ˈsɑːriɑho]; née Laakkonen; born 14 October 1952) is a Finnish composer based in Paris, France. During the course of her career, Saariaho has received commissions from the Lincoln Center for the Kronos Quartet and from IRCAM for the Ensemble Intercontemporain, the BBC, the New York Philharmonic, the Salzburg Music Festival, the Théâtre du Châtelet in Paris, and the Finnish National Opera, among others. In a 2019 composers' poll by BBC Music Magazine, Saariaho was ranked the greatest living composer.Saariaho studied composition in Helsinki, Freiburg, and Paris, where she has lived since 1982. Her research at the Institute for Research and Coordination in Acoustics/Music (IRCAM) marked a turning point in her music away from strict serialism towards spectralism. Her characteristically rich, polyphonic textures are often created by combining live music and electronics.
+
+
+== Life and work ==
+Saariaho was born in Helsinki, Finland. She studied at the Sibelius Academy under Paavo Heininen. After attending the Darmstadt Summer Courses, she moved to Germany to study at the Hochschule für Musik Freiburg under Brian Ferneyhough and Klaus Huber. She found her teachers' emphasis on strict serialism and mathematical structures stifling, saying in an interview:
+
+You were not allowed to have pulse, or tonally oriented harmonies, or melodies. I don't want to write music through negations. Everything is permissible as long as it's done in good taste.
+In 1980, Saariaho went to the Darmstadt Summer Courses and attended a concert of the French spectralists Tristan Murail and Gerard Grisey. Hearing spectral music for the first time marked a profound shift in Saariaho's artistic direction. These experiences guided her decision to attend courses in computer music that were being given by IRCAM, the computer music research institute in Paris, by David Wessel, Jean-Baptiste Barrière, and Marc Battier.
+In 1982, she began work at IRCAM researching computer analyses of the sound-spectrum of individual notes produced by different instruments. She developed techniques for computer-assisted composition, experimented with musique concrète, and wrote her first pieces combining live performance with electronics. She also composed new works using IRCAM's CHANT synthesiser. Each of her Jardin Secret trilogy was created with the use of computer programs. Jardin secret I (1985), Jardin secret II (1986), and Nymphea (Jardin secret III) (1987). Her works with electronics were developed in collaboration with Jean-Baptiste Barrière, a composer, multimedia artist, and computer scientist who directed the IRCAM's department of musical research from 1984 to 1987. Saariaho and Barrière married in 1984. They have two children.In Paris, Saariaho developed an emphasis on slow transformations of dense masses of sound. Her first tape piece, Vers Le Blanc from 1982, and her orchestral and tape work, Verblendungen, are both constructed from a single transition: in Vers Le Blanc the transition is from one pitch cluster to another, while in Verblendungen, it is from loud to quiet. Verblendungen also uses a pair of visual ideas as its basis: a brush stroke which starts as a dense mark on the page and thins out into individual strands, and the word Verblendungen itself, which means "dazzlements, delusions, blindedness".Her work in the 1980s and 1990s was marked by an emphasis on timbre and the use of electronics alongside traditional instruments. Nymphéa (Jardin secret III) (1987), for example, is for string quartet and live electronics and contains an additional vocal element: the musicians whisper the words of an Arseny Tarkovsky poem, Now Summer is Gone. In writing Nymphea, Saariaho used a fractal generator to create material. Writing about the compositional process, Saariaho said:
+
+In preparing the musical material of the piece, I have used the computer in several ways. The basis of the entire harmonic structure is provided by complex cello sounds that I have analysed with the computer. The basic material for the rhythmic and melodic transformations are computer-calculated in which the musical motifs gradually convert, recurring again and again.
+Saariaho has often talked about having a kind of synaesthesia, one that involves all of the senses, saying:
+
+... the visual and the musical world are one to me ... Different senses, shades of colour, or textures and tones of light, even fragrances and sounds blend in my mind. They form a complete world in itself.
+Another example is Six Japanese Gardens (1994), a percussion piece accompanied by a prerecorded electronic layer of the Japanese nature, traditional instruments, and chanting of Buddhist monks. During her visit to Tokyo in 1993, she expanded her original percussion conception into a semi-indeterminate piece. It consists of six movements that each represent a garden composed of traditional Japanese architecture, by which she was inspired rhythmically. Especially in movement IV and V, she explored many possibilities of complex polyrhythm in liberated instrumentation. She said:
+
+... I felt a connection between architecture and music: both art forms select and introduce materials, let them grow, give them form, prepare new contrasting elements, create different relations between the materials.
+In her book on Saariaho, musicologist Pirkko Moisala writes about the indeterminate nature of this composition:
+
+[Kaija said:] 'There are so many kinds of percussion instruments which I do not know. I thought that it would be most interesting to see how the musicians choose their instruments in certain passages.' the identity and character of the composition remains the same even when the instruments are changed; each musical idea requires certain kinds of sound color but not a particular instrument.
+On 1 December 2016, the Metropolitan Opera gave its first performance of L'Amour de loin, the second opera by a female composer ever to be presented by the company (the first was performed more than a century earlier, in 1903). The subsequent transmission of the opera to cinema on 10 December 2016 as part of the Metropolitan Opera Live in HD series marked the first opera by a female composer, and the first opera conducted by a female conductor (Susanna Mälkki), in the series. In 2002 the Santa Fe Opera presented L’Amour de Loin. In 2008, the Santa Fe Opera also presented her opera Adriana Mater.
+
+
+== Awards and honours ==
+1986 – Kranichsteiner Prize at Darmstädter Ferienkurse
+1988 – Prix Italia for Stilleben
+1989 – Prix Ars Electronica for Stilleben and Io; one-year residency at the University of San Diego
+2000 – Nordic Council Music Prize for Lonh
+2003 – Doctor of Philosophy honoris causa by the Faculty of Arts, University of Turku
+2003 – Doctor of Philosophy honoris causa by the Faculty of Arts, University of Helsinki
+2003 – University of Louisville Grawemeyer Award for L'Amour de loin
+2008 – Musical America "Musician of the Year 2008"
+2009 – Wihuri Sibelius Prize
+2010 – invited by Walter Fink to be the 20th composer featured in the annual Komponistenporträt of the Rheingau Musik Festival; the second female composer after Sofia Gubaidulina.
+2011 – Léonie Sonning Music Prize
+2011 – Grammy Award for Best Opera Recording (L'amour de loin)
+2013 – Polar Music Prize
+2017 – BBVA Foundation Frontiers of Knowledge Award in Contemporary Music
+2021 – Leone d'oro di Venezia, Biennale della Musica Contemporanea
+
+
+== Selected works ==
+
+
+== Selected recordings ==
+Graal Théâtre – Gidon Kremer; BBC Symphony Orchestra; Esa-Pekka Salonen – Sony SK60817
+L'Amour de loin – Gerald Finley; Dawn Upshaw; Finnish National Opera; Esa-Pekka Salonen – Deutsche Grammophon DVD 00440 073 40264
+Nymphéa – Cikada String Quartet – ECM New Series 472 4222
+
+
+== References ==
+
+
+== External links ==
+Kaija Saariaho's homepage
+Saariaho, Kaija (1952–) at National Biography of Finland
+Chester Music Composer's homepage
+CompositionToday – Saariaho article and review of works
+Kaija Saariaho – Virtual International Philharmonic
+2003 – Kaija Saariaho. Grawemeyer Foundation page on Kaija Saariaho.
+2003 honorary degree recipients at University of Turku
+English language biography of Jean-Baptiste Barrière
+Iitti, Sanna: "Kaija Saariaho: Stylistic Development and Artistic Principles." International Alliance for Women in Music Journal, 2001.
+"Kaija Saariaho biography" (in French). IRCAM.Seter, Ronit: Saariaho's L'amour de loin: First Woman Composer in a Century at the Metropolitan Opera. Musicology Now (American Musicological Society's blog), 15 June 2016.
+Seter, Roni: Getting Close with Saariaho and L'amour de loin. NewMusicBox, 2 December 2016.
+Fiilin, Teemu: Kaija Saariaho voted greatest living composer by BBC Music Magazine. Music Finland, 13 November 2019.

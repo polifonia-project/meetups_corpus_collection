@@ -1,0 +1,28 @@
+Megurine Luka (巡音ルカ) is a persona voiced by a singing synthesizer application developed by Crypton Future Media, headquartered in Sapporo, Japan. She uses Yamaha Corporation's Vocaloid 2 and Vocaloid 4 singing synthesizing technology. Her voice is sampled from Yū Asakawa. She has performed alongside other Vocaloids at live concerts onstage as an animated hologram projection.
+
+
+== Development ==
+Luka was developed by Crypton Future Media using Yamaha's Vocaloid 2. Her voice was created by taking vocal samples from voice actress Yū Asakawa at a controlled pitch and tone.
+Megurine Luka was the first Vocaloid designed to fully support producing vocals in both Japanese and English, and the first addition to the Character Vocal Series software line characterized as an adult.
+
+
+=== Additional software ===
+She originally was going to receive an update called "Megurine Luka Append" developed for Vocaloid 2. Luka's Append vocal was used on the album Vocaloid Minzoku Chō Kyokushū (VOCALOID民族調曲集) for the song "Hoshizora to Yuki no Butōkai (Zeal mix)".  The promotional album Vocalo Append used a beta of Luka's "Soft" Append. The vocals were announced to have been dropped in favor of Vocaloid 3 productions on December 1, 2011.  Once again the Vocaloid 3 update did not occur.  During the brief period her V3 website was up, the listed vocals being created for her were; Japanese/Power/Soft/Cute/Whisper/Closed/English.On March 19, 2015, a new version of Luka developed for Vocaloid 4, called Megurine Luka V4X, was released containing a package of 6 vocals - 4 for Japanese and 2 for English.  The Japanese vocals were "Hard", "Soft", "Hard EVEC" and "Soft EVEC" while the English vocals were titled "Straight" and "Soft".  Japanese vocals "HARD EVEC" and "Soft EVEC" utilized the new "E.V.E.C." (Enhanced Voice Expression Control) system for Piapro studio allowed delicate adjustments of phonetic sounds to change how a sound played.  The EVEC "Colours" for Luka are; "Power 1", "Power 2", "Native", "Whisper", "Dark", "Husky", "Soft", "Falsetto" and "Cute".  All 4 Japanese vocals could use the new "Cross-Synthesis" ("XSY") system for Vocaloid4 together, while the 2 English ones could be cross-synthesized also with each other.
+
+
+== Marketing ==
+Despite the inclusion of English, Megurine Luka was not aimed at a worldwide audience, instead focused primarily at Japanese producers. In 2010, Luka was ranked as the 3rd most popular Vocaloid product Crypton has sold. In October 2013, Luka's Vocaloid 2 software disappeared off the top 10 products charts as the Hatsune Miku V3 and its bundle package disrupted the chart rankings.  Luka had already fallen to 6th place during the 2013 period as a result of the KAITO V3 release, but this was the first time Luka had disappeared from the charts. After the charts began to settle down again, Luka began to occupy the same spot on the charts that the Vocaloid 1 KAITO package previously occupied (6th-8th place), putting the popularity of the product on par with the older product. After the MEIKO V3 release, Luka became the only member of the Vocaloid 2 Character Vocal Series vocals to have a product on the charts, leaving her in 5th place. However, Vocaloid 2 vocals were mostly absent from the rankings in April 2014. By mid-2014, both she and the Vocaloid 2 Kagamine Rin\Len package no longer held constant places in the rankings and were constantly on and off Crypton Future Media sales charts. In March 2015, the Megurine Luka V4x package got the no.1 spot for the sales of all digital instruments on Big Fish Audio.
+
+
+== Characteristics ==
+According to KEI, who was asked to illustrate her by Crypton, due to her bilingual software her design was made to be asymmetrical, so from different angles she would look different. Unlike previous mascots in the series, her costume is not based on a school uniform. She is based on the Yamaha VL1. Her dress was designed to look old fashioned, to make her represent the past, as a form of contrast, the "∞" on her neck area represents "sound around".
+Her design incorporates woodwind and brass instruments. The gold curl design on her chest mimics brass instruments and a circulatory organ. The blue jewel near her throat represents moisture in the air and water drops.
+
+
+== References ==
+
+ This article contains excerpts from Megurine Luka at Vocaloid Wiki, which is available under a Creative Commons Attribution-Share Alike 3.0 (Unported) license.
+
+
+== External links ==
+Official website (in Japanese)

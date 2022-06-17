@@ -1,0 +1,19 @@
+John Rahn is a music theorist, composer, bassoonist, and Professor of Music at the University of Washington School of Music, Seattle. A former student of Milton Babbitt and Benjamin Boretz, he was editor of Perspectives of New Music from 1983 to 1993 and since 2001 has been co-editor with Benjamin Boretz and Robert Morris.
+
+
+== Forte number and prime form ==
+There are three methods of computing Forte number and prime form. Allen Forte published the first in his book "The Structure of Atonal Music" (1973). The second was introduced in Rahn's Basic Atonal Theory and used in Joseph N. Straus's Introduction to Post-Tonal Theory, where it was declared that the two algorithms only differed in five cases: 5-20, 6-Z29, 6-31, 7-20, and 8-26. 
+Forte (1973) and Rahn (1980) both list the prime forms of a set as the most left-packed possible version of the set. Forte packs from the left and Rahn packs from the right ("making the small numbers smaller" versus making "the larger numbers smaller"). Programmers tend to prefer Rahn's method.
+
+
+== Bibliography ==
+Rahn, John (1980). Basic Atonal Theory. New York and London: Longman, Inc. ISBN 9780028731605.
+Rahn, John (2000). Music Inside Out: Going Too Far in Musical Essays. intro. and comment. by Benjamin Boretz. Amsterdam: G+B Arts International. p. 177. ISBN 90-5701-332-0. OCLC 154331400.
+Rahn, John (1989, "New Research Paradigms", Music Theory Spectrum, xi/1), 84-94.
+
+
+== References ==
+
+
+== External links ==
+"John Rahn's home page ", Faculty.Washington.Edu.

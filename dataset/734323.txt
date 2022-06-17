@@ -1,0 +1,97 @@
+David Cope (born May 17, 1941 in San Francisco, California) is an American author, composer, scientist, and former professor of music at the University of California, Santa Cruz (UCSC). His primary area of research involves artificial intelligence and music; he writes programs and algorithms that can analyse existing music and create new compositions in the style of the original input music. He taught a summer workshop in algorithmic computer music that was open to the public (but not free) as well as a general education course entitled Artificial Intelligence and Music for enrolled UCSC students. Cope is also co-founder and CTO Emeritus of Recombinant Inc., a music technology company.
+
+
+== Inventions ==
+Cope is the inventor of US Patent #7696426 "Recombinant music composition algorithm and method of using the same".
+
+
+== Composition ==
+His EMI (Experiments in Musical Intelligence) software has produced works in the style of various composers, some of which have been commercially recorded—ranging from short pieces to full length operas.His subsequent Emily Howell program models musical creativity based on the types of creativity outlined by Margaret Boden in her book The Creative Mind: Myths and Mechanisms.As a composer, Cope's own work has encompassed a variety of styles—from the traditional to the avant-garde—and techniques, such as unconventional manners of playing, experimental musical instrument, and microtonal scales, including a 33-note system of just intonation he developed himself. Most recently, all of his original compositions have been written in collaboration with the computer—based on an input of his earlier works. He seeks a synergy between composer creativity and computer algorithm as his principal creative direction.
+
+
+== Bibliography ==
+Cope has published a wide range of books, which are often used as textbooks. New Directions in Music, first published in 1971, is currently in its 7th edition and is the standard text for contemporary music. In 2009, Cope was interviewed by the media in anticipation of the release of a CD containing music composed collaboratively by Cope and Emily Howell, a computer program.Cope has also published a series of detective novels under a pseudonym.
+
+
+=== Books ===
+Cope, David (1991). Computers and Musical Style. Madison, Wisconsin: A-R Editions.
+—— (1996). Experiments in Musical Intelligence. Madison, Wisconsin: A-R Editions.
+—— (1997). Techniques of the Contemporary Composer. New York City: Schirmer Books. ISBN 0-02-864737-8.
+—— (2000). New Directions in Music, 7th ed. Prospect Heights, Illinois: Waveland Press. ISBN 1-57766-108-7.
+—— (2000). The Algorithmic Composer. Madison, Wisconsin: A-R Editions.
+—— (2001). Virtual Music: Computer Synthesis of Musical Style. Cambridge, Massachusetts: The MIT Press. ISBN 0-262-53261-1.
+—— (2006). Computer Models of Musical Creativity. Cambridge, Massachusetts: MIT Press.
+—— (2008). Hidden Structure: Music Analysis Using Computers. Madison, Wisconsin: A-R Editions. ISBN 978-0-89579-640-0.
+—— (2012). A Musicianship Primer San Francisco. Epoc Books. ISBN 978-1-4776-8786-4.
+
+
+=== Chapters ===
+1992. "A Computer Model of Music Composition." In Machine Models of Music, Stephan Schwanauer and David Levitt, eds.: MIT Press.
+1992. "On the Algorithmic Representation of Musical Style." In Musical Intelligence, M. Balaban, K. Ebcioglu, and O. Laske, eds. : AAAI Press.
+1998. "Signatures and Earmarks: Computer Recognition of Patterns in Music." In Melodic Similarity, Concepts, Procedures, and Applications. Walter B. Hewlett and Eleanor Selfridge-Field (eds.). Cambridge, Massachusetts: MIT Press.
+
+
+=== Articles ===
+1987. "Experiments in Music Intelligence." In Proceedings of the International Computer Music Conference, San Francisco: Computer Music Association.
+1987. "An Expert System for Computer-Assisted Music Composition." Computer Music Journal 11,4 (Winter): 30–46.
+1988. "Music and LISP." AI Expert 3,3 (March): 26–34.
+1988. "Music: The Universal Language." In Proceedings of the First Workshop on AI and Music. Minneapolis/St. Paul, Minnesota: AAAI: 87–98.
+1989. "Experiments in Musical Intelligence (EMI): Non-Linear Linguistic-based Composition." Interface, vol. 18: 117–139.
+1990. "Pattern Matching as an Engine for the Computer Simulation of Musical Style." In Proceedings of the 1990 ICMC. San Fran Computer Music Association
+1991. "Recombinant Music." COMPUTER. (July).
+1991. "Computer Simulations of Musical Style." Computers in Music Research, The Queens University of Belfast, 7–10 (April): 15–17.
+1992. "Computer Modeling of Musical Intelligence in Experiments in Musical Intelligence." Computer Music Journal 16,2 (Summer): 69–83.
+1993. "Virtual Music." Electronic Musician, 9:5 (May): 80–85.
+1996. "Mimesis du style et de la structure musicale." Symposium on Composition, Modelisation et Ordinateur. IRCAM, Paris: 21–23.
+1997. "Composer's Underscoring Environment." In Proceedings of the International Computer Music Conference. San Fran: Computer Music Association.
+1997. "The Composer's Underscoring Environment: CUE." Computer Music Journal 21/3 (Fall).
+1999. "One Approach to Musical Intelligence." IEEE Intelligent Systems. Los Alamitos, California: IEEE Computer Society (14/3, May/June).
+2000. "Facing the Music: Perspectives on Machine Composed Music." Leonardo Music Journal 9: 79–87.
+2002. "Computer Analysis and Composition Using Atonal Voice-Leading Techniques." Perspectives of New Music 40/1 (Winter): 121–146.
+2003. "Computer Analysis of Musical Allusions." Computer Music Journal 27/1: 11–28.
+2004. " A Musical Learning Algorithm." Computer Music Journal 28/3: 12–27.
+2006. "The Vivaldi Code" Wired, issue 14. September 9, 2006.
+
+
+== Discography ==
+1993. Bach by Design. Centaur Records. CRC 2184
+1997. Classical Music Composed by Computer. Centaur Records. CRC 2329
+1997. Virtual Mozart. Centaur Records. CRC 2452
+1999. Towers. Vienna Modern Masters. VMM 2024
+2003. Virtual Bach. Centaur Records. CRC 2619
+2009. From Darkness, Light (Emily Howell). Centaur Records. CRC 3023
+2011. Symphony No. 4. Epoc. B008J5IK78
+2012. Symphony No. 5. Epoc. B008J5IFD2
+2012. Symphony No. 9 "(Martin Luther King, Jr.)" Epoc. B008J5IGCW
+2012. String Quartets 5 and 6. Epoc. B008O9RZTS
+2012. Violin Concerto/Viola Concerto. Epoc. B008J5IGRC
+2012. Cello Concerto/Octet for Strings. Epoc. B008K8VJM2
+2012. Piano Concerto/Re-Birth/Transcendence. Epoc. B008PYPDUK
+
+
+== See also ==
+Algorithmic composition
+Computer-generated music
+List of music software
+
+
+== References ==
+
+Sources
+
+Cockrell, Dale. 2001. "Cope, David (Howell)". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan Publishers.
+Cope, David. n.d. "Bibliography: Books, Articles, and CDs". David Cope's UCSC webpage; accessed March 26, 2015
+
+
+== Further reading ==
+Ball, Philip. 2012. "Iamus, Classical Music's Computer Composer, Live from Malaga", The Guardian (July 1, 2014); accessed August 5, 2014.
+Deliège, Irene (2006). Musical Creativity: Multidisciplinary Research in Theory and Practice. Psychology Press. ISBN 978-1-84169-508-2.
+
+
+== External links ==
+music.ucsc.edu – Faculty: David Cope
+David Cope discography at Discogs 
+David Cope profile
+Recombinant Inc website
+Ryan Blitstein. Triumph of the Cyborg Composer, Pacific Standard
+"Musical DNA" segment from NPR Radiolab program, September 25, 2007

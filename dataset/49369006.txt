@@ -1,0 +1,38 @@
+Joshua Reiss is a British author, academic, inventor and entrepreneur.  He is best known for his work in intelligent audio technologies and his co-authorship of the book Audio Effects Theory Implementation and Application.
+
+
+== Biography ==
+
+
+=== Early life ===
+Joshua Reiss is the son of Judith and Christopher Reiss.  His father authored "The Education of Traveling Children", published in 1975.Joshua Reiss grew up in south Florida and Georgia and attended the Georgia Institute of Technology, specializing in Chaos Theory.  Concurrently, Reiss served as a DJ for Georgia Tech campus radio station, WREK, in Atlanta, Georgia.
+
+
+=== Research and Authorship ===
+Reiss has published over 200 scientific papers that have been widely cited, and authored the book "Audio Effects Theory Implementation and Application" together with Andrew McPherson, published by CRC Press and the book "Intelligent Music Production" together with Brecht De Man and Ryan Stables, published by Routledge.His primary focus of research is on state-of-the-art signal processing techniques for sound engineering. This research draws from his prior research in music retrieval systems, time scaling and pitch shifting techniques, polyphonic music transcription, loudspeaker design, automatic mixing for live sound and digital audio processing.
+Since 2007, Reiss has led a team at the Queen Mary University of London, Centre for Digital Music, that pioneers research into intelligent audio production technologies. These systems incorporate common practices in audio engineering and in-depth research of human sound perception to automate elements of the audio and music production process.
+Scientific breakthroughs from Reiss' team include the development of automated multitrack signal processing, concerned with how best to mix a collection of individual sources in order to achieve a combined signal with preferred characteristics, together with advances in psychoacoustics, and an emphasis on understanding human perception of complex sound mixtures.  It is based on advanced auditory models and extensive listening tests. Perceptual audio evaluation by independent groups of researchers have shown that mixes devised by such intelligent systems perform to a high standard and are often preferred over manual mixes.Past members of his research team include Enrique Perez Gonzalez, CTO of SSL, and Stuart Mansbridge, Chief Music Technology Officer at LANDR.
+
+
+=== Academia ===
+Reiss holds degrees in Physics and Mathematics, and a PhD in Chaos Theory. He has been an academic with the Centre for Digital Music in the Electronic Engineering and Computer Science department at Queen Mary University of London since 2003, holding the position of Reader in Audio Engineering, and Visiting Professor at Birmingham City University.
+Reiss is an Enterprise Fellow of the Royal Academy of Engineering and has been a governor of the Audio Engineering Society from 2013 to present.
+
+
+=== Entrepreneurship ===
+Based on the breakthroughs of his research team in intelligent music production systems, Reiss co-founded the company MixGenius in 2012.  MixGenius was later renamed LandR and Reiss served as a Board member and Strategic Advisor from 2012 through 2014.  LandR has received over $10 million in four rounds of venture capital funding, and its online automatic mastering service has mastered over 1.4 million music tracks.  Reiss also cofounded Tonz, based on his team’s deep learning of audio effects, and Nemisindo, who deliver procedural audio and sound design services.Reiss is a Fellow of TandemLaunch, a seed investor and incubator for consumer electronics innovation. He was a consultant on the design of the dynamic range compressor used in Ableton Live, and equalizer design for Antelope Audio. He collaborated on the development and evaluation of Calrec’s assistive mixing applications, Calrec Assist. His research has also been licensed to Lickworx, Fraunhofer and Yamaha.
+
+
+== Media coverage, Awards and Distinctions ==
+Reiss has gained worldwide news coverage for his research on acoustic feedback prevention and automatic mixing and has appeared in features in New Scientist, The Engineer, The Guardian, AV Magazine, Audio!, ProSoundNews, La Presse, BBC Radio 4, BBC World Service, Channel Four, Radio Deutsche Welle, LBC and ITN, Telegraph podcast and AES podcast.In July 2020, he was elected as President-Elect of the Audio Engineering Society, serving as AES President, January to December 2022.Awards received by Reiss include:
+
+2009  Audio Engineering Society(AES) Board of Governors Award
+2010 Audio Engineering Society(AES) Board of Governors Award
+
+
+== References ==
+
+
+== External links ==
+Centre for Digital Music: Audio Engineering
+IntelligentSoundEng Youtube Channel

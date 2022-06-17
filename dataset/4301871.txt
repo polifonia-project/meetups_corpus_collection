@@ -1,0 +1,52 @@
+David Benjamin Lewin (July 2, 1933 – May 5, 2003) was an American music theorist, music critic and composer. Called "the most original and far-ranging theorist of his generation", he did his most influential theoretical work on the development of transformational theory, which involves the application of mathematical group theory to music.
+
+
+== Biography ==
+Lewin was born in New York City and studied piano from a young age and was for a time a pupil of Eduard Steuermann. He graduated from Harvard in 1954 with a degree in mathematics. Lewin then studied theory and composition with Roger Sessions, Milton Babbitt, Edward T. Cone, and Earl Kim at Princeton University, earning an M.F.A. in 1958. He returned to Harvard as a Junior Fellow in the Harvard Society of Fellows from 1958 to 1961. After holding teaching positions at the University of California, Berkeley (1961–67), the State University of New York at Stony Brook (1967–79), and Yale University (1979–85), he returned to Harvard as the Walter W. Naumburg Professor of Music in 1985. Lewin was a Guggenheim Foundation Fellowship grantee in 1983–84, served as the president of the Society for Music Theory from 1985 to 1988 and was a member of the American Academy of Arts and Sciences. He received honorary doctoral degrees from the University of Chicago in 1995, from the New England Conservatory of Music in 2000, and posthumously from Université Marc Bloch de Strasbourg, France, in 2006.
+
+
+== Composition ==
+While Lewin is primarily known as a theorist, he was also an active composer who wrote works for a wide range of forces, from solo voice to full orchestra. In 1961, he became the first professional musician to compose a computer-generated piece at Bell Laboratories.
+
+
+== Criticism ==
+Lewin's theoretical work may best be understood against his background in 1950/60s avant-garde compositional circles on the North American East Coast. Most of those composers, such as Benjamin Boretz, Edward T. Cone, and Milton Babbitt, were also music critics and theorists/analysts. During the late 1970s, Lewin's work in this area became more explicitly concerned with issues in literary theory; he published articles in 19th-Century Music. Studies in Music with Text, published posthumously, demonstrates Lewin's concerns in this area while also synthesizing his critical/theoretical methods.
+
+
+== Theory ==
+David Lewin's work in music theory was both influential and eclectic. Broadly, his writings can be divided into three overlapping groups: formal or mathematically based theory, more interpretive writing on the interaction of music and text, and metatheoretical discussions on the methodology and purpose of contemporary music theory.The first group includes his innovations in transformational theory, as expressed in numerous articles and in his treatise Generalized Musical Intervals and Transformations. In this work, Lewin applied group theory to music, investigating the basic concepts, interval and transposition, and extending them beyond their traditional application to pitch. Based on a powerful metaphor of musical space, this theory can be applied to pitch, rhythm and metre, or even timbre. Moreover, it can be applied to both tonal and atonal repertories.Lewin's writing on the relationship between text and music in song and opera involves composers from Mozart and Wagner, to Schoenberg and Babbitt. In one interesting example, "Music Analysis as Stage Direction", he discusses how structural aspects of the music can suggest dramatic interpretations.
+Important writings for the discipline of music theory include "Behind the Beyond" (1968–69), a response to Edward T. Cone, and "Music Theory, Phenomenology, and Modes of Perception" (1986). Lewin also undertakes considerable methodological and disciplinary reflection in writings that are chiefly oriented around other claims. This aspect of Lewin's intellectual style is evident as early as "A Theory of Segmental Association in Twelve-Tone Music" (1962).
+Lewin often makes clear which dense sections can be skipped by readers unfamiliar with mathematics, and connects his abstract theory to practical musical considerations, such as performance and music perception. For example, in Musical Form and Transformation: Four Analytic Essays, Lewin provides ear-training exercises to develop an ability to hear more difficult musical relationships. Posthumously, in 2003, a symposium on David Lewin's theories was conducted at the Mannes Institute for Advanced Studies in Music Theory. Lewin's papers are now held at the Library of Congress.
+
+
+== Publications ==
+
+
+== See also ==
+Transformational theory
+
+
+== References ==
+
+Sources
+
+Cohn, Richard (2001). "Lewin, David".  In Sadie, Stanley; Tyrrell, John (eds.). The New Grove Dictionary of Music and Musicians (2nd ed.). London: Macmillan. ISBN 9780195170672.
+Lewin, David (1986). "Music Theory, Phenomenology, and Modes of Perception". Music Perception. 3: 327–392. doi:10.2307/40285344. JSTOR 40285344.
+Lewin, David (1991). "Some Problems and Resources of Music Theory". Journal of Music Theory Pedagogy. 5 (2): 111–132.
+Rings, Steven (2011). Tonality and Transformation. New York: Oxford University Press.
+
+
+== Further reading ==
+Bard-Schwartz, David, and Richard Cohn (eds.). 2015. David Lewin's "Morgengruß": Text, Context, Commentary. Oxford and New York: Oxford University Press. ISBN 978-0-19-984478-4.
+Cohn, Richard. "David Lewin", Grove Music Online, edited by Laura Macy (Accessed March 6, 2006).
+Gewertz, Ken. 15 May 2003. "Composer, Music Theorist, David Lewin Dies at 69". The Harvard Gazette.
+Klumpenhouwer, Henry. 2006. "In Order to Stay Asleep as Observers: The Nature and Origins of Anti-Cartesianism in Lewin's Generalized Musical Intervals and Transformations". Music Theory Spectrum 28, no. 2:277–289
+Nolan, Catherine. 2002. "Music Theory and Mathematics". In The Cambridge History of Western Music Theory, edited by Thomas Christensen, 272–304. Cambridge: Cambridge University Press.
+Quinn, Ian. 2004. A Unified Theory of Chord Qualities in Equal Temperament. Ph. D. diss. Rochester: Eastman School of Music, University of Rochester.
+Rothstein, Edward. 28 June 2003. "A Seeker of Music's Poetry in the Mathematical Realm," The New York Times.
+Satyendra, Ramon. 2004. "An Informal Introduction to Some Formal Concepts from Lewin's Transformational Theory." Journal of Music Theory 48, no. 1:99–141
+
+
+== External links ==
+Obituary and Faculty Memorial, The Harvard Gazette
+David Lewin papers, 1945–2011, Music Division, Library of Congress

@@ -1,0 +1,187 @@
+# Errors downloading files from Wikipedia
+# Biographies available in the end: 33309
+Already downloaded: 33309
+Total query: 33399
+Remaining 90
+976286
+Page id "976286" does not match any pages. Try another id!
+1072749
+'WikipediaPage' object has no attribute 'title'
+1348877
+'WikipediaPage' object has no attribute 'title'
+1420381
+'WikipediaPage' object has no attribute 'title'
+1905774
+'WikipediaPage' object has no attribute 'title'
+1945375
+'WikipediaPage' object has no attribute 'title'
+2064840
+'WikipediaPage' object has no attribute 'title'
+2089754
+'WikipediaPage' object has no attribute 'title'
+2210058
+'WikipediaPage' object has no attribute 'title'
+2368621
+'WikipediaPage' object has no attribute 'title'
+2442655
+'WikipediaPage' object has no attribute 'title'
+3037930
+'WikipediaPage' object has no attribute 'title'
+3266230
+Page id "3266230" does not match any pages. Try another id!
+3425851
+'WikipediaPage' object has no attribute 'title'
+5301438
+'WikipediaPage' object has no attribute 'title'
+5730111
+Page id "5730111" does not match any pages. Try another id!
+5804015
+'WikipediaPage' object has no attribute 'title'
+8369089
+'WikipediaPage' object has no attribute 'title'
+8608111
+Page id "8608111" does not match any pages. Try another id!
+9271316
+Page id "9271316" does not match any pages. Try another id!
+11648179
+'WikipediaPage' object has no attribute 'title'
+11995094
+'WikipediaPage' object has no attribute 'title'
+12054447
+Page id "12054447" does not match any pages. Try another id!
+13490349
+'WikipediaPage' object has no attribute 'title'
+13490767
+'WikipediaPage' object has no attribute 'title'
+13491953
+'WikipediaPage' object has no attribute 'title'
+13524375
+Page id "13524375" does not match any pages. Try another id!
+14125371
+'WikipediaPage' object has no attribute 'title'
+15732921
+'WikipediaPage' object has no attribute 'title'
+16949160
+Page id "16949160" does not match any pages. Try another id!
+17578307
+'WikipediaPage' object has no attribute 'title'
+17972182
+'WikipediaPage' object has no attribute 'title'
+18333070
+Page id "18333070" does not match any pages. Try another id!
+19579772
+Page id "19579772" does not match any pages. Try another id!
+20150584
+Page id "20150584" does not match any pages. Try another id!
+20852582
+Page id "20852582" does not match any pages. Try another id!
+21778564
+'WikipediaPage' object has no attribute 'title'
+21993843
+Page id "21993843" does not match any pages. Try another id!
+25009156
+Page id "25009156" does not match any pages. Try another id!
+25799038
+Page id "25799038" does not match any pages. Try another id!
+26877113
+Page id "26877113" does not match any pages. Try another id!
+27159835
+Page id "27159835" does not match any pages. Try another id!
+27557458
+'WikipediaPage' object has no attribute 'title'
+28222251
+'WikipediaPage' object has no attribute 'title'
+31222817
+Page id "31222817" does not match any pages. Try another id!
+31417608
+'WikipediaPage' object has no attribute 'title'
+31442367
+'WikipediaPage' object has no attribute 'title'
+32276552
+Page id "32276552" does not match any pages. Try another id!
+32524943
+Page id "32524943" does not match any pages. Try another id!
+33338218
+'WikipediaPage' object has no attribute 'title'
+33548285
+Page id "33548285" does not match any pages. Try another id!
+33731196
+'WikipediaPage' object has no attribute 'title'
+34211146
+Page id "34211146" does not match any pages. Try another id!
+34728031
+'WikipediaPage' object has no attribute 'title'
+35287342
+Page id "35287342" does not match any pages. Try another id!
+36075886
+'WikipediaPage' object has no attribute 'title'
+36208803
+'WikipediaPage' object has no attribute 'title'
+36752626
+Page id "36752626" does not match any pages. Try another id!
+37462019
+Page id "37462019" does not match any pages. Try another id!
+45080114
+Page id "45080114" does not match any pages. Try another id!
+45250420
+Page id "45250420" does not match any pages. Try another id!
+45700707
+'WikipediaPage' object has no attribute 'title'
+46758679
+Page id "46758679" does not match any pages. Try another id!
+48336966
+'WikipediaPage' object has no attribute 'title'
+50077534
+Page id "50077534" does not match any pages. Try another id!
+50312316
+Page id "50312316" does not match any pages. Try another id!
+50852766
+Page id "50852766" does not match any pages. Try another id!
+53611330
+Page id "53611330" does not match any pages. Try another id!
+53819377
+'WikipediaPage' object has no attribute 'title'
+53857262
+'WikipediaPage' object has no attribute 'title'
+54007610
+Page id "54007610" does not match any pages. Try another id!
+63734248
+'WikipediaPage' object has no attribute 'title'
+63893775
+Page id "63893775" does not match any pages. Try another id!
+65361697
+Page id "65361697" does not match any pages. Try another id!
+66390577
+Page id "66390577" does not match any pages. Try another id!
+67077251
+Page id "67077251" does not match any pages. Try another id!
+67129684
+Page id "67129684" does not match any pages. Try another id!
+67375019
+Page id "67375019" does not match any pages. Try another id!
+67384160
+Page id "67384160" does not match any pages. Try another id!
+67433973
+Page id "67433973" does not match any pages. Try another id!
+67795444
+Page id "67795444" does not match any pages. Try another id!
+67831159
+Page id "67831159" does not match any pages. Try another id!
+67942177
+Page id "67942177" does not match any pages. Try another id!
+68300171
+Page id "68300171" does not match any pages. Try another id!
+68333905
+Page id "68333905" does not match any pages. Try another id!
+68357189
+Page id "68357189" does not match any pages. Try another id!
+68516310
+Page id "68516310" does not match any pages. Try another id!
+68559153
+Page id "68559153" does not match any pages. Try another id!
+68594877
+Page id "68594877" does not match any pages. Try another id!
+68621193
+'WikipediaPage' object has no attribute 'title'
+
+Process finished with exit code 0

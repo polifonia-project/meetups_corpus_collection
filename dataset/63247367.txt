@@ -1,0 +1,79 @@
+Jeanne Bamberger (née Shapiro, born February 11, 1924) is the American Professor Emerita of Music and Urban Education at the Massachusetts Institute of Technology, and Adjunct Professor of Music at the University of California, Berkeley. Her research interests include music cognitive development, music theory and performance, teacher development, and the design of text and software materials that foster these areas of development.
+
+
+== Early years and education ==
+
+Bamberger was a child prodigy pianist in Minneapolis, Minnesota, where she performed with the Minneapolis Symphony before she had reached adolescence. Her mother, Gertrude Kulberg Shapiro, was from a Romanian Jewish family that had immigrated to Minneapolis. Gertrude had studied with Florence Goodenough, a pioneer in the systematic study of children, and had a strong interest in child psychology. Her father, Morse Shapiro, was from a Lithuanian and Polish Jewish family that had immigrated to Minneapolis via New York City. He was a pediatric cardiologist.In Minneapolis, Jeanne studied piano with Joanna Graudan, who was married to Nicolai Graudan, the principal cellist of Minneapolis Symphony, and who had been a student of Artur Schnabel in Berlin. When Schnabel came to play with the Minneapolis Symphony, Joanna arranged for Jeanne to play for Schnabel and he agreed to accept her as a student.
+Bamberger went to New York City in 1943 to study with Artur Schnabel. The other two students in Schnabel's piano studio at that time were Leon Fleisher and Claude Frank. Bamberger attended the University of Minnesota and Columbia University where she studied philosophy with Ernest Nagel and Irwin Edman. She received her BA in philosophy and music from Minnesota in 1948.
+Bamberger went on to the University of California, Berkeley where she studied with Roger Sessions, receiving an MA in Music Theory in 1951. Upon graduation, she received a Fulbright scholarship to study in Paris, France. From 1951 to 1952, she attended classes with Olivier Messiaen and Darius Milhaud; a notable fellow student in Milhaud's class was Pierre Boulez. During this time, she also performed extensively as a piano soloist and in chamber music ensembles, focusing particularly on music by young American composers.
+
+
+== Career ==
+After a brief stint at the University of Southern California, Bamberger's first longterm academic appointment was at the University of Chicago where, between 1955 and 1969, she taught a freshman seminar in Art, Music, and Literature together with Leonard Meyer and Howard Brofsky. In Chicago, she became interested in the education of young children, and particularly in the Montessori method.
+
+
+=== MIT Music and Theater Arts ===
+Bamberger was appointed at the Massachusetts Institute of Technology from 1970 to 2001, where she taught in the Music and Theater Arts Section. At MIT, she attended a day-long seminar in April 1970 organized by Marvin Minsky and Seymour Papert, then co-directors of MIT’s Artificial Intelligence Lab, on "Teaching Children Thinking". Learning about Papert's development of Logo and Minsky’s digital music box, Bamberger was inspired to embark on a career combining music, computers, developmental psychology, and education to change how music was taught.
+
+
+=== MusicLogo and Impromptu ===
+Bamberger worked in Papert's Logo Lab in the Department of Computer Science from 1972 to 1975. Together with a colleague Hal Abelson and a student Terry Winograd, she developed MusicLogo to allow students to actively participate in the learning of music making. MusicLogo enabled students to write code to create tunes that could be immediately played out loud. Freed from the need to master musical notation or performance, students could then spend more time constructing tunes and reflecting on the process.MusicLogo was a procedural language.  As students were analyzing and listening to music, they were writing fundamental procedures that were really structural, for instance, a procedure that would play a sequential series or transform a motive in other procedural ways. An example of a simple MusicLogo program and its output:
+
+TO DOWNPITCH :START :DONE
+IF :START = :DONE STOP
+PLAY :START – 1 :DONE
+DOWNPITCH :START – 1
+ENDBamberger's music course syllabi in the 1980s and 1990s included using MusicLogo to learn about music. Because the kind of real programming that was part of MusicLogo was not readily accessible to teachers or young students, an easier-to-use software Impromptu was born and its accompanying book, Developing Musical Intuition.
+
+
+=== Study and Research in Education ===
+From 1975 to 1995, she was in the Division for Study and Research in Education. There, she taught a course with Donald Schön called “The Role of Metaphor in Learning and Design” and another one (by herself) called “Developing Musical Structures.” She became an Associate Professor in MIT’s Humanities Department in 1981.In 1985, she launched a pilot program called the Laboratory for Making Things in a local public school that brought MusicLogo, Legos, and toys into schools and trained teachers to help students use them. The students were encouraged to move back and forth between making things with hands-on materials (pulleys and such) and making things using Logo and MusicLogo. The emphasis was on how these two worlds were different from one another while also informing one other. She subsequently created and directed the Teacher Development Program in the MIT Department of Urban Studies, targeted at MIT undergraduates wishing to teach math and science in inner city high schools.
+
+
+=== Post Retirement ===
+Bamberger retired from MIT as Professor Emerita of Music and Urban Education in 2002. She taught briefly at the Harvard Graduate School of Education before moving cross country to Berkeley, California, in 2005, where she has been affiliated with the University of California, Berkeley, since 2010. At Berkeley, she is teaching in the Music Department a course called “Music Cognition.”
+
+
+== Personal life ==
+Jeanne was married in 1955 to Frank Bamberger, a computer programmer. They have two children: Paul Simon, who is a labour lawyer, and Joshua David, who is a physician in family medicine, taking care of homeless people. Jeanne and Frank divorced in 1974, and Frank passed away in 2018.  Jeanne has three grandsons and one granddaughter through her two sons.
+
+
+== Awards and honours ==
+Society for Education, Music and Psychology Research SEMPRE Lifetime Achievement Award (2019)
+Edith Ackerman Award (2017)
+Guggenheim Fellowship (1998) to write a book on musical intelligence and its development
+Fulbright Scholarship (1951-1952) to study Aesthetics with Olivier Messiaen in Paris, and to play concerts of young American composers
+
+
+== Publications ==
+Books by Jeanne Bamberger:
+
+Brofsky, Howard; Bamberger, Jeanne (1969). The Art of Listening: Developing Musical Perception. New York, NY: Harper and Row. ISBN 978-0060409432.
+Bamberger, Jeanne (1995). The mind behind the musical ear. Cambridge, MA: Harvard University Press. ISBN 9780674576063.
+Bamberger, Jeanne (2000). Developing musical intuitions: A project based introduction to making and understanding music. Oxford, UK: Oxford University Press. ISBN 0-19-510571-0.
+Bamberger, Jeanne (2013). Discovering the musical mind: A view of creativity as learning. Oxford, UK: Oxford University Press. ISBN 9780199589838.Recent chapters in books: 
+
+(2016) “Growing Up Prodigies” In: G. McPherson (ed) The Child as Musician: A handbook of musical development. Oxford University Press.
+(2007) “Restructuring Conceptual Intuitions Through Invented Notations: From Path-Making to Map-Making” In: E. Teubal, J. Dockrell & L. Tolchinsky (eds) Notational knowledge: Developmental and historical perspectives. Rotterdam: Sense Publishers.
+(2007) “Changing Musical Perception Through Reflective Conversation.” In: R. Horowitz, Talking Texts. Mahwah, NJ: Erlbaum Assoc.
+(2006) “What develops in musical development?” In: G. MacPherson (ed.) The child as musician: Musical development from conception to adolescence. Oxford University Press.
+(2005) “How the conventions of music notation shape musical perception and performance.” In: D. Hargreaves, D.E. Miell, R. MacDonald (eds) Musical Communication. Oxford University Press.
+(2000) “Turning Music Theory on its Ear: Do we hear what we see; do we see what we say.” In: Multidisciplinary perspectives on musicality: The Seashore Symposium. Iowa City: University of Iowa Press.Articles, a selection:
+
+(2018) "Action knowledge and symbolic knowledge. The computer as mediator". / Conocimiento basado en la acción y conocimiento simbólico. El equipo informático como mediador, Infancia y Aprendizaje (Journal for the Study of Education and Development), 41:1, 13-55, DOI: 10.1080/02103702.2017.1401316
+(2015) "A Brief History of Music, Computers and Thinking: 1972-2015". In: Digital Experiences in Mathematics Education, 2015:3.
+(2011) “The Collaborative Invention of Meaning: A Short History of Evolving Ideas”. In: Psychology of Music, Volume 39 (1) 82–102.
+(2010) “Noting Time”. In: Min-Ad: Israel Studies in Musicology Online, Vol. 8.
+(2004) “Music as embodied mathematics: A study of a mutually informing affinity”. (with A. diSessa) In: International Journal of Computers for Mathematical Learning. 8: 123–160.
+(1996) “Turning music theory on its ear: Do we hear what we see:; do we see what we say?” In: International Journal of Computers for Mathematical Learning. Volume 1 #1: pp. 33–55.
+
+
+== References ==
+
+
+== External links ==
+MIT Website
+Music at MIT Oral History Collection
+SEMPRE Lifetime Achievement Award Recipients
+Jeanne Bamberger shares a rich and abundant musical life
+Ashby Village Gallery

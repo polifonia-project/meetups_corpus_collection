@@ -1,0 +1,30 @@
+Doug Curtis (March 8, 1951 – January 10, 2007) was the founder of Curtis Electromusic Specialties and OnChip Systems. Curtis was the designer of many original analogue ICs, which have been used in a number electronic music instruments. He was described in Keyboard magazine as "one of the most important and least known synthesizer pioneers of the 20th century".In high school with an interest in sound and music electronics, he designed and built a synthesizer. He majored from Northwestern University, with radio-TV-film. While here he perfected several more synthesizers. Upon graduation, he qualified for a post as junior engineer by showing circuit boards of his designs. He entered a competition to design a semi-custom chip and as a result was offered a job at Interdesign, where he worked for four years.He founded Curtis Electromusic Specialties, which produced the integrated circuits that were used in a variety of analog synthesizers for decades. There are several patents in his name. In 2006 he was inducted into the San Jose Rocks Hall of Fame for technical contributions to music. In 1988 with the advent of digital technology, Doug formed the company OnChip Systems.Instruments with CEM ICs are said to have that Curtis sound, described as "fantastically saturated, brash and powerful".In 2016, it was announced that the CEM3340 VCO would be remanufactured by On Chip using the original design with a revision to the VCC specification.
+
+
+== Curtis Chips in Post-Modern Synth Arena ==
+The CEM3340 IC is seeing somewhat of a renaissance due to its reissue by a few semiconductor companies (ref to go here). Notably, one such company appears to have garnered the blessing of Mary Curtis (Doug's widow) herself, touted in these words appearing on a graphic on their sourcing page:
+"A message from Mary Curtis":
+Many of you who are active on synth forums have recently contacted us regarding another company's claim of producing VCO chips that are the equivalent to the CEM3340 that was used in many legendary synthesizers.
+To avoid any confusion, please know that there is only one manufacturer of the authentic CEM3340 designed by my late husband, Doug Curtis. Any claims, use of this product designation, and use of the name Curtis Electromusic by other companies are made without permission from OnChip Systems (our current company name) or the Curtis Family.
+As much as Doug would be humbled and so very happy about the legacy his products enjoy, we can assure you that as a person of the highest integrity he would be deeply saddened by the attempt of others to trade on his name and to make unsubstantiated claims of equivalency to his original inventions.
+In his loving memory and gratitude for the community of musicians and synthesizer enthusiasts, Doug's family is committed to making his authentic designs available as demand presents itself. Thank you for your continued support of Doug's analog synthesizer legacy.
+  - Mary Curtis and our daughters, Ashley and Julia
+
+The Thonk website link also provides some graphics of the original datasheets for the chip.
+
+
+=== (Post)-Modern Designs Using The Curtis Chip ===
+For detailed information and circuit variation discussion, please see the excellent article published at The Electric Druid CEM3340 VCO Designs
+
+
+== See also ==
+CEM and SSM chips in synthesizers
+
+
+== References ==
+
+
+== External links ==
+Curtis Electromusic website
+San Jose Rocks page on Doug Curtis
+Obituary in San Jose Mercury News 14 Jan 2007

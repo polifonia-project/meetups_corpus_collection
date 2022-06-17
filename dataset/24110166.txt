@@ -1,0 +1,22 @@
+Marina Bosi is a Consulting Professor at Stanford University's Center for Computer Research in Music and Acoustics (CCRMA). Originally a flutist and flute teacher, she is known for her work on digital audio coding formats.
+
+
+== Education ==
+Marina Bosi was born near Milan and raised in Florence. She studied the flute with Severino Gazzelloni, and earned a diploma in the flute at the Conservatory of Music in Florence. She then taught flute at the Conservatory of Music in Venice. She later went back to school at the University of Florence where she graduated with a doctorate in physics. Her dissertation (developed and implemented through research at IRCAM in Paris) was “Design of a High-Speed Computer System for the Processing of Musical Sound".
+
+
+== Career ==
+She served as chief technology officer at MPEG LA and as a vice president at Digital Theater Systems (DTS). At Dolby Laboratories she helped to develop the AC-2, AC-3, and MPEG-2 Advanced Audio Coding technologies. She has also worked on devising standards for audio and video technology and digital content. Bosi was also a part of the research team that created the 5.1 channel Dolby Digital format.  Bosi came to the United States to be a Visiting Scholar at Stanford University's Center for Computer Research in Music and Acoustics (CCRMA). In the early 1990s, she developed Stanford's first course in digital audio coding, which eventually led to the publication of a textbook in the area. She is a founding member of the Digital Media Project and serves on its board of directors.She is a past president of the Audio Engineering Society and has received the AES Board of Governors and Fellowship awards. In 2019, Marina Bosi was presented with the AES Silver Medal Award "in recognition of outstanding achievements in the development and standardization of audio and video coding and of secure digital rights management."
+
+
+== Selected publications ==
+Marina Bosi and Richard E. Goldberg, Introduction to Digital Audio Coding and Standards, 2002.
+Marina Bosi et al.,  “ISO/IEC MPEG-2 Advanced Audio Coding”', Journal of the Audio Eng. Soc, October 1997
+
+
+== References ==
+
+
+== Additional sources ==
+Audio Engineering Society: Oral History Project 
+Course website for Music 422 "Perceptual Audio Coding" at Stanford

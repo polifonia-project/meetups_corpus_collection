@@ -1,0 +1,6 @@
+Charles Stanley "Herb" Kuta (born 1956) is an American electronics engineer and software engineer who was a co-founder of Silicon Graphics, a major graphics workstation manufacturer.
+Charles Kuta was brought up in Pennsylvania, United States. He attended Atlantic College in Wales and then University College, Oxford, England, where he studied engineering science from  1974 to 1977, gaining a first class degree. Here he also played tuba in the Oxcentrics, an Oxford-based Dixieland jazz band.Kuta went on to study for a Master's degree at Stanford University in California, USA. Here he was invited to be a co-founder of Silicon Graphics, Inc., by Dr Jim Clark, established in 1982. He was involved in the design of the pipelined Geometry Engine that undertook 3D graphical transformations in hardware.
+Subsequently, Kuta worked at Pellucid and co-founded Quantum3D in 1997, where he was Vice President of System Software Architect. More recently, he has been based at Palm, Inc., now part of Hewlett-Packard.
+
+
+== References ==

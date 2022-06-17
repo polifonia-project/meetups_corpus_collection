@@ -1,0 +1,33 @@
+Meiko (Japanese: メイコ) (stylized as MEIKO) is a humanoid persona for Yamaha Corporation's Vocaloid singing synthesizer application. Her voice is sampled by Meiko Haigō. She has performed at live concerts onstage as an animated projection along with Crypton Future Media's other Vocaloids (like Hatsune Miku). She was the fourth Vocaloid ever released and the first to sing in Japanese.
+The name of the character comes directly from her voice provider's name, Haigō Meiko. Meiko's codename was "Hanako"; it likely came from Yamada Hanako (山田花子), a placeholder name for female characters, and the Japanese equivalent to "Jane Smith". "Megumi" was also a name considered during her development.
+
+
+== Development ==
+Meiko was developed by Yamaha and sold by Crypton Future Media. Her voice was created by taking vocal samples from singer Meiko Haigō at a controlled pitch and tone.
+
+
+=== Additional software ===
+A Vocaloid 2 update for Meiko was in development, but was canceled after it failed to meet the deadline. A beta version of the vocals were used in Hatsune Miku and Future Stars: Project Mirai.
+On February 4, 2014, a new version of Meiko, called Meiko V3, was released. It contained four Japanese vocals(Power, Straight, Dark and Whisper) and an English vocal. Once imported into the Vocaloid 4 engine, the four Japanese voices can access the Cross-Synthesis(XSY) function.
+
+
+== Marketing ==
+Meiko was positively received and sold well compared to her counterpart Kaito, originally being the most popular of the two. For a long time she was the best selling Crypton Future Media Vocaloid, selling 3,000+ units. This lasted until the release of Hatsune Miku. 3,000+ units was three times the number of sales she needed to sell to be classified as successful.
+By 2010, whereas Kaito appeared in the Crypton ranking of their best-selling products, Meiko had fallen from popularity, receiving the least amount of attention of the Crypton Vocaloids. In the same year, Meiko was ranked as the seventh most popular Vocaloid product they sold and the least popular of Crypton Future Media's own Vocaloids. On December 10, 2011, Meiko, along with the Kagamines' append, were the only Vocaloid software packages not on the top ten list.
+A month after Meiko V3's release, Meiko took the number one spot on the charts. This was the first time Meiko had ever held a spot in the top 10 since the charts began. However, her number one spot was short lived, and by April she had dropped to the number three spot. This was a much faster fall from number one than Kaito V3, who managed to stay in the position for several months after release. Meiko soon fell behind Kaito V3 in popularity, constantly being one or two places behind his package. By August 2014, Meiko V3 was in sixth spot, while Kaito V3 held the third-place position, losing out only to Hatsune Miku V3 who claimed the number one and number two spot in the ranking. She also lost out this particular month to the Kagamine Rin/Len Vocaloid 2 package, which had temporarily returned to the rankings.
+
+
+== Characteristics ==
+Crypton confirmed that Meiko's image on her package had nothing to do with her image, but her anime-based appearance appealed to a mainstream audience and the software sold well.
+As of V3, the image on the box is fully accepted as her official mascot.
+
+
+== Featured music ==
+Meiko has over 2,400 songs and one of her songs titled "悪食娘コンチータ (Evil Food Eater Conchita)", by Akuno-P, is considered one of her most popular songs with over 1,000,000 views on Niconico.
+
+
+== References ==
+
+
+== External links ==
+Official website (in Japanese)

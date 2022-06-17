@@ -1,0 +1,40 @@
+Dmitri Tymoczko is a composer and music theorist. His music, which draws on rock, jazz, and romanticism, has been performed by ensembles such as the Amernet String Quartet, the Brentano Quartet, Janus, Newspeak, the San Francisco Contemporary Players, the Pacifica Quartet, and the pianist Ursula Oppens. As a theorist, he has published more than two dozen articles dealing with topics related to contemporary tonality, including scales, voice leading, and functional harmonic norms. His article "The Geometry of Musical Chords", was the first music-theory article ever published by the journal Science.
+
+
+== Biography ==
+Tymoczko was born 1969, in Northampton, Massachusetts. His father Thomas Tymoczko was a philosopher of mathematics at Smith College, while his mother Maria Tymoczko is a professor of comparative literature at the University of Massachusetts Amherst; his sister, Julianna Tymoczko, later herself became a mathematics professor at Smith. He attended Harvard University, studying composition, music theory, and philosophy, and did graduate work in Philosophy at Oxford University as a Rhodes scholar. After being asked to leave the philosophy D. Phil. program, he eventually returned to music, acquiring a Ph.D. in composition from The University of California, Berkeley. Since 2002, he has been a professor at Princeton University. He is the recipient of fellowships from the Guggenheim foundation and the Radcliffe Institute of Advanced Study. He is married to the philosopher Elisabeth Camp, with whom he has a son Lukas and a daughter Katya.
+
+
+== Music ==
+Tymoczko's album Beat Therapy (Bridge 9353), combines jazz instrumentation with classical ideas of development. The critic Frank Oteri describes it as "far reaching and utterly entertaining."In Crackpot Hymnal (Bridge 9383), he presents expressly composed chamber pieces inspired and mixed from a number of traditional styles. Jazz, popular, blues and rock styles interact with folk and contemporary classical music.A third CD, Rube Goldberg Variations was released in 2018.  Joshua Kosman, writing at SFGate, called it "whimsical", "ingenious", and with a "rich emotional arc" produced by a "warmth of personality that is distinctive".
+
+
+== Theoretical work ==
+In A Geometry of Music, Tymoczko proposes a general framework for thinking about tonality, arguing that there are five basic features that jointly contribute to the sense of tonality:
+
+conjunct melodic motion (melodies move by short distances)
+harmonic consistency (harmonies sound similar)
+acoustic consonance (harmonies sound pleasant)
+limited macroharmony (music uses a small number of notes over moderate spans of musical time)
+centricity (one note is heard as "more stable" than the others)The first part of the book explores theoretical questions about how these properties can be combined. In particular, Tymoczko uses orbifolds to develop "maps" of musical chords, showing that the first two properties (e.g. conjunct melodic motion and harmonic consistency) can be combined only in special circumstances. The second part of the book uses these tools to analyze pieces from the Middle Ages to the present. Tymoczko argues that there is an "extended common practice" linking superficially distinct styles, with jazz being much closer to classical music than many have thought.
+Tymoczko showed that nearly even chords (such as those prevalent in Western tonal music) are represented by three main families of lattices. Two of these : 
+
+a circle of n-dimensional cubes linked by shared vertices
+a circle of n-dimensional cubes linked by shared facetsare particularly useful in analysis. What results is a systematic perspective on the full family of chord-based graphs.Tymoczko has also written a free software program, "ChordGeometries", allowing users to visualize the orbifolds representing musical chords.
+
+
+== Bibliography ==
+Beat Therapy, Bridge Records, 2011.
+Crackpot Hymnal, Bridge Records, 2013.
+Rube Goldberg Variations, Bridge Records 9492, 2017.
+A Geometry of Music, Oxford University Press, 2011.
+Tymoczko, D. "The Generalized Tonnetz" (PDF). dmitri.mycpanel.princeton.edu. Retrieved July 8, 2017.
+
+
+== Notes ==
+
+
+== External links ==
+Official website
+Lemonick, Michael D. (January 26, 2007). "The Geometry of Music". Time. Archived from the original on February 4, 2007.
+Olson, Steve (February 9, 2011). "A grand unified theory of music". Princeton Alumni Weekly.

@@ -1,0 +1,19 @@
+Stefania Serafin (born December 30, 1973) is a professor at the Department of Architecture, Design and Media technology at Aalborg University in Copenhagen.
+
+
+== Education ==
+Stefania Serafin completed her master's degree in acoustics, computer science and signal processing applied to music, from IRCAM (Paris) in 1997. Following, she received her PhD in computer-based music theory and acoustics from Stanford University in 2004.
+
+
+== Career ==
+In 2018, Stefania Serafin was employed as professor at the Department of Architecture, Design and Media technology at Aalborg University in Copenhagen. Before becoming a professor Serafin worked as an associate professor and lecturer, also at Aalborg University. As a researcher, her focus lies on sound models and sound design for interactive media and multimodal interfaces.Serafin holds the position as president of the organization, Sound and Music Computing Network, which is a portal for the sound and music computing community. Also, she is the project leader of ‘The Nordic Sound and Music Computing Network (NordicSMC)’, which is a university hub for sound and music computing lead by the fields internationally leading researchers from the Nordic countries.
+
+
+== Selected publications ==
+·       F. Avanzini, S. Serafin and D. Rocchesso, "Interactive Simulation of rigid body interaction with friction-induced sound generation," in IEEE Transactions on Speech and Audio Processing, vol. 13, no. 5, pp. 1073–1081, Sept. 2005.
+·       Y. Visell, F. Fontana, B.L. Giordano, R. Nordahl, S. Serafin, R. Bresin, Sound design and perception in walking interactions, International Journal of Human-Computer Studies, Volume 67, Issue 11, 2009, Pages 947–959.
+·       R. Nordahl, S. Serafin and L. Turchet, "Sound synthesis and evaluation of interactive footsteps for virtual reality applications," 2010 IEEE Virtual Reality Conference (VR), Waltham, MA, 2010, pp. 147–153.
+·       L. Turchet, R. Nordahl, S. Serafin, A. Berrezag, S. Dimitrov and V. Hayward, "Audio-haptic physically-based simulation of walking on different grounds," 2010 IEEE International Workshop on Multimedia Signal Processing, Saint Malo, 2010, pp. 269–273.
+
+
+== References ==

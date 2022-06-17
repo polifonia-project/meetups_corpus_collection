@@ -1,0 +1,88 @@
+Goto80 (born Anders Carlsson, 9 February 1981) is a Swedish music artist and researcher. He has been described as one of the key players between glitch and chipmusic, as well as an active demoscener. At the turn of the millennium he was one of the first to bring chipmusic to a wider audience, and was also an early adopter of live Game Boy music. He has an extensive back catalogue of free music – often open source – with a wide span of musical influences. He currently focuses on research and art, and maintains a number of blogs and labels such as Chipflip and the text-mode tumblr.
+
+
+== Career ==
+
+
+=== Music ===
+Goto80 released his first music in the demoscene in 1993, at the age of 12. He founded the group Hack n' Trade and released his music for free in demos and on BBSs. The style seems to have been predominantly rave and electronica. His first live performances was with the pop group HT in 1998.The first formal Goto80-release was the cassette Lo Fi Mono Festival in 2000. The following year he made one of the first Gameboy live performances with LSDj together with Role Model. His Papaya EP was released the same year, combining pop, dub, vocoders and calypso. This led to some media attention, and him opening the Hultsfred Festival. He was also working regularly with famous demoscene groups like Fairlight and Triad. In 2002, he co-founded the band Superdöner to play a form of 8-bit punk rock. The following year he moved to Melbourne where he began to incorporate modern tools such as Renoise into his music making.
+Goto80 released his debut album Commodore Grooves in 2005. The same year he was selected as artist of the year at the Microdisko Chipmusic Awards, and was later one of three nominees for all-time C64-composer at Commodore's official 25-year celebration.In 2007, Goto80 made one release every month and performed once a week. The following year he tried to release one song every day together with Dan Brännvall at internet2008.se. This established him further as one of the top 8-bit acts. His next release, Breakfast (2009) has been listed as one of the top-10 chip songs of all time. Following this poppy song, he started to focus on darker sounds, often improvised completely on Commodore 64. One BBC review described his music as microscopic bursts and stutters of atonal sound on which he eventually lays down some beautiful descending bass tones.Among his aliases, Extraboy seems to be the most productive one. Extraboy appeared on record for the first time in 2002 with a remix of Tim Koch. Other aliases include  Johnny Location, Tomas Delin, GotoET, Susanne, Gordon Strombola, 4D Man, and Crystal Master. He has appeared in groups such as the synth pop duo HT (1995), the EBM-band Damitu Kuerpo (1997), the punk group Superdöner (2002), Goto88 and the Sunshine Band (2007), and the electro duo Kommando Knorr (2009).
+
+
+=== Research ===
+Goto80 has been called a demoscene historian. His main research topics are chipmusic, textmode graphics, and the demoscene. He published his first text in the book From Pac Man to Pop Music in 2008, where he described chipmusic as a medium and form. Carlsson received his master in Media and Communication in 2010 with his thesis Power Users and Retro Puppets – a Critical Study of the Methods and Motivations in Chipmusic.Other published texts include a history of demoscene music for Rhizome.org and Future Potentials of ASCII Art together with A. Bill Miller.
+
+
+=== Art ===
+His art works are often focused on live performances (2SLEEP1, Gotozilla, Punk Potemkin, Data Jam) or computer violence (HT Gold, Polybius, 44422435 To Nowhere). He has worked together with artists such as Raquel Meyers, Jossystem, Otro, Videogramo, Entter, Rosa Menkman, Shojono Tomo, and Jacob  Remin. Since 2011, he has been focusing on textmode aesthetics together with Raquel Meyers. In 2012, they claimed to be the first to make a performance using only PETSCII-based graphics and music software.
+
+
+== Music distribution ==
+Following the practices of the demoscene, Goto80 releases most of his music for free. By 2007, he had 1000 songs online. In the same year, he left Myspace and later criticized fellow musicians for trying to be present on too many Internet platforms, advising them to use their own distribution channels instead. He is vaguely connected with hacking and piracy, having performed at Pirate Bay parties like Spectrial and in several hackerspaces.
+His early C64-songs were distributed as executable files and not recordings, and they sounded different every time they looped. In the netlabel context, he made low bitrate releases such as Copyslave (2004) and also mixed his music together into a megamix with Monkeywarning (2002). More recently, Open Funk Sores (2007) was an audiovisual open source release in MOD and MP3 for web and PSP.
+Cherry CD (2011) was released in an envelope and distributed as a form of mail art. Acid Burger (2011) was a mini-DVD inside a cheese burger. 2SLEEP1 (2011) is a collection of audiovisual performances in textmode, but was only available as streaming video. All these releases were made together with Raquel Meyers.
+
+
+== Discography ==
+
+
+=== Studio albums ===
+2005: Commodore Grooves
+2007: Digi-Dig
+2007: Made On Internet
+2007: Bortabra
+2008: Son Of Music
+2008: Open Funk Sores
+2011: Cherry
+2013: Cйbзя Tсaя
+2014: Files In Space
+2015: ＿|￣|○
+2016: 80864
+2019: Shirbum
+2020: 808642
+2021: S T A L L O
+2021: G L O S O N
+2021: Hardcore Family
+2021: S H Y G G A
+
+
+=== Compilations ===
+2016: 0407
+
+
+=== EPs ===
+2001: Papaya
+2002: Monkeywarning
+2002: Bushrunner
+2002: Philemon Arthur and the Vic
+2004: Copyslave
+2005: Contech
+2005: Bravo
+2007: Zyndabox
+2007: Updown
+2007: Ximplef
+2007: Barryland
+2007: Wet Pulse
+2007: 6
+2007: Unlimited Edition
+2007: _2_4x4 (with Entter)
+2007: Little Tittle
+2009: Breakfast
+2012: Acid Burger (Menu 1) (with Raquel Meyers)
+2011: Summer of Seven 5/7
+2012: Virtual 7″ (with Warren Myles)
+2012: The Ferret Show (with The Uwe Schenk Band)
+2013: Come Together / Warm Leatherette
+
+
+== Remixes ==
+Goto80 has contributed to several famous remix compilations such as 8bits of Christmas (2003) and Wanna Hld Yr Handheld (2009). In the 1990s, Goto80 did many tongue-in-cheek remixes based on 1980s pop culture. This can be heard in Lo Fi Mono Festival and Papaya EP where he covered music from Yazoo, Kikki Danielsson, The Incredible Hulk, Megaman, Depeche Mode, Barbapapa, etcetera. In 2002 he released Italo Megamix for C64, with remixes of Miko Mission, Scotch, Laserdance and others.
+In 2007, he made a C64-version of Deep Throat together with Role Model. The full movie was converted into chunky pixel graphics, which was streamed from the C64 datasette in realtime. He has also remixed more contemporary artists, such as Monster Zoku Onsomb, Icarus, Tim Koch, Psilodump, Damn! and Best Fwends.
+
+
+== References ==
+
+
+== External links ==
+Official website
+chipflip.org

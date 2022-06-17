@@ -1,0 +1,67 @@
+Dave Meros (born 8 February 1956), is an American bass guitar player, best known as the bass player for progressive rock band Spock's Beard. Meros has also played or recorded with such artists as Gary Myrick, Bobby Kimball of Toto, Simon Phillips, Mark Lindsay of Paul Revere and the Raiders and Big Big Train, and played for Eric Burdon and The Animals from 1990 through the end of 2005, and was the bass player for Iron Butterfly from 2015 through 2021. He was also tour manager for Eric Burdon and has worked as a tour manager for further artists as well. As a bassist, Meros' musical influences are varied, including Paul McCartney, John Entwistle, Chris Squire, James Jamerson, Marcus Miller, Francis "Rocco" Prestia of Tower of Power, Chuck Rainey and David Hungate.
+
+
+== Early life ==
+Dave Meros was born in Salinas, California. He has a Business Degree from U.C. Berkeley with Music Minor.
+
+
+== Musical history ==
+Meros began studying classical piano at age 9, five years formal training.
+•	Studied French Horn, Trumpet, Trombone, Tuba between the ages of 13 – 18.
+-	Received Bank of America award for musical achievement, 1974.
+-	Received John Phillip Souza Band Award, 1974.
+-	Played in Reno Jazz Festival All Star Band, 1974, as a member of the University of California Jazz Ensembles.
+•	Played bass trombone and tuba in the University of California Jazz Ensembles, 1974–1977, under the direction of Dr. David W. Tucker.
+•	Began playing electric bass in 1976 while at the University of California, Berkeley.  Played professionally since 1978.  Relocated to Los Angeles early 1985.
+•	Played bass and tour managed Rock and Roll Hall of Fame member Eric Burdon and The Animals from January 1990 through November 2005, and toured very extensively worldwide with various bands since the late '80s.  
+•	His main creative venture since 1994 has been recording and touring with the critically acclaimed progressive rock band Spock's Beard, that to date has released thirteen full-length studio CDs plus a large number of live CDs and EPs, Videos, DVDs, and rarities collections.  Their 13th studio album, titled "Noise Floor" was released in May 2018.
+•	Played bass with Iron Butterfly from 2015 through 2021.
+Meros currently plays in the Sacramento area based band Rolling Heads and prog-rock band Pattern-Seeking Animals.
+
+
+== Touring experience ==
+-	Mark Lindsay (Paul Revere and the Raiders) – 1986. 
+-	Gary Myrick (Geffen recording artist) – 1986 through 1989. 
+-	Bobby Kimball (Toto) – 1989. 
+-	Eric Burdon – January 1990 through November 2005. 
+-	Spock's Beard – 1993 – current. 
+-       The Kings Of Classic Rock - 2007 - 2013. 
+-       Rolling Heads - 2010 - current. 
+-       Iron Butterfly - 2015 - 2021.
+
+
+== Equipment ==
+Dave's current bass for Spock's Beard is a custom built hybrid between a Fender and a Rickenbacker.  It is an Alder Ric-shaped body that is contoured like a Fender, with bolt-on Fender Jazz style neck.  Dave used four Seymour Duncan Apollo Jazz Bass pickups to do this - two in the Rickenbacker locations and two in the positions where the P / J pickus on a Fender Jazz Bass would normally go.  Further customizations include a Full Contact Hardware bridge and a Hipshot Xtender tuning key that will detune the E string down to a D at the flip of a lever.
+From 1992 through 2002 Dave used a stock white Rickenbacker in Spock's Beard.
+From 2002 through the recording of "X" (bass tracks recorded in November 2012)  Dave's main bass was what he terms his "Fendenbacker".  It's a Rickenbacker 4001 bass that's been severely modified to serve a variety of purposes.  "A buddy of mine found a really trashed Ric in a pawn shop, and I turned it into a project bass to try to make a 'one bass fits all' for myself" says Meros.
+It has a set of Fender Jazz Bass pickups set in mid-'70s-era spacing (the bridge pickup moved closer to the bridge than in previous incarnations, giving the bass a "tighter" and more midrange tone) as well as the standard set of Rickenbacker pickups in the traditional Ric positions.  This gives Meros four pickups total to choose from, with a switch that chooses between the two fairly different "basses", Rickenbacker or Jazz.  All four can also be activated at the same time.  A BadAss bridge, Hipshot Bass Xtender (otherwise known as a "Hipshot D-Tuner" or simply a "Hipshot" or "D-Tuner" among bassists) for its ability to downtune the low E-string of a bass typically to D at the flip of a lever) and a string mute that Meros can raise or lower with thumb screws (which were fabricated by Meros himself) were also added.
+"I did the refinish on the front of the bass, made the pickguard and did a lot of the other little stuff myself, but I had John Carruthers (Venice, CA) do the stuff that really mattered, like route the body for the two extra pickups, cause you only get one chance to do that, and it has to be perfect. He's the man, totally. He also did a really versatile wiring thing for me and one of the most amazing fret jobs I've ever seen."
+More recently, after the neck began delaminating from the body, it was completely rebuilt and refinished by Ed Roman Guitars, a company based in Las Vegas, NV.
+In 2007 Ed Roman built Dave a custom instrument designed with most of the same features and specs as the "Fendenbacker" (see below), with a Rickenbacker-like body shape but with a Fender scale length and neck width and more of a Fender body contouring.
+Other basses Meros uses are various Fender Jazz and Precision models (One of his Fender Precision basses was used on 2005's "Gluttons For Punishment" tour" while the Rickenbacker was being repaired), a Carruthers five string, and other fretted and fretless basses.
+Live and Studio setups:
+Live:  Bass
+Custom "Fenderbacker" with a Babicz Full Contact Hardware Bridge, 4 pickups: 2 in the usual Rickenbacker positions and 2 in the Fender P/J positions
+Strings
+DR Hi Beams or Sunbeams
+Bass Synth
+"Taurus" VST plug in triggered by Keith McMillen 12-Step MIDI pedals
+Live Rig
+Amp: Eden WT-1205 (with two preamp channels and two independent inputs). 
+Speakers:
+2- Eden 410XLT cabs.
+"I split the signal coming out of my bass and run one line into my Digitech RP-21d pedalboard and the other directly into one channel of the WT-1205. 
+The output from the Digitech RP-21d goes into the remaining input of the Eden WT-1205.
+I EQ the highs and mids out of the direct channel so that it is only low end and blend that with the Digitech channel since the settings I use on the Digitech pedalboard give me a sound lacking in low end."   
+Recording
+"For recording I just go direct into Cubase (or ProTools or whatever) and use the IK Multimedia plug-in Ampeg SVX.   
+(Before that plug in was available I used to go through the Digitech pedalboard and into a LIne 6 Bass POD (the POD was to simulate an amp, speaker and mic).
+Previous to the POD, I would actually set up my whole rig and put a mic on it.  It was often very difficult to find an isolated room to do that, so I am very grateful for modern technology.)"
+
+
+== References ==
+Spock's Beard
+Spock's Beard
+ERICBURDON.COM | News
+RollingHeads Band - cover band Sacramento, live band Sacramento,
+Spock's Beard: Dave Meros - MLR Podcast 57 | Music Life Radio

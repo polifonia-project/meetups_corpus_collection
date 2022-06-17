@@ -1,0 +1,62 @@
+Ikutaro Kakehashi (梯 郁太郎, Kakehashi Ikutarō, 7 February 1930 – 1 April 2017), also known by the nickname Taro, was a Japanese engineer, inventor and entrepreneur. He founded the musical instrument manufacturers Ace Tone, Roland Corporation, and Boss Corporation, and the audiovisual electronics company ATV Corporation.
+Kakehashi founded Ace Tone in 1960 to produce electronic organs and early drum machines. He founded Roland in 1972 and was involved in the development of various influential electronic instruments, such as the TR-808 and TR-909 drum machines and the TB-303 and Juno-60 synthesizers, in addition to Boss guitar amplifiers and effects pedals. He was also key to the development of MIDI, a technical standard that connects a wide variety of electronic instruments, in the 1980s; in 2013, Kakehashi received a Technical Grammy Award, shared with Dave Smith of Sequential, for the invention of MIDI. Kakehashi's inventions are credited with shaping popular music genres such as electronic, dance, hip hop, R&B, rock and pop music.
+
+
+== Early life ==
+Kakehashi was born on 7 February 1930 in Osaka, Japan. His parents died of tuberculosis during his early childhood, and he was raised by his grandparents. Much of his childhood was spent studying electrical engineering and working in the Hitachi shipyards of Osaka. During World War II, with no music lessons, Kakehashi became interested in radio as a way of listening to music, and his home was destroyed by American bombing. Following the war, in 1946, he failed to get into university on health grounds, and moved to the southern island of Kyushu.
+
+
+== Career ==
+In 1947, aged 16, Kakehashi founded the Kakehashi Clock Store, a watch repair shop. He soon began repairing radios. He later returned to Osaka to attend university. During a mass food shortage, he contracted tuberculosis and spent several years in a sanitarium, where he became a clinical trial test patient for an experimental medicine antibiotic drug, Streptomycin, which improved his condition. In 1954, Kakehashi opened the Kakehashi Radio electrical appliance store. In his spare time, he repaired electronic organs and created prototype organs throughout the 1950s.
+At 28, he decided to devote himself to music and pursuit of the ideal electronic musical instrument. Kakehashi had no musical training, and wanted musical instruments to be accessible for professionals as well as amateurs like himself. He also wanted them to be inexpensive, intuitive, small, and simple. He constructed his first 49-key monophonic organ in 1959, specifically designed to be playable by anyone, with no musical skill necessary. The focus on miniaturization, affordability and simplicity later became fundamental to product development at Roland.
+
+
+=== Ace Tone ===
+
+In 1960, Kakehashi founded Ace Electronic Industries Inc. In 1964, he developed the first fully transistorized electronic drum instrument, the R1 Rhythm Ace, which was exhibited at Summer NAMM 1964. It was a push-button device that was manually hand-operated in a manner similar to modern electronic drum pads. It was not commercialized in North America, however, due to its lack of automated preset rhythms. This led to him beginning work on a fully transistorized electronic rhythm machine. In 1967, Kakehashi patented the "Automatic Rhythm Performance Device" drum machine, a preset rhythm-pattern generator using diode matrix circuit, a drum machine where a "plurality of inverting circuits and/or clipper circuits are connected to a counting circuit to synthesize the output signal of the counting circuit" and the "synthesized output signal becomes a desired rhythm". Ace Tone popularized the use of drum machines, with the FR-1 Rhythm Ace finding its way into popular music starting in the late 1960s.
+
+
+=== Roland ===
+
+In 1972, Kakehashi founded the Roland Corporation, and led it for four decades. While rival companies Moog and ARP targeted professional musicians and academics, Kakehashi, who had no musical training, wanted to appeal to amateurs and hobbyists, and focused on miniaturization, affordability, and simplicity. The company went on to have a big impact on popular music, and did more to shape electronic music than any other company.At Roland, he continued his work on the development of drum machines. Roland's first drum machine was the Roland TR-77, released in 1972. After Kakehashi realized microprocessors could be used to program drum machines, Roland launched the CR-78, the first microprocessor-driven programmable drum machine, in 1978. These 1970s Roland drum machines were used in disco, R&B, rock and pop songs from the early 1970s to the early 1980s.During the 1980s and 1990s, Roland released several instruments that have had a lasting influence on popular music. Roland launched the TR-808, the first fully programmable drum machine, in 1980. Kakehashi deliberately purchased faulty transistors that created the machine's distinctive "sizzling" sound. Although it was not an immediate commercial success, the 808 was eventually used on more hit records than any other drum machine and became a cornerstone of the emerging electronic and hip hop genres.In 1994, Kakehashi founded the Roland Foundation and became chairman. In 1995 he was appointed chairman of Roland Corporation. In 2001 he resigned from the position and was appointed as Special Executive Adviser of Roland Corporation. In 2002, Kakehashi published an autobiography, I Believe in Music. His second book, An Age Without Samples: Originality and Creativity in the Digital World, was published in 2017.
+
+
+=== Boss ===
+In 1973, Kakehashi founded Boss Corporation, a subsidiary of Roland that produces amplifiers and effects units for electric guitar and bass guitar players. Boss effects units became the de facto standard of guitar effects for decades, with many guitarists relying on them for sonic experimentation. Boss amplifiers and effects units have had a significant impact on the development of rock music since the 1970s.
+
+
+=== MIDI ===
+
+In the early 1980s, there was no standardized means of synchronizing electronic musical instruments manufactured by different companies, which Kakehashi felt was limiting the growth of the industry. He proposed developing a standard with representatives from Oberheim Electronics, Sequential Circuits, Yamaha, Korg and Kawai. Kakehashi favored the name Universal Musical Interface (UME), pronounced you-me, but the protocol was named Musical Instrument Digital Interface (MIDI).: 4  Kakehashi and Dave Smith of Sequential Circuits unveiled MIDI in 1983. MIDI allowed communication between different instruments and general-purpose computers to play a role in music production. In 2013, Kakehashi and Smith received Technical Grammy Awards for their work. MIDI remains the industry standard.
+
+
+=== ATV ===
+In 2013, after a clash with management, Kakehashi left Roland and founded ATV Corporation, an audiovisual electronics company. His final project at ATV was the aFrame, an "electro-organic" percussion instrument played like a hand drum.
+
+
+== Death ==
+Kakehashi died in April 2017, aged 87. Tributes came from musicians such as Tommy Snyder of Godiego, Chris Carter of Throbbing Gristle, Samantha Ronson, Matthew Herbert, Marc Almond of Soft Cell, Martyn Ware of the Human League, and producer Paul Epworth. Moog Music described him as a "model of resilience and a genuine trailblazer", and Dave Smith of Sequential wrote that he was "just an amazing man, a good friend, a very good competitor of course, and just innovative continually all that time".
+
+
+== Legacy ==
+
+In 1991, Kakehashi was awarded an honorary doctorate from Berklee College of Music for his contribution to the development and popularization of electronic instruments. The Bentley-branded Rhythm Ace inspired the 1997 Birmingham band Bentley Rhythm Ace when a model was found at a car boot sale.
+In 2000, Kekahashi left his handprints at Hollywood's RockWalk in Hollywood. In 2002, Kakehashi published an autobiography, I Believe In Music, and was featured as a biography in the book The Art of Digital Music. As of 2002, Kakehashi was awarded about 50 patents, since the 1960s. In 2005, he was awarded the title of professor emeritus of the Central Music College of China and the University of Glamorgan.
+In 2013, Kakeashi received a Technical Grammy Award, shared with Dave Smith of Sequential Circuits, for the invention of MIDI. The 2015 documentary film 808 documented the impact that his Roland TR-808 drum machine had on popular music and popular culture, describing it as the "rock guitar of hip hop". In 2017, Electronic Musician magazine listed thirty of his instruments and innovations that have influenced popular music over the course of fifty years.
+
+
+== Bibliography ==
+I Believe in Music (2002)
+An Age Without Samples (2017)
+
+
+== References ==
+
+
+== External links ==
+Ikutaro Kakehashi's Picture
+"Berklee College of Music, Honorary Degree Recipients" http://www.berklee.edu/about/honorary.html
+"Guitar Center's Hollywood Rockwalk"
+Ikutaro and the Rise of the Rhythm Composer
+ATV Corporation
+Ikutaro Kakehashi NAMM Oral History Interview (2001)

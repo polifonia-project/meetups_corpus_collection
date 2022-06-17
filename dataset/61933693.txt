@@ -1,0 +1,23 @@
+Elaine Chew is an operations researcher and pianist focused on the study of musical structures as they apply to musical performance, composition and cognition, and in the analysis of electrocardiographic traces of arrhythmia. She is currently a senior researcher at the Science et Technologies de la Musique et du Son (STMS) Laboratory, where she is affiliated with the Centre National de la Recherche Scientifique (CNRS), which together with the Institut de Recherche et Coordination Acoustique/Musique (IRCAM), Sorbonne University, and the French Ministry of Culture constitute the joint research laboratory.
+
+
+== Biography ==
+Born in Buffalo, New York, Chew grew up in Singapore, returning to the US after high school for further studies. She received a Bachelor of Arts and Sciences in Mathematical and Computational Sciences with honours and Music with distinction from Stanford University. Her PhD thesis in the Operations Research Center at MIT was focused on the mathematics of tonality. Chew holds diplomas in piano performance from Trinity College, London.
+
+
+== Career and research ==
+Chew has designed a theory of tonality called the spiral array model. This is a mathematical model using spirals to describe how humans perceive pitches, chords and keys in music. Chew wrote Mathematical and Computational Modeling of Tonality, a book about her work on mathematical and computational techniques for automated analysis and visualisation of tonal structures, in 2014.Chew was an assistant professor at the University of Southern California (USC) from 2001 to 2011, where she was the inaugural honouree of the Viterbi Early Career Chair and founded the Music Computation and Cognition Laboratory. At USC, Chew encouraged her students to use technology to explore expressivity in music. Chew was Professor of Digital Media in the School of Electronic Engineering and Computer Science at Queen Mary University of London from 2011 to 2019, where she founded the Music, Performance, and Expressivity Laboratory at the Centre for Digital Music. In Spring of 2019, Chew joined the Music Representations Team at the Sciences et Technologies de la Musique et du Sons (STMS) Laboratory at the Institut de Recherche et Coordination Acoustique/Musique (IRCAM) in Paris, France, as a senior Centre National de la Recherche Scientifique (CNRS) researcher and pianist.As a concert pianist, Chew plays for audiences while communicating her research, often by showing mathematical visualisations alongside the performances.
+
+
+== Awards and honours ==
+European Research Council funding for the project COSMOS: Computational Shaping and Modeling of Musical Structures (2018)
+Presidential Early Career Award in Science and Engineering (2005)
+Fellowships at Harvard's Radcliffe Institute for Advanced Studies (2007 and 2017)
+Fellow of the (US) National Academy of Science's Kavli Frontiers of Science Symposia and of the (US) National Academy of Engineering's Frontiers of Engineering Symposia for outstanding young scientists and engineers
+
+
+== References ==
+
+
+=== Sources ===
+Harrison, Peter M.C. (2017). "Mathemusical Conversations: Mathematics and Computation in Music Performance and Composition". Empirical Musicology Review. Lecture Notes Series, Institute for Mathematical Sciences, National University of Singapore. 32 (1). doi:10.1142/10046. ISBN 9789813140097.

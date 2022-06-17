@@ -1,0 +1,40 @@
+Jaroslav Volek (15 July 1923, Trenčín – 23 February 1989, Prague) was a Czech musicologist, semiotician who developed a theory of modal music. His theory included ideas of poly-modality and alteration of notes that he called "flex," which result in what he called the system of flexible diatonics. He applied this theory to the work of Béla Bartók and Leoš Janáček. He wrote General Theory of Art based on semiotic concepts in 1968.
+During his life he was blacklisted by the authorities of the communist soviet dominated government of Czechoslovakia, who seldom allowed publication of his work. The result is a scarcity of biographical material that is contemporaneous from his homeland, with more available in German translation, or published in English after his death. Late in his life he was allowed to travel, and was a guest at American University during the 1980s.
+He is particularly cited in relation to the works of 20th-century European composers, because his theory directly confronts the relationship between melodies based on speech and modal sources, with the classical music harmonic tradition of tonality.
+
+
+== Summary of Volek's musical theory ==
+A flection is a momentary substitution of the tone that "represents," in the beginning of a musical piece or phrase, a particular note of the scale with another one pitched about a halftone lower or higher. Both tones are equivalent according to their position in the mode, i.e., in a diatonic mode they both have a diatonic character (therefore we speak here about the "diatonic flexion"). There is no chromaticism in such a microchange: both pitches represent notes in the current mode. Diatonic flexions appear also—and more frequently—in "full-modal" sections, intensifying the modal climate of the piece.Jaroslav Volek New Forms of Modality in Leoš Janáček's Song Cycle "The Diary of One who Vanished", p. 37. Translated by Jan Vičar [1]
+
+
+=== Fundamental musical laws ===
+Volek argues first that music is not an acoustical phenomenon, but a phenomenon of understanding and incorporating acoustical phenomenon into the psychological. From this, in a structuralist manner, he argues that the actual laws of music come from historical and social forces based on the social practice of music. He argues that musicology must, therefore, study the concrete history of musical practice to be empirical, and not merely sound. The "tangling" together of sound, practice and psychology constitutes music, and therefore the unwinding of these forces and their study constitutes musicology.
+Since music exists not only in perception, but in memory, Volek asserted that the remembering of musical events plays a powerful role in the interpretation of new perceptions. From his study of musical practice, he argued that the fundamental unit of musical remembering is the musical step—the second—and that from systems of seconds modes are constructed that allow the memory to structure the distance between two pitches. This distance is not an absolute measured by ratios of vibration, but relative, based on the mode that structures the way the pitches are remembered.
+
+
+=== Hierarchy of tonal functions ===
+From this he constructs a hierarchy of linear and vertical relationships that "bond" the notes to the sensations. Each bond has a tonal function. The first function is a bond that is linear, he calls it the melodic bond, and argues that the melodic bond is the most powerful. From the soundings of the melodic bond, vertical chordal bonds are remembered. This is the second function. The characteristics of a chordal bond can be determined from the dominant interval in the melodic bond, which combines the first two functions to produce the third function. From this, he argues that the mediant and its chromatic alteration combines the first three to produce the fourth tonal function.
+From this, he applied his theory to the art music of Europe (classical music). He argued that the 12 tones of the chromatic scale could be "colonized" (in music theory: made reachable through melodic and harmonic means), as flexible notes in the original diatonic scale of seven notes. He called this flexible diatonicism, and differentiated flex from chromaticism. Chromatic notes are those heard as outside the scale system. Flexed notes are heard within the modal scale system.
+
+
+=== Tectonicity ===
+The components of a piece, according to Volek, bond together to produce "tectonics," the construction of larger out of smaller. The bond, that is the tonal function, that joins two components is called the "responsible bond" and the tectonicity of a work is the structure of the bonds. What this means is that components dominate their moment, but the joining of components—notes, chords, melodic themes—produces the shape and tension in a work. This is similar to Arnold Schoenberg's idea that individual notes have a structural function.
+For Volek, elements that are responsible are largely forced in their handling, whereas individual expression comes from the use of non-responsible elements. In classical music, Volek argued, harmony is the dominant tectonic force. Within this general force, individualized choices allow flexibility for individual expression.
+
+
+== See also ==
+Semiotics
+Music theory
+Musicology
+Ethnomusicology
+Aesthetics
+
+
+== References ==
+Janáček and Czech Music. Proceedings of the International Conference (Saint Louis, 1988) by Michael Beckerman, Glen Bauer
+
+
+== External links ==
+JAROSLAV VOLEK’S CONTRIBUTION TO MUSICOLOGY In commemoration of the tenth anniversary of his death - Jaroslav Jiránek
+Material in Czech on Volek
+CHROMATIC MEDIANTS AS THE FOURTH BASIC FUNCTION IN TRADITIONAL HARMONY Jaroslav Volek translated Judith Fiehler

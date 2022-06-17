@@ -1,0 +1,138 @@
+Chuck Wayne (February 27, 1923 – July 29, 1997) was a jazz guitarist. He came to prominence in the 1940s, and  was among the earliest jazz guitarists to play in the bebop style. Wayne was a member of Woody Herman's First Herd, the first guitarist in the George Shearing quintet, and Tony Bennett's music director and accompanist. He developed a systematic method for playing jazz guitar.
+
+
+== Style ==
+Wayne was known for a bebop style influenced by saxophone players of his time, especially Charlie Parker and Coleman Hawkins. In an era when many guitarists used four-square, mandolin-style picking, with rigid up-down stroke articulation, Wayne developed a technique not widely adopted by others until decades later. He also developed a comprehensive approach to guitar chords and arpeggios – based on generic tetrad forms spanning all possible inversions, in varying degrees of open voicing. This highly analytic approach to the fretboard was later documented in a series of theory books, some released posthumously.
+
+
+== Life and work ==
+Chuck Wayne was born Charles Jagelka in New York City to a Czechoslovakian family. As a boy, he learned banjo, mandolin, and balalaika. In the early 1940s he began playing in jazz bands on 52nd Street. After two years in the Army, he returned to New York City, joined Joe Marsala's band, and settled in Staten Island (until a 1991 move to New Jersey). He changed his musical style after hearing Charlie Parker, recording with Dizzy Gillespie in 1945. Bill Crow writes that Wayne was one of the first jazz guitarists to learn bebop. Two examples are "Groovin' High" and "Blue 'n' Boogie" recorded with Dizzy Gillespie.Wayne was a member of Woody Herman's First Herd and worked with Coleman Hawkins, Red Norvo, Bud Powell, Jack Teagarden, George Shearing, Lester Young, and Barbara Carroll. During the 1950s, he worked with Tony Bennett,  Gil Evans, Brew Moore, Zoot Sims, and George Wallington. He was employed as staff guitarist for CBS in the 1960s. For the next two decades, he played on Broadway, accompanied vocalists, and performed in guitar duos with Joe Puma and Tal Farlow.Wayne wrote "Sonny" in honor of Sonny Berman. Years later, Miles Davis took the song, renamed it "Solar", and claimed he wrote it. Wayne's "Butterfingers" and "Prospecting" have been incorrectly attributed to Zoot Sims.
+He died of emphysema in Jackson, New Jersey, aged 74.
+
+
+== Recordings ==
+Wayne recorded his debut 10"LP  (reissued on The Jazz Guitarist, Savoy) in 1953 with Zoot Sims and Brew Moore. He recorded in a trio for Tapestry (1963) and Morning Mist (Original Jazz Classics, 1964) and in a duo with Joe Puma on Interactions (Choice, 1973).He recorded an album of banjo jazz in 1963. He loved the crisp, hornlike sound that was possible with the banjo, and he predicted there would be a resurgence of interest in the banjo.
+
+
+== Theory and technique ==
+Chuck Wayne invented a system of playing jazz guitar that emulated the style of Charlie Parker. His system included consecutive-alternate picking, chords, scales, and arpeggios. The following summary reflects material in Wayne's method books.
+
+
+=== Consecutive-alternate picking ===
+In Wayne's technique, movement of the pick comes mostly from the joints of the first finger and thumb, not the wrist, hand, or arm. The pick is not held rigidly; its angle changes slightly as it passes over the string. The tip of the pick drags slightly during each stroke so that the tip points up during a down stroke and down during an up stroke. This resembles the apoyando, or rest stroke, used by classical guitarists, particularly if the movement is exaggerated with slow, deliberate strokes, allowing the pick to stop on the adjacent string.
+When moving between adjacent strings, the guitarist continues a single up stroke or down stroke to play consecutive notes on two strings. Thus, when moving to a higher string (higher in pitch), the down stroke continues over two strings; when moving to a lower string, the up stroke continues. When more than two notes are played on a single string, the guitarist alternates strokes (or uses a slur, depending on the phrasing). This technique eliminates the "plinka-plinka" of traditional alternate picking and allows smooth, rapid playing.
+In rapid passages, the right hand is typically anchored, lightly, by touching the pinky fingernail to the pick guard, which itself should be placed near and slightly below the first string. A narrow pick guard for this use, usually of ebony, became known among luthiers as a "Chuck Wayne style pick-guard" or more accurately as a "finger rest." Some guitarists have referred to consecutive/alternative picking as "spray picking", although Wayne disliked this term.
+Wayne was an exponent of the use of the right-hand fingers in combination with the pick. He synthesized plectrum and classical guitar technique. The pick is held in the normal way, but the remaining three fingers are used to play chords and counterpoint. Wayne often surprised audiences by using this method to play difficult Bach fugues and other pieces from classical music. His use of the technique for contrapuntal improvisation was an innovation.
+
+
+=== Chords ===
+Wayne's chord system is based on "generic" chord forms, forms that have the same sonority in all keys, and that do not rely on open strings or guitaristic peculiarities.
+Wayne observed that most guitar chords in common use do not have these properties and that the way most guitarists play a G7 chord, for example, sounds different from the way they play a C7 or an E7 due to the different arrangements of notes. The common ("cowboy") chords are popular because they simplify fingering, but they constrict musical options. Wayne avoided this problem. (He did also use "specific" chord forms when appropriate, but his system concentrated on chords with universal applications.)
+Most chord books have diagrams organized by chord name (A13, Gm7b5) or type (thirteenth, minor seven-flat-five). Under each heading are the fingerings that show the chord in alternative inversions and voicings, generally having little in common other than a shared set of notes. The guitarist memorises the forms, learning a few different ways to play each chord. Over time, through practical experience, the guitarist learns or decides when to use each form. When playing in Bb, such a guitarist will inevitably play with a very different set of voicings from what would be used in F or Eb, simply because the "normal" guitar chords in these keys have very different sonorities. Wayne tried to describe the "complete" scope of harmonic possibilities available on the fretboard, in all voicings, given conventional guitar tuning and a human left hand.
+
+
+==== Concepts ====
+In Wayne's system, a generic chord has four different notes. This includes chords like dominant sevenths, major sixths, and minor ninths, but not major or minor triads, or other "specific" triadic forms, which Wayne concluded were rarely useful for jazz. For chords containing five or more notes, such as thirteenths and ninths, Wayne removed the root, and other notes if necessary, to preserve the generic four-note form.
+Wayne's focus on four-note generic chords reflects the realities of left hand fingering on a six-string guitar. Four-note chords can be comfortably played in many different voicings and fingerings, but five- or six-note chords work only in specific situations and defeat the purpose of a generic approach. Wayne was trying to give the guitarist the harmonic vocabulary and flexibility available to pianists.
+Since there are four different notes in each of Wayne's chords, there are four possible starting notes or inversions. (When such a chord contains the root, it is an inversion in the traditional sense; otherwise, it is a revoicing. For convenience, Wayne calls all such transformations "inversions".) The remaining notes are then arranged above it.
+
+
+==== Open voicing and derivatives ====
+Wayne realized that the close voicing normally used on pianos – i.e. where an entire chord is played within the same octave – is not usually practical on the guitar. He found that the most useful generic fingerings could be obtained by raising or lowering one or more of the four notes by an octave.
+[The following descriptions cover the main elements of Wayne's chord system; but these may be hard to visualize. Wayne's method books, listed below, are the best source for diagrams and details.]
+
+Open voicing. The building block of Wayne's chord system is a form he calls "open voicing," where the four notes of each chord are placed on adjacent strings, and the second note of the chord is raised by an octave. For example:
+Major sixth, open voicing, root position. A major sixth chord can be comfortably played on the bottom four strings by playing the root on the lowest string, and the fifth, sixth, and third on the adjacent three strings. The second note of the chord (the third) has been raised by an octave, and placed on the top of the chord.
+Major sixth, open voicing, other inversions. The same major sixth chord can be comfortably played on the bottom four strings in three other inversions, by playing the third, fifth, or sixth on the lowest string. In each case, the second note of the chord (the fifth, sixth, or root, respectively) is raised by an octave and played on the fourth string.
+Deriving seventh chords. These four major sixth inversions can easily be changed into other chords. For example, dominant sevenths are obtained by raising the sixth by one fret; major sevenths are obtained by raising it two frets. The chord family remains the same, with its basic four-note structure, the use of the four inversions, and the basic open-voiced shapes. Every four-note chord thus has four possible open-voiced inversions (though not all are practical using human fingers).
+Chords that omit the root. A minor ninth chord in open voicing is formed by starting with a dominant seventh form, lowering the third by one fret, and raising the root by two frets. The resulting chords contain the minor third, fifth, minor seventh, and ninth, but no root. (Omitting the root leaves the harmonic sense intact; it is generally supplied by a bass player, or by the listener.)
+Low, middle, and high voicing. With slight fingering changes, the open voicing forms can be played on any four adjacent strings, not just the lowest four strings. These are sometimes referred to as low, middle, and high voicings.
+Other generic voicings. Working with the basic open-voiced generic forms, it is possible to raise or lower individual notes by an octave, to create additional voicings with an even more "open" sound. For example, consider an open-voiced major sixth chord, starting with the root on the sixth string:
+Spread voicing. Remove the second note from the bottom of the chord (the fifth in this inversion), and move it up an octave, by playing it on the second string. Wayne calls this "spread voicing"; the chord consists of a bass note, a gap, and three notes on adjacent strings. Spread voicing can be used with all of the open-voicing inversions, by raising the second note of the chord by an octave.
+Split voicing. Similarly, remove the third note from the bottom of the chord (the sixth in this inversion), and move it up an octave, by playing it on the second string. Wayne calls this "split voicing"; the chord consists of notes on two pairs of strings, split by a gap.
+Octave voicing. Similarly, replace the top note of a spread voicing chord with the octave of the chord's second note. Wayne calls this "Octave voicing"; it removes the top pitch from the chord, instead creating a three-note chord that is influenced by four-note harmony.
+Closed voicing and "specific" chords. Wayne's system also includes some "closed voicing" chords, and a number of "specific" chord forms that have special uses. But the main thrust is on the family of open, spread, split, and octave forms in all inversions.
+
+
+==== Use of Wayne's chords ====
+Jazz musicians are very much attuned to how "open" a chord sounds; generally, the more open the voicing, the less chance of conflict between the chord and melody or improvisation. For this reason, while comping, Wayne especially used the spread and split voicings, which have the most "open" sound in his system. The other forms, being more "closed", are often chosen in arrangements using counterpoint and melody. However, there are no hard-and-fast rules for choosing a particular form in a given situation.
+Surprisingly, Wayne's approach reveals many chord forms that are comfortable to play but rarely seen, except in classical guitar fingerings. This is particularly true of inversions that begin on the third or sixth/seventh, and also of certain split and spread voicings. In Wayne's heyday, experienced guitarists were often puzzled to watch him playing chord shapes that they didn't even recognize, chords with subtle differences from the norm. Wayne's novel strategy gave him an exceptionally wide harmonic palette, helping him avoid the sameness often found in the playing of guitarists – even some great ones.
+
+
+==== Scales ====
+Wayne's scale fingerings were designed to maximize use of consecutive/alternate picking, and thus to provide a legato feel. His basic scale fingerings are simple, although he also created various extended forms. Like his analytic approach to chords, his scale fingerings provide a single structure that can be applied to a variety of scale forms.
+The simple rule for transverse diatonic, melodic minor, and harmonic minor scales is: 2-3-3-3-2-2, where each number represents the number of notes to play on each string, from low E to high E strings. The simple rule for his extended fingering is: 3-3-3-3-3 (five strings). Wayne provides many other fingering patterns in his "Scales" method book. The idea behind all of the various fingerings is that the student will be able to quickly learn the fretboard. In this way the player can create melodic lines that sound the best. The fingering patterns are practice exercises.However, by generally playing three notes per string, consecutive picking across adjacent strings occurs frequently throughout the scale when forming a melodic line.
+
+
+==== Arpeggios ====
+The arpeggios in Chuck Wayne's system were explained in his book with his student, Ralph Patt. His arpeggios are derived from the rule for each two-octave arpeggio: 2-1-2-1-2 (five strings) for playing the tetrad (4 notes) harmonic forms of Chuck Waynes' chordal voicings. Unlike other ad-hoc arpeggio fingerings, the two notes per string followed by one note per string rule provides the characteristic legato sound of Chuck Wayne. Combined with the consecutive-alternate picking, the arpeggios resemble harp-like flows. Present day jazz guitarists refer to the harp-like sound as "sweep" although Chuck Wayne disliked this term since it refers to a broom.The word arpeggio is a derivative of the word harp. The genius of the rule 2-1-2-1-2 manifests the harp-like lines and also allows the player to discover and play any arpeggio without the burden of questioning the awkward fret board fingering possibilities. The fingering is known, so it is up to the player to deploy the correct fingering for each tetradic inversion of choice. Arpeggios are revealed in two octaves. The starting note of an ascending arpeggio is either a note on the 6th string or a note on the 5th string, each voicing spanning five strings. The arpeggiated voicing is equivalent to the closed voicing on the piano.
+There is a close relationship between Wayne's chord system and his arpeggio forms. A major milestone for Wayne's students was to experience a mental synthesis of his chord system and the arpeggio structures – revealing the internal relationships that link families of chords. Reaching this plateau would "unlock the fretboard", transforming it into something that could be approached more like a piano keyboard. This happens because Wayne's tetrad chord shapes are contained within the 2-1-2-1-2 fingerings.
+Again the goal is to play melodic lines that sound the best on the instrument. Wayne taught many other arpeggio fingerings beginning with close chord form: 1-1-1-1 for one octave. Others for one octave are: 1-1-2, 1-2-1, 2-1-1, and 2-2. The 2-1-2-1-2 pattern above is derived from combining the 2-1-1 fingering for one octave and the 1-1-2 fingering for one octave.
+
+
+==== Octaves ====
+Another dimension of Chuck Wayne's style was his method of playing octaves. Since Chuck Wayne was an advanced classic guitarist as well as a plectrum player, he combined the two forms to play octaves. His right hand held the pick between the first finger and thumb to play the low note of the octave. His middle finger and ring finger alternated to play the upper note of the octave. His left hand used the "skip one" string form, which is using the index finger for the low note and the fourth finger for the upper note. Regarding two octave spans,  to keep the left hand in position, the fourth finger is used to play the lower note and the first finger is used to play the upper note using the "skip two" (strings) form.
+
+
+==== Putting it all together ====
+The figure below depicts the major 7th tetrads (and the minor 9th equivalent) for the spread voicings as well as the arpeggios and the basic scales that correspond to one another in Chuck Wayne's "complete system" of jazz guitar. The vertical bar on the left of the chart(s) marks the tonic on the low E. Notice that the minor 9 framework does not have a tonic (root), since the first note is the 9th.
+
+
+== Discography ==
+
+
+=== As leader ===
+The Jazz Guitarist (Savoy, 1956)
+String Fever (Vik, 1957)
+Tapestry (Focus, 1964)
+Morning Mist (Prestige, 1965)
+Interactions with Joe Puma (Choice, 1974)
+Skyliner (Progressive, 1976)
+Traveling (Progressive, 1980)
+
+
+=== As sideman ===
+With George Shearing
+
+I Hear Music (MGM, 1955)
+Touch of Genius! (MGM, 1955)
+A Shearing Caravan (MGM, 1958)
+A Jazz Date with George Shearing (MGM, 1961)With others
+
+Tony Bennett, Cloud 7 (CBS/Sony, 1975)
+Tony Bennett, My Heart Sings (Columbia, 1961)
+Joe Bushkin, In Concert Town Hall (Reprise, 1964)
+Warren Chiasson, Point Counterpoint (Empathy, 1986)
+Don Elliott, Love Is A Necessary Evil (Columbia, 1962)
+Gil Evans, New Bottle Old Wine (World Pacific, 1958)
+Gil Evans, Great Jazz Standards (World Pacific, 1959)
+Dick Katz, Piano & Pen (Atlantic, 1959)
+Beverly Kenney, Like Yesterday (Decca, 1959)
+Hank Jones, Chuck Wayne, George Duvivier, Charles Persip, Now Dig This!/Jazz in 2 Keys (Music Minus One, 1959)
+Clifford Jordan, These Are My Roots (Atlantic, 1965)
+Duke Jordan, Misty Thursday (SteepleChase, 1978)
+Rolf Kuhn, Rolf Kuhn and His Sound of Jazz (Urania, 1960)
+John Mehegan, Casual Affair T. J. 1959)
+Big Miller, Did You Ever Hear the Blues?  1959)
+Marian Montgomery, Swings for Winners and Losers (Capitol, 1963)
+Tony Perkins, On a Rainy Afternoon (RCA Victor, 1958)
+Jimmy Raney, Chuck Wayne, Joe Puma, Dick Garcia, The Fourmost Guitars (ABC-Paramount, 1957)
+George Wallington, The George Wallington Trios (Prestige, 1968)
+Frank Wess, Flute Juice (Progressive, 1981)
+
+
+== References ==
+
+
+== Sources ==
+Feather, Leonard, and Gitler, Ira (eds.), The Biographical Encyclopedia of Jazz, Oxford University Press. ISBN 978-0-19-507418-5
+Crow, Bill, Jazz Anecdotes, 2nd Edition (2005), Oxford University Press. ISBN 978-0-19-518795-3
+Profile of Wayne by bassist Bill Crow
+Profile of Wayne at Classic Jazz Guitar
+
+
+== External links ==
+Chuck Wayne Papers at the Library of Congress
+Discography at Classic Jazz Guitar
+Discography at Japanese site, but list is in English
+Chuck Wayne at the Internet Broadway Database

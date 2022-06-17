@@ -1,0 +1,33 @@
+Mari Kimura (木村 まり, Kimura Mari) (; born 1962) is a Japanese violinist and composer best known for her use of subharmonics, which, achieved through special bowing techniques, allow pitches below the instrument's normal range. She is credited with "introducing" the use of violin subharmonics, which allow a violinist to play a full octave below the low G on the violin without adjusting the tuning of the instrument.She studied violin with Joseph Fuchs, Roman Totenberg, Toshiya Eto, and Armand Weisbord. She also studied composition with Mario Davidovsky at Columbia University, and computer music at Stanford University. Kimura holds a doctorate in performance from The Juilliard School. Since September 1998, she has been teaching a graduate class in Interactive Computer Music Performance at The Juilliard School. Mari Kimura is the daughter of a renowned Japanese environmental architect, Ken-ichi Kimura. She grew up in a solar house designed by her father in Japan.
+
+
+== Compositions ==
+Kimura has been composing for violin solo and violin with various media since 1991. Her works for solo violin (without computer) showcase subharmonics: ALT (three movements), 1992, Gemini, 1993, Six Caprices for Subharmonics, 1997, Subharmonic Partita, 2004.
+Kimura's compositions for violin and interactive computer make use of the Max/MSP software.   Recently, she has been developing with and took part in introducing "Max for Live", which integrates Max patches with Ableton Live, at the AES (Audio Engineering Society) Meeting on October 9, 2009.She has premiered works by composers Jean-Claude Risset, Toshi Ichiyanagi, Frances White, Tania León, Robert Rowe,  and Yoshihiro Kanno. She has performed with a range of avant-garde performers such as Robert Dick, Elliott Sharp, and Henry Kaiser.
+
+
+== Awards ==
+In Japan, Kimura was awarded the Kenzo Nakajima Music Prize in 1995. Her commissions include PluckLand for Shamisen and Violin with interactive computer (for Music From Japan Festival 2009), InterAct Sweet for orchestra (for Chautauqua Regional Youth Symphony 2008), GuitarBotana commissioned by Harvestworks, Violin Concerto for violin and interactive computer system with orchestra (for Orqesta Sinfonica de Guanajuato, Mexico), Kivika for dance (for AmDAT dance), Arboleda for viola and electronics (for violist Liuh Wen Ting), Bucknerian for voice and electronics (for baritone Thomas Buckner) and Descarga Interactive for violin and electronics (2000 ICMC Commission Award).She was selected as a 2010 Composer in Residence in musical research at IRCAM in Paris, as one of the two winners among 117 applicants. She worked on her ongoing collaboration with the Real Time Musical Interactions Team at IRCAM on bowing gesture follower, the "Augmented Violin System". Kimura was awarded the 2010 Guggenheim Fellowship in Music Composition.  Her composition "I-Quadrifoglio" for the Cassatt String Quartet, from a 2010 Commission Award from the Fromm Foundation, was premiered at Symphony Space in NYC on October 13, 2011.
+
+
+== Performances ==
+Kimura has been invited as an artist in residence at Banff Center for the Arts, Headland Center for the Arts, Harvestworks, among others. A winner of 2006 Artist Fellowship from New York Foundation for the Arts (NYFA), her works have been supported by grants including Jerome Foundation, Arts International, Meet The Composer, Japan Foundation, Argosy Foundation, and the New York State Council on the Arts (NYSCA).
+Her international appearances include the Agora Festival at IRCAM in Paris; Spring in Budapest, Hungary; ISCM World Music Days in Hong Kong; Internacíonal Festival Cervantino in Mexico; International Bartók Festival in Hungary; St. Christopher festival in Lithuania, Asian Contemporary Music Festival in Korea. Her radio and TV appearances include CNN's Headline News, NY1 News, NHK radio in Japan, Radio France, WNYC-FM's “Around New York”, among others.
+
+
+== Discography ==
+
+
+== References ==
+
+
+== External links ==
+Official website
+New York Times feature article by Matthew Gurewitsch, May 15, 2011
+/ Scientific American feature article by Larry Greenemeier, May 30, 2011
+NY1 News interview/segment aired on May 23, 2011
+Mari Kimura, Tradition/E-Novation. By Suzanne Thorpe. March 4, 2009. Ars Electric.
+Mari Kimura: faculty portrait.
+Mari Kimura on Subharmonics: The violinist continues to explore the world below G. By James Reel. Strings Magazine.
+Mari Kimura, interview by David Bündler. Appeared in 20th-Century Music in January, 1999.
+Violinist.com receives instruction from Kimura on how to play subharmonics

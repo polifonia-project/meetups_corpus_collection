@@ -1,0 +1,47 @@
+Richard Parncutt (born 24 October 1957 in Melbourne) is an Australian-born academic. He has been professor of systematic musicology at Karl Franzens University Graz in Austria since 1998.
+
+
+== Education ==
+Parncutt studied music and physics at the University of Melbourne, and physics at the University of New England, Australia. In 1987, he was awarded a PhD from the University of New England. He was a guest researcher under Ernst Terhardt (Munich), Johan Sundberg (Stockholm), Annabel Cohen (Halifax, Canada), Al Bregman (Montreal), Helga de la Motte-Haber (Berlin) and John Sloboda (Keele, England). From 1996 to 1998 he held a position as a lecturer in psychology at Keele University, UK.
+
+
+== Research ==
+Parncutt's research addresses the perception of musical structure (pitch, consonance, harmony, tonality, tension, rhythm, meter, accent), the psychology of music performance (especially piano performance), and the psychological origins of tonality.
+
+
+=== Pitch and harmony ===
+The psychoacoustic model of harmony proposed by Parncutt in 1989 was adapted from the more general pitch algorithm of Ernst Terhardt, published in 1982. The model assumes that the auditory system treats all acoustic input similarly, whether it is a single tone or a musical chord. That is, the "input" to the model is a spectrum that can be a single complex tone, or any simultaneity such as a chord. The psychoacoustic effects of auditory masking are then taken into account before a "template" of the harmonic series is compared with the input spectrum.
+In Parncutt's approach, this comparison yields a number of properties of the sound, including tonalness, multiplicity, and salience. Tonalness is the degree to which a sound evokes the sensation of a single pitch. Individual tones, octave dyads, and major chords are quite high in tonalness. Multiplicity the number of tones a listener spontaneously hears in the sound. Intriguingly, for most chords the multiplicity values are less than the actual number of constituent tones – a prediction that has been validated empirically.
+Pitch salience is the clarity or prominence of a pitch sensation. The root of a major chord in root position has greater pitch salience than other tones in that chord. Empirical research has confirmed the prediction that typical musical chords evoke pitch classes of low salience that are not notated; for example, the A-minor triad ACE evokes F and D.Parncutt also considers how we perceive successions of sounds, such as chord progressions. He argues that the tonic (or main psychological pitch reference) in major-minor music is generally a chord rather than a tone or a scale; the theory is consistent with Heinrich Schenker's idea that a passage of a music is a prolongation of its tonic triad as well as Carol Krumhansl's key profiles. Theoretical considerations of the consonance and dissonance of individual tones in unaccompanied melody, when perceived relative to a prevailing diatonic scale, can explain why leading tones in tonal music tend to rise rather than fall.His research has also yielded testable predictions about the consonance and dissonance of musical sonorities. In a psychoacoustic approach, the consonance/dissonance of a chord (or harmonic sonority) in Western music is a combination of three quasi-independent factors: roughness (originating in the inner ear), harmonicity (originating in the brain), and familiarity (a cultural aspect).
+Underlying this research is the idea that a musical interval is a fundamentally psychocultural entity—not a mathematical or physical one, as has often been assumed in the history of music theory. The size of a musical interval—and hence good musical intonation—is generally variable, approximate, context-dependent, and learned from musical experience; it typically deviates systematically from theoretical frequency ratios.
+
+
+=== Origins of music ===
+In research on the origins of music, Parncutt suggested that the emotional connotations of pitch-time-movement patterns in music originated from the relationship between a mother and her fetus or infant. Research on "motherese", or infant-directed speech, already suggests that the mother–infant relationship could account for aspects of the origin of music, since this kind of communication is similar to music in many respects (melody, rhythm, movement). The emotional vocabulary of motherese could in part be learned before birth as the fetus is exposed to the internal sounds of the mother's body (voice, heartbeat, footsteps, digestion), all of which depend on the emotional state of the mother.
+
+
+=== Interdisciplinarity ===
+Since 2008 Parncutt has directed the Centre for Systematic Musicology at the University of Graz. In 2004 he founded the series Conference in Interdisciplinary Musicology, and in 2008 he became founding academic editor of the Journal of Interdisciplinary Music Studies. Parncutt established the antiracist series "Conference on Applied Interculturality Research" in 2010. The conference is inspired by the Conference on Interdisciplinary Musicology and organised on similar lines. He has also researched the role of music in the construction of migrant identities and the integration of migrant minorities.
+
+
+== Political views ==
+
+
+=== Climate activism ===
+In a essay on his website entitled "Death penalty for global warming deniers? An objective argument...a conservative conclusion" dated 25 October 2012, Parncutt, after declaring his fundamental opposition to the death penalty in all cases including mass murderers such as Anders Behring Breivik, proposed restricting the death penalty to individuals who cause more than one million deaths, and claimed that influential "global warming deniers" could fall into that category if they slow progress toward reduction of greenhouse gas emissions and thereby cause the deaths of millions of future people. The text included a link to DeSmogBlog's controversial list of climate change deniers. Parncutt suggested that a panel of scientists should decide whether a given individual had caused more than one million deaths. Convicts should also have the chance to reprieve to life imprisonment, if they withdraw, publicly repent and commit themselves to "participate significantly and positively over a long period in programs to reduce the effects of global warming (from jail) – using much the same means that were previously used to spread the message of denial". He continued: "Please note that I am not directly suggesting that the threat of execution be carried out. I am simply presenting a logical argument" but then finished: "At the end of that process, some global warming deniers would never admit their mistake and as a result they would be executed. Perhaps that would be the only way to stop the rest of them. The death penalty would have been justified in terms of the enormous numbers of saved future lives." He then doubted his argument, saying "People will be saying that Parncutt has finally lost it" – but in the year 2050 "perhaps the Pope would even turn me into a saint".
+Parncutt continued that if the death penalty were limited to individuals causing more than one million deaths it might also apply to popes since the 1980s, whom he claimed to be responsible for millions of AIDS deaths for their failure to change the church's position on contraception in the 1980s and subsequently. The paper remained on the website of the University of Graz until 24 December 2012.
+After several people listed by desmogblog cited the text in their blogs, and some of them threatened to take legal action against Parncutt and the university administration, Parncutt replaced the text by a shorter explanation and then by an unconditional retraction and apology. University officials ordered the removal of all political texts and issued a statement saying:
+
+The University of Graz is shocked and appalled by the article and rejects its arguments entirely. The University places considerable importance on respecting all human rights and does not accept inhuman statements. Furthermore, the University of Graz points out clearly that a personal and individual opinion which is not related to scientific work cannot be tolerated on websites of the University.In 2013, a disciplinary process against him was initiated by the University of Graz. Parncutt later responded to criticism on his private homepage [1].
+
+
+=== Taxation and welfare ===
+In 2012, based on an analysis of the global financial crisis, Parncutt proposed a global wealth tax to stabilize and reduce national debts, finance official development assistance to alleviate global poverty, and finance projects to mitigate climate change. A similar idea was proposed by economist Thomas Piketty in his 2013 book Capital in the 21st Century. Parncutt supports the introduction of a universal unconditional basic income and proposes combining it with a flat tax on income.
+
+
+== References ==
+
+
+== External links ==
+Professional homepage
+Political homepage

@@ -1,0 +1,17 @@
+Clark Kimberling (born November 7, 1942 in Hinsdale, Illinois) is a mathematician, musician, and composer. He has been a mathematics professor since 1970 at the University of Evansville. His research interests include triangle centers, integer sequences, and hymnology.
+Kimberling received his PhD in mathematics in 1970 from the Illinois Institute of Technology, under the supervision of Abe Sklar. Since at least 1994, he has maintained a list of triangle centers and their properties. In its current on-line form, the Encyclopedia of Triangle Centers, this list comprises tens of thousands of entries.
+He has contributed to The Hymn, the journal of the Hymn Society in the United States and Canada; and in the Canterbury Dictionary of Hymnology.
+
+
+== Kimberling's golden triangle ==
+
+Robert C. Schoen has defined "golden triangle" as a triangle with two of its sides in the golden ratio. Kimberling has proposed that Schoen's definition of golden triangle be extended to include triangles which have angles that are in the golden ratio. Kimberling has described a "doubly golden triangle" which has two sides that are in golden ratio and which also has two angles that are in golden ratio.
+
+
+== References ==
+
+
+== External links ==
+Kimberling's home page at UE
+Encyclopedia of Triangle Centers
+Free scores by Clark Kimberling at the International Music Score Library Project (IMSLP)

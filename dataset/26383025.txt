@@ -1,0 +1,33 @@
+Kaito (Japanese: カイト) (stylized as KAITO) is a Vocaloid developed by Yamaha Corporation. He has performed at live concerts onstage as an animated projection along with Crypton Future Media's other Vocaloids (like Hatsune Miku).  His production code name was "Taro". His voice is sampled by Naoto Fūga. He was the fifth ever released Vocaloid and the second in Japanese.
+The product's name was invited to be chosen by the public, and "Kaito" was selected from among the applicants, which was Vocaloid producer Shu-tP's offered idea. One of the reasons why his name "Kaito" was selected was because it would be easy for non-Japanese speakers to pronounce, and it looked fitting with the name Meiko when they were put next to one another.
+
+
+== Development ==
+Kaito was developed by Yamaha, Crypton Future Media sold the vocal. His voice was created by taking vocal samples from singer Naoto Fūga at a controlled pitch and tone.  He was made to be the counterpart of the Vocaloid Meiko.
+
+
+=== Additional software ===
+A Vocaloid 2 update for Kaito was in development, but was cancelled after it failed to meet the deadline. A beta version of the vocals were used in Hatsune Miku and Future Stars: Project Mirai.
+On February 15, 2013, a new version of Kaito, called Kaito V3, was released for Vocaloid 3 containing a package of four different tones for Kaito's voice: Straight, Soft, Whisper, and English. Once imported into the engine, the 3 Japanese vocals can access the Vocaloid 4 function Cross-Synthesis (XSY).
+
+
+== Marketing ==
+Kaito was considered "a commercial failure" when he was first released and few had any interest in him previously. At the time, Vocaloid was advertised mostly in magazines for Desktop Musicians, and the DTM community at the time was 80% male. Crypton's CEO assumed that few people in the community would want to buy a male voice. Upon release, Kaito sold only 500 units in his first year, in which he needed to sell 1,000+ units to be counted as "successful" commercially. After his success, 100 units were sold in January 2008; this amount began to rise rapidly. By 18 June 2008, Kaito sold an additional 1,000 units, this was twice as much as his initial sales. This shocked the Vocaloid developers at Crypton Future Media, who were surprised by the sudden interest in older Vocaloid software.
+At the height of his sales, he was the only one of the two Vocaloid engine vocals to have a consistent ranking as one of the Crypton's Top Ten Products. In 2010, Kaito was ranked as the 7th most popular Vocaloid product they sold. In some instances after his rediscovery, Vocaloid Kaito was even more popular than the Vocaloid 2 engine Appends for Miku and the Kagamines.
+Unlike Kaito, Kaito V3 was very well received upon release. In April 2013, Crypton updated their music software sales page and the data showed that Kaito V3 was the best selling product in March of that year. He managed to surpass Meiko V3 in sales and in August 2014, was in third place while she remained in sixth; first and second place were held by Hatsune Miku V3 and Hatsune Miku V3 Complete respectively.
+
+
+== Characteristics ==
+Kaito V1's image on his package was not mean to be a personification of the contents, as would be seen in later Vocaloid products. For his V3 update, Kaito was redesigned by iXima, an illustrator from Osaka, Japan. iXima gave Kaito a new outfit while preserving parts of the original design such as the color palette and muffler. 
+
+
+== Featured music ==
+The song "カンタレラ (Cantarella)" by Kurousa-P is considered one of the most popular songs using Kaito's voice, with over 2,800,000 views on Niconico.
+
+
+== References ==
+
+
+== External links ==
+Official website (in Japanese)
+Product Page on Vocaloid.com (in Japanese)

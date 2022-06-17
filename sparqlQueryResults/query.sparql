@@ -1,0 +1,90 @@
+# Update, filtering only people in music
+# Delete filter by birth date
+
+# ================================================
+# 1. Count
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix dbo: <http://dbpedia.org/ontology/>
+
+select (count(distinct (?s)) as ?c)
+where {
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:People> .
+?s ?o dbo:Person .
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:Music_people> .
+?s dbo:wikiPageID ?id
+}
+
+# Result: 39.643 biographies
+
+# ================================================
+# 2. Query using offset
+# === query 1
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix dbo: <http://dbpedia.org/ontology/>
+
+select distinct ?s ?id #?birth
+where {
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:People> .
+?s ?o dbo:Person .
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:Music_people> .
+?s dbo:wikiPageID ?id
+}
+order by ?id
+limit 10000 offset 0
+
+# === query 2
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix dbo: <http://dbpedia.org/ontology/>
+
+select distinct ?s ?id
+where {
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:People> .
+?s ?o dbo:Person .
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:Music_people> .
+?s dbo:wikiPageID ?id
+}
+order by ?id
+limit 10000 offset 9000
+
+# === query 3
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix dbo: <http://dbpedia.org/ontology/>
+
+select distinct ?s ?id #?birth
+where {
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:People> .
+?s ?o dbo:Person .
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:Music_people> .
+?s dbo:wikiPageID ?id
+}
+order by ?id
+limit 10000 offset 18000
+
+# === query 4
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix dbo: <http://dbpedia.org/ontology/>
+
+select distinct ?s ?id #?birth
+where {
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:People> .
+?s ?o dbo:Person .
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:Music_people> .
+?s dbo:wikiPageID ?id
+}
+order by ?id
+limit 10000 offset 27000
+
+# === query 5
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix dbo: <http://dbpedia.org/ontology/>
+
+select distinct ?s ?id #?birth
+where {
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:People> .
+?s ?o dbo:Person .
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:Music_people> .
+?s dbo:wikiPageID ?id
+}
+order by ?id
+limit 10000 offset 30000
+# changing OFFSET to collect all ids

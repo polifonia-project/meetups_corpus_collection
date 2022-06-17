@@ -1,0 +1,27 @@
+Ian Shepherd (born 1971) is a British mastering engineer, Blu-ray and DVD author. He runs the Production Advice website and is the founder of Dynamic Range Day, an annual event raising awareness of the Loudness War.
+
+
+== Career ==
+Shepherd first trained and worked at Sound Recording Technology, near Cambridge in the UK, from 1994-2010. He started by copying tapes but was working as a mastering engineer by the end of the first year. He later developed SRT's Enhanced CD and DVD services, including mixing and mastering in surround-sound. Shepherd left SRT in 2010 to form Mastering Media, Ltd. His recording, mastering, re-mastering and authoring credits include Keane, Tricky, Deep Purple, Tina May, the Royal Philharmonic Orchestra, Culture Club, Christine Tobin and King Crimson amongst others.
+
+
+== Dynamic Range Day ==
+In 2010 Shepherd founded Dynamic Range Day to raise awareness of the negative impact that the so-called Loudness Wars have had on audio quality. The event was a success and has grown in popularity each year, with industry support from Solid State Logic, Bowers and Wilkins, and TC Electronic.
+
+
+== Press ==
+Shepherd has been interviewed in Music Tech magazine  and has been quoted by the media for his commentary on music production issues in the news.
+In 2008 he was the first person to provide detailed analysis of the production and mastering of Metallica's Death Magnetic album, the sound of which was widely criticised. Shepherd argued that the music was excessively compressed and distorted, and suffered as a result. His opinions of the album's sound were widely reported, and his comments were echoed and amplified by the band's fans. Over 20,000 people signed a petition calling for the album to be remixed and remastered.Shepherd also contributed to the intense debate following allegations that Beyoncé mimed the American national anthem at President Obama's second inauguration. He assessed her performance and concluded that Knowles had in fact sung alongside a pre-recorded "safety" version, citing a video where her live performance can be heard at the same time as the backing. His findings were confirmed several days later at Knowles' press conference prior to the 2013 Super Bowl.
+
+
+== Educational work ==
+Shepherd runs an online course called the Home Mastering Masterclass. He has written for Future Music magazine  and also regularly writes on the Production Advice website covering issues related to audio quality, mastering and the loudness wars.In April 2013 Shepherd spoke at the AES Convention in Mexico City, giving a talk called "Lust for Level - Audio perception and the battle for great sound". The presentation focused on the crucial role that audio levels play at every stage of music performance, recording, production and mastering. Shepherd went on to speak about the use of levels to measure "loudness", and demonstrated a beta version of his 'Perception' plugin. The talk was well-received, with many members of the broadcast industry attending.
+
+
+== Perception plugin ==
+In 2014, Shepherd announced the release of a new audio plugin, 'Perception', developed by MeterPlugs.
+Described as a 'one click reality check' for mastering and mixing, Perception allows synchronised, realtime "before and after" comparisons of any audio processing chain, loudness-matched using the new EBU R128 standard. The intent is to allow users to objectively assess the effects of mastering processing without changes in loudness biasing their opinion. (This kind of bias is widely accepted as the driving factor behind the Loudness War.)
+Perception was well-received, with Music Tech magazine giving it a 10/10 review and an Excellence Award, commenting that "Perception won't suddenly make your mixes or masters sound better, but it might make you a better engineer, and that has far more value. If this plug-in helps point the way towards more dynamic mixes, then... we all will benefit." Hugh Robjohns, writing in Sound on Sound magazine, said the plug-in was "a very clever idea, and works extremely well in practice  – so well, in fact, that I found myself wondering how I coped beforehand!", and concluding that "Perception is recommended without reservation for anyone involved in mastering at any level".
+
+
+== References ==

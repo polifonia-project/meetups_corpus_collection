@@ -1,0 +1,49 @@
+A mixing engineer (or simply mix engineer) is responsible for combining ("mixing") different sonic elements of an auditory piece into a complete rendition (also known as "final mix" or "mixdown"), whether in music, film, or any other content of auditory nature. The finished piece, recorded or live, must achieve a good balance of properties, such as volume, pan positioning, and other effects, while resolving any arising frequency conflicts from various sound sources. These sound sources can comprise the different musical instruments or vocals in a band or orchestra, dialogue or foley in a film, and more.
+The best mixing professionals typically have many years of experience and training with audio equipment, which has enabled them to master their craft. A mixing engineer occupies a space between artist and scientist, whose skills are used to assess the harmonic structure of sound to enable them to fashion desired timbres. Their work is found in all modern music, though ease of use and access has now enabled many artists to mix and produce their own music with just a digital audio workstation and a computer.
+
+
+== Education ==
+Mixing engineers typically begin with formal training in a music background, namely a degree in audio engineering or recording engineering. Degrees in other relevant areas, such as those in music, or any working experiences gained outside academia can also help; for example, mixing engineers specialized in classical music may benefit from experience in performing in an orchestra to create better recordings. 
+Two primary categories comprise the population of sound mixers: the live sound mixer, who practice live sound mixing, and the studio mixer, whose work is done inside a tuned studio instead. Gear and equipment may slightly differ between the two industries but, universally, a well-trained ear, practice on complex audio equipment, and a thorough grasp of the techniques used to create good sound distinguish the superior mixing engineer. These are traits gained through long-term practice and experience, within or without coursework.
+
+
+== Techniques ==
+Mixing engineers rely on their intuition in the process of mixing, but all mixers generally follow certain fundamental procedures:
+
+Analyzing the client artist's "groove", or "style", and catering technicalities to their taste
+Identifying the most important elements (tracks or combinations of tracks) of a sound to emphasize
+Determining how to emphasize the tracks, which often entails de-emphasizing other tracks
+Fine-tuning the final mix, preparing for mastering if necessary
+
+
+=== Balancing a mix ===
+A mixer is given audio tracks of the individual recorded instruments to work with. They show up well after the artists or session musicians are done recording, and just have this audio to work with. Their job consists of balancing the relative impact of each audio stream, by putting them through effects processors, and having the right amount (dry/wet ratio) of each.
+
+Equalization - The main tool of a mixing engineer is the mixing console, which changes the relationship of each audio frequency, to another, to boost or cut specific frequency ranges within the track, giving each space in the limited frequency range available from 20-20,000 Hz, specifically, between ~400–8000 Hz, the most sensitive range of human hearing. Removing conflicting frequencies from 250–800 Hz is crucial, where interference and construction between voices can create annoying, displeasing effects, called "mud". Cuts in this area can help with artificial sounding brightness. By boosting frequencies below this range, one can give voices more fullness, or depth to them. Above this, boost can give voices presence, but only if they do not overlap with another voice's more prominent higher harmonics. Correctly placed high Q value filters will allow surgical alteration, which is necessary in the human vocal range (~300–3000 Hz), a 1 dB boost here is equivalent in loudness to a 5-6 dB boost at the relative extremes. Key in removing mud is making the proper boosts higher up, to replace brightness lost when cutting shared frequencies. A spectrum analyzer can help in viewing harmonic structure of voices. Every mixer approaches the challenge of equalization differently, as everyone has a slightly different psychoacoustic perception of sound, and different levels of physical hearing loss.
+Dynamic range compression - Compression reduces the range between a signal's lowest low and highest high. The threshold controls how much of the top is cut off. By adjusting attack and release settings, and having the right ratio, one can give a track more presence, but too much compression will destroy an otherwise pleasing track. By setting the trigger to another audio source, called side-chaining, higher levels of compression, and even hard clipping to a very small degree. This is often used in progressive music, however the effect is very artificial, really only good for one kind of pumping, syncopated sound.
+Panning - (L/R) settings spread the sound field out, which can create space for voices otherwise lacking. Stereo playback will result in slightly different frequency response then the signal, depending on the reverberation characteristics of the room. With modern technology, now it is often done artificially. This allows a creation of a novel resonant body. Decay time and perceived size can be controlled precisely, which, combined with control of the diffusion network, pre-filtering, and choruses, allows any resonator to be approximated. Panning changes the relative gain of each stereo track, which can create sonic space in a mix. Note that mixing only can happen after every track is set to the correct master track volume.
+Effects - Mixing Engineers use effects such as reverb and delay to create depth and space in a recording. They can add tasteful levels of effects and creativity to make your song more interesting.
+
+
+== Equipment ==
+Some equipment mixing engineers might use are:
+
+Analog-to-digital converters
+Digital audio workstations
+Digital-to-analog converters
+Dynamic Range Compression
+Microphones
+Mixing consoles
+Music sequencers
+Signal processors
+Tape machines
+
+
+== See also ==
+Audio engineering
+Audio mixing
+Recording studio
+Sound recording
+
+
+== References ==

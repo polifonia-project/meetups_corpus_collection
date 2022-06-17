@@ -1,0 +1,67 @@
+Diana Deutsch (born 15 February 1938) is a British-American psychologist from London, England.  She is Professor of Psychology at the University of California, San Diego, and is a prominent researcher on the psychology of music.  Deutsch is primarily known for the illusions of music and speech that she discovered.  She also studies the cognitive foundation of musical grammars, the ways in which people hold musical pitches in memory, and the ways in which people relate the sounds of music and speech to each other.  In addition, she is known for her work on absolute pitch (perfect pitch), which she has shown is far more prevalent among speakers of tonal languages.  Deutsch is the author of Musical Illusions and Phantom Words: How Music and Speech Unlock Mysteries of the Brain (2019), the Psychology of Music, and also the compact  discs Musical Illusions  and Paradoxes (1995) and Phantom Words and Other Curiosities (2003).
+
+
+== Early life, education, and career ==
+Diana Deutsch was born Diana Sokol, on 15 February 1938, in London, England, to Max and Iska Sokol. Her father was a sculptor of the expressionist school, and she attributes her strong interest in relationships between art, science and philosophy to her many conversations with him in childhood.Deutsch was educated at Christ's Hospital in Hertford. She entered St Anne's College, Oxford in 1956, and obtained a First Class Honors degree in Psychology, Philosophy, and Physiology in 1959. When at Oxford, she was particularly influenced by debates concerning the philosophy of mind, and relationships between reality and illusion.In 1957, while an undergraduate at Oxford, she met and married J. Anthony Deutsch, a lecturer there, and they moved to the U.S. in 1959. Together they wrote the textbook Physiological Psychology (1st edition 1966; 2nd edition 1973), edited the book Short Term Memory (1975) and wrote several articles, including Attention: Some Theoretical Considerations (1963), which was cited as a Current Contents Citation Classic in 1981. Deutsch received her Ph. D. in Psychology in 1970 from the University of California, San Diego, was appointed Research Scientist in 1971, and Professor of Psychology in 1989, both at the University of California, San Diego.
+
+
+== Research and theory ==
+
+
+=== Illusions of music and speech ===
+Deutsch has discovered a number of illusions of music and speech related to sound perception and memory. They show that there are remarkable variations in how people perceive music. Some of these variations relate to differences in brain organization, and others relate to the listeners' languages and dialects. The illusions also demonstrate the importance of memory, knowledge and expectations to how we perceive music and speech, and point to strong connections between the brain systems responsible for these two forms of communication.
+One set of illusions occur when two sequences of tones are presented via stereo headphones, such that when the right ear receives one sequence the left ear receives a different sequence. Using this procedure, Deutsch discovered striking illusions – in particular the octave illusion, the scale illusion, the chromatic illusion, the glissando illusion, and the cambiata illusion.  She discovered that there are strong disagreements between listeners in how these illusions are perceived, and that these disagreements tend to occur between righthanders and lefthanders, indicating that they reflect differences in brain organization. These illusions have implications for musical practice. For example, on listening to music in concert halls, different members of an audience may experience the same musical patterns in different ways. The illusions also demonstrate the existence of illusory conjunctions in hearing.
+Deutsch also produced illusions using sequences of tones that were clearly defined in terms of pitch class (note name), but ambiguous in terms of which octave they are in (known as Shepard tones). In particular, she discovered the tritone paradox. Perception of this illusion again differs substantially from one listener to another, but in this case, perceptual variations relate to the language or dialect spoken by the listener, indicating a relationship between music and speech.
+In addition, Deutsch discovered the Speech-to-Song Illusion. In this illusion, speech is made to be heard as song, and this is occurs without transforming the sounds in any way, but simply by repeating a phrase several times over. This illusion also points to a strong relationship between speech and music.
+Two further illusions discovered by Deutsch also show the importance of unconscious inference – our use of memory, beliefs and expectations – in perception of music and speech.  One is called the mysterious melody illusion. Listeners are unable to identify a well-known melody when all its note names are correct, but the tones are placed randomly in different octaves. However, when listeners are told the identity of the melody, they can then draw on their stored knowledge so as to recognize it. Another is the phantom words illusion. Using stereo loudspeakers, Deutsch presented repeating words and phrases that were composed of two syllables. The syllables alternated between the speakers such that when one syllable came from the speaker on the right the other syllable came from the speaker on the left. When listening to such sequences, listeners 'heard' words and phrases that had not been presented; often these 'phantom words' were related to their memories and expectations.
+
+
+=== Absolute pitch ===
+Deutsch's research also focuses on absolute pitch (or perfect pitch), which is the ability to name or produce a musical note without the aid of a reference note. This ability is very rare in the United States, but Deutsch discovered that it is far more prevalent among speakers of tone language, such as Mandarin or Vietnamese.  Deutsch proposed that, if given the opportunity, infants can acquire absolute pitch as a feature of their language, and this ability carries over into music. This proposal has inspired a substantial body of work on absolute pitch, and on pitch perception in relation to language. Deutsch and Dooley also found that speakers of English with absolute pitch had unusually large digit spans for spoken words. They proposed that this strong verbal memory makes it easier to develop an association between musical notes and their names in early childhood, and so to acquire absolute pitch.  This proposal also links absolute pitch (and therefore music) to language.
+
+
+=== Memory for musical tones, and representation of musical structure ===
+Deutsch has carried out extensive research on memory for sequences of tones.  She demonstrated that short-term memory for the pitch of a tone is the function of a specialized and highly organized system, where information is not subject to interference by other sounds such as spoken words. Deutsch also published one of the earliest neural networks for musical pattern recognition. Later, Deutsch and Feroe published a theoretical model for the representation of pitch sequences in tonal music, in which pitch sequences are represented as hierarchies. The model proposes that elements are organized as structural units at each level of a hierarchy. Elements that are present at each level are elaborated by other elements so as to create structural units at the next lower level. This process of elaboration continues until the lowest level is reached. The model has been used by others as a basis for more elaborate models for the representation of musical sequences.
+
+
+== Activities ==
+In 1989 Deutsch co-founded the biennial International Conference on Music Perception and Cognition and served as Co-Chair of the Organizing Committee for its first conference, which was held in Kyoto, Japan. She founded the (American) Society for Music Perception and Cognition in 1990, and served as its Founding President from 1990 to 1992, holding the Second International Conference on Music Perception and Cognition in Los Angeles in 1992.  She founded the journal Music Perception in 1983, and served as its Founding Editor from 1983 to 1995. In addition she integrated research and theory in different disciplines in her edited book "The Psychology of Music"; this became  the standard Handbook in the field).
+
+
+== Honors and Awards ==
+Deutsch has been elected a Fellow of several societies: the American Association for the Advancement of Science, the Audio Engineering Society, the Acoustical Society of America, the Society of Experimental Psychologists, the American Psychological Society (renamed the Association for Psychological Science), the Psychonomic Society, and four divisions of the American Psychological Association: Division 1 (Society for General Psychology), Division 3 (Society for Experimental Psychology and Cognitive Science), Division 10 (Society for the Psychology of Aesthetics, Creativity and the Arts) and Division 21 (Applied Experimental and Engineering Psychology).She was elected a governor of the Audio Engineering Society, president of Division 10 of the American Psychological Association, chair of the Section on Psychology of the American Association for the Advancement of Science, and served as chair of the Society of Experimental Psychologists. She received the AES Gold Medal Award from the Audio Engineering Society for Lifelong Contributions to the Understanding of the Human Hearing Mechanism and the Science of Psychoacoustics; the Gustav Theodor Fechner Award for Outstanding Contributions to Empirical Aesthetics from the International Association of Empirical Aesthetics; the Science Writing Award for Professionals in Acoustics by the Acoustical Society of America, and the Rudolf Arnheim Award for Outstanding Achievement in Psychology and the Arts, from the American Psychological Association.
+
+
+== Media ==
+Deutsch has given many public lectures, including those at the Kennedy Center for Performing Arts in Washington, D.C., the Vienna Music Festival, The Exploratorium in San Francisco, The Fleet Science Center in San Diego, the Skeptics Society in Pasadena, the Festival of Two Worlds in Spoleto, Italy, the Institut de Recherche et Coordination Acoustique/Musique (Centre Georges Pompidou) in Paris, France, and the Royal Swedish Academy of Music in Stockholm, Sweden.Her work is often featured in newspapers and magazines throughout the world. These include Scientific American, New Scientist, The Washington Post, The New York Times, U.S. News and World Report, Die Zeit (Germany), Der Spiegel (Germany), Forskning (Norway), NZZ am Sonntag (Switzerland) and Pour La Science (France), among others. She has been interviewed frequently on radio and television, for example for NOVA, the Discovery Channel,  WNYC (including Radiolab), BBC (U.K.), CBC (Canada), ABC (Australia), and German Public Radio.Several museums have exhibited her audio illusions, including the Museum of Science (Boston), the  Denver Museum of Nature and Science, the Exploratorium, the Franklin Institute, and the Museo Interactivo de Ciencia, in Quito, Ecuador. Her illusions are also often displayed at science festivals worldwide, including the USA Science and Engineering Festival in Washington, D.C., and the Edinburgh International Science Festival.
+
+
+== Publications ==
+
+
+=== Books ===
+Deutsch, D. (2019). Musical Illusions and Phantom Words: How Music and Speech Unlock Mysteries of the Brain. Oxford University Press. ISBN 9780190206833. LCCN 2018051786.
+Deutsch, D. (1982). The Psychology of Music, (3rd ed 2013)
+
+
+=== Selected articles and book chapters ===
+Deutsch, D.; Henthorn, T. & Lapidis, R. (2011). "Illusory transformation from speech to song". Journal of the Acoustical Society of America. 129 (4): 2245–2252. Bibcode:2011ASAJ..129.2245D. doi:10.1121/1.3562174. PMID 21476679. PDF Document
+Deutsch, D. (1992). "Paradoxes of musical pitch". Scientific American. 267 (2): 88–95. Bibcode:1992SciAm.267b..88D. doi:10.1038/scientificamerican0892-88. PMID 1641627. PDF Document
+Deutsch, D.; Feroe, J. (1981). "The Internal Representation of Pitch Sequences in Tonal Music". Psychological Review. 88 (6): 503–522. doi:10.1037/0033-295X.88.6.503. S2CID 14126457. PDF Document
+Deutsch, D. (1970). "Tones and numbers: Specificity of interference in immediate memory". Science. 168 (3939): 1604–1605. Bibcode:1970Sci...168.1604D. doi:10.1126/science.168.3939.1604. PMID 5420547. S2CID 2046964. PDF Document
+Deutsch, J. A. & Deutsch, D. (1963). "Attention: some Theoretical Considerations". Psychological Review. 70: 80–90. doi:10.1037/h0039515. PMID 14027390. PDF Document
+Deutsch, D. (1980). "Memory and Attention in Music".  In Critchley, MacDonald & Henson, R. A. (eds.). Music and the Brain. London: Heinemann. pp. 95–130. ISBN 0-433-06703-9.
+
+
+=== Discography ===
+Diana Deutsch (2003). Phantom Words and Other Curiosities (CD). Philomel Records. 1377600022.
+Diana Deutsch (1995). Musical Illusions and Paradoxes (CD). Philomel Records. 1377600012.
+
+
+== References ==
+
+
+== External links ==
+Diana Deutsch's web page at the University of California San Diego
+"Behaves So Strangely" Interview with Jad Abrumrad, Radiolab, 2006
+"Believing Your Ears: Probing the Brain through Musical Illusion – A Conversation with Diana Deutsch", Ideas Roadshow, 2015

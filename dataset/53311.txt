@@ -1,0 +1,145 @@
+Hermann Ludwig Ferdinand von Helmholtz (31 August 1821 – 8 September 1894) was a German  physicist and physician who made significant contributions in several scientific fields. The largest German association of research institutions, the Helmholtz Association, is named after him.In physiology and psychology, he is known for his mathematics of the eye, theories of vision, ideas on the visual perception of space, color vision research, and on the sensation of tone, perception of sound, and empiricism in the physiology of perception.
+In physics, he is known for his theories on the conservation of energy, work in electrodynamics, chemical thermodynamics, and on a mechanical foundation of thermodynamics.
+As a philosopher, he is known for his philosophy of science, ideas on the relation between the laws of perception and the laws of nature, the science of aesthetics, and ideas on the civilizing power of science.
+
+
+== Biography ==
+
+
+=== Early years ===
+Helmholtz was born in Potsdam the son of the local gymnasium headmaster, Ferdinand Helmholtz, who had studied classical philology and philosophy, and who was a close friend of the publisher and philosopher Immanuel Hermann Fichte. Helmholtz's work was influenced by the philosophy of Johann Gottlieb Fichte and Immanuel Kant. He tried to trace their theories in empirical matters like physiology.
+As a young man, Helmholtz was interested in natural science, but his father wanted him to study medicine. Helmholtz earned a medical doctorate at Medicinisch-chirurgisches Friedrich-Wilhelm-Institut in 1842 and served a one-year internship at the Charité hospital (because there was financial support for medical students).
+Trained primarily in physiology, Helmholtz wrote on many other topics, ranging from theoretical physics, to the age of the Earth, to the origin of the Solar System.
+
+
+=== University posts ===
+Helmholtz's first academic position was as a teacher of Anatomy at the Academy of Arts in Berlin in 1848. He then moved to take a post of associate professor of physiology at the Prussian University of Königsberg, where he was appointed in 1849. In 1855 he accepted a full professorship of anatomy and physiology at the University of Bonn. He was not particularly happy in Bonn, however, and three years later he transferred to the University of Heidelberg, in Baden, where he served as professor of physiology. In 1871 he accepted his final university position, as professor of physics at the Humboldt University in Berlin.
+
+
+== Research ==
+
+
+=== Mechanics ===
+His first important scientific achievement, an 1847 treatise on the conservation of energy, was written in the context of his medical studies and philosophical background. His work on energy conservation came about while studying muscle metabolism. He tried to demonstrate that no energy is lost in muscle movement, motivated by the implication that there were no vital forces necessary to move a muscle. This was a rejection of the speculative tradition of Naturphilosophie which was at that time a dominant philosophical paradigm in German physiology.
+Drawing on the earlier work of Sadi Carnot, Benoît Paul Émile Clapeyron and James Prescott Joule, he postulated a relationship between mechanics, heat, light, electricity and magnetism by treating them all as manifestations of a single force, or energy in today's terminology. He published his theories in his book Über die Erhaltung der Kraft (On the Conservation of Force, 1847).In the 1850s and 60s, building on the publications of William Thomson, Helmholtz and William Rankine popularized the idea of the heat death of the universe.
+In fluid dynamics, Helmholtz made several contributions, including Helmholtz's theorems for vortex dynamics in inviscid fluids.
+
+
+=== Sensory physiology ===
+Helmholtz was a pioneer in the scientific study of human vision and audition. Inspired by psychophysics, he   was interested in the relationships between measurable physical stimuli and their correspondent human perceptions. For example, the amplitude of a sound wave can be varied, causing the sound to appear louder or softer, but a linear step in sound pressure amplitude does not result in a linear step in perceived loudness. The physical sound needs to be increased exponentially in order for equal steps to seem linear, a fact that is used in current electronic devices to control volume. Helmholtz paved the way in experimental studies on the relationship between the physical energy (physics) and its appreciation (psychology), with the goal in mind to develop "psychophysical laws."
+The sensory physiology of Helmholtz was the basis of the work of Wilhelm Wundt, a student of Helmholtz, who is considered one of the founders of experimental psychology. More explicitly than Helmholtz, Wundt described his research as a form of empirical philosophy and as a study of the mind as something separate. Helmholtz had, in his early repudiation of Naturphilosophie, stressed the importance of materialism, and was focusing more on the unity of "mind" and body.
+
+
+=== Ophthalmic optics ===
+In 1851, Helmholtz revolutionized the field of ophthalmology with the invention of the ophthalmoscope; an instrument used to examine the inside of the human eye. This made him world-famous overnight. Helmholtz's interests at that time were increasingly focused on the physiology of the senses. His main publication, titled Handbuch der Physiologischen Optik (Handbook of Physiological Optics or Treatise on Physiological Optics), provided empirical theories on depth perception, color vision, and motion perception, and became the fundamental reference work in his field during the second half of the nineteenth century. In the third and final volume, published in 1867, Helmholtz described the importance of unconscious inferences for perception. The Handbuch was first translated into English under the editorship of James P. C. Southall on behalf of the Optical Society of America in 1924–5. His theory of accommodation went unchallenged until the final decade of the 20th century.
+Helmholtz continued to work for several decades on several editions of the handbook, frequently updating his work because of his dispute with Ewald Hering who held opposite views on spatial and color vision. This dispute divided the discipline of physiology during the second half of the 1800s.
+
+
+=== Nerve physiology ===
+In 1849, while at Königsberg, Helmholtz measured the speed at which the signal is carried along a nerve fibre. At that time most people believed that nerve signals passed along nerves immeasurably fast. He used a recently dissected sciatic nerve of a frog and the calf muscle to which it attached. He used a galvanometer as a sensitive timing device, attaching a mirror to the needle to reflect a light beam across the room to a scale which gave much greater sensitivity. Helmholtz reported transmission speeds in the range of 24.6 – 38.4 meters per second.
+
+
+=== Acoustics and aesthetics ===
+
+In 1863, Helmholtz published Sensations of Tone, once again demonstrating his interest in the physics of perception. This book influenced musicologists into the twentieth century. Helmholtz invented the Helmholtz resonator to identify the various frequencies or pitches of the pure sine wave components of complex sounds containing multiple tones.Helmholtz showed that different combinations of resonator could mimic vowel sounds: Alexander Graham Bell in particular was interested in this but, not being able to read German, misconstrued Helmholtz' diagrams as meaning that Helmholtz had transmitted multiple frequencies by wire—which would allow multiplexing of telegraph signals—whereas, in reality, electrical power was used only to keep the resonators in motion. Bell failed to reproduce what he thought Helmholtz had done but later said that, had he been able to read German, he would not have gone on to invent the telephone on the harmonic telegraph principle.
+
+The translation by Alexander J. Ellis was first published in 1875 (the first English edition was from the 1870 third German edition; Ellis's second English edition from the 1877 fourth German edition was published in 1885; the 1895 and 1912 third and fourth English editions were reprints of the second).
+
+
+=== Electromagnetism ===
+Helmholtz studied the phenomena of electrical oscillations from 1869 to 1871, and in a lecture delivered to the Naturhistorisch-medizinischen Vereins zu Heidelberg (Natural History and Medical Association of Heidelberg) on 30 April 1869, titled On Electrical Oscillations he indicated that the perceptible damped electrical oscillations in a coil joined up with a Leyden jar were about 1/50th of a second in duration.In 1871, Helmholtz moved from Heidelberg to Berlin to become a professor in physics. He became interested in electromagnetism, and the Helmholtz equation is named for him. Although he did not make major contributions to this field, his student Heinrich Rudolf Hertz became famous as the first to demonstrate electromagnetic radiation. Oliver Heaviside criticised Helmholtz's electromagnetic theory because it allowed the existence of longitudinal waves. Based on work on Maxwell's equations, Heaviside pronounced that longitudinal waves could not exist in a vacuum or a homogeneous medium. Heaviside did not note, however, that longitudinal electromagnetic waves can exist at a boundary or in an enclosed space.
+
+
+== Quotations ==
+Whoever, in the pursuit of science, seeks after immediate practical utility may rest assured that he seeks in vain.
+— Academic Discourse (Heidelberg 1862)
+
+
+== Students and associates ==
+Other students and research associates of Helmholtz at Berlin included Max Planck, Heinrich Kayser, Eugen Goldstein, Wilhelm Wien, Arthur König, Henry Augustus Rowland, Albert A. Michelson, Wilhelm Wundt, Fernando Sanford and Michael I. Pupin. Leo Koenigsberger, who was his colleague 1869–1871 in Heidelberg, wrote the definitive biography of him in 1902.
+
+
+== Honours and legacy ==
+
+In 1873, Helmholtz was elected as a member of the American Philosophical Society.
+In 1881, Helmholtz was elected Honorary Fellow of the Royal College of Surgeons in Ireland.
+On 10 November 1881, he was awarded the Légion d'honneur: au grade de Commandeur, or Level 3 – a senior grade. (No. 2173).
+In 1883, Professor Helmholtz was honoured by the Emperor, being raised to the nobility, or Adel. The Adelung meant that he and his family were now styled: von Helmholtz. The distinction was not a peerage or title, but it was hereditary and conferred a certain social cachet.
+Helmholtz was conferred with Honorary Membership of the Institution of Engineers and Shipbuilders in Scotland in 1884.
+The largest German association of research institutions, the Helmholtz Association, is named after him.
+The asteroid 11573 Helmholtz and the lunar crater Helmholtz as well as the crater Helmholtz on Mars were named in his honour.
+In Charlottenburg, Berlin, the street Helmholtzstraße is named after von Helmholtz.
+
+
+== Works ==
+Über die Erhaltung der Kraft (in German). Leipzig: Wilhelm Engelmann. 1889.
+Vorlesungen über die elektromagnetische Theorie des Lichts (in German). Leipzig: Johann Ambrosius Barth. 1897.
+Vorlesungen über die mathematischen Principien der Akustik (in German). Leipzig: Johann Ambrosius Barth. 1898.
+Vorlesungen über die Dynamik discreter Massenpunkte (in German). Leipzig: Johann Ambrosius Barth. 1898.
+Dynamik continuirlich verbreiteter Massen (in German). Leipzig: Johann Ambrosius Barth. 1902.
+Vorlesungen über die Theorie der Wärme (in German). Leipzig: Johann Ambrosius Barth. 1903.
+
+
+=== Translated works ===
+On the Conservation of Force (1847) HathiTrust
+Lehre von den Tonempfindungen als physiologische Grundlage für die Theorie der Musik (in French). Paris: Masson. 1874.
+Helmholtz, Herman (1876). "On the Limits of the Optical Capacity of the Microscope". Monthly Microscopical Journal. 16: 15–39. doi:10.1111/j.1365-2818.1876.tb05606.x.
+Populäre wissenschaftliche Vorträge. New York: Appleton. 1885.
+On the Conservation of Force (1895) Introduction to a Series of Lectures Delivered at Carlsruhe in the Winter of 1862–1863, English translation
+On the Sensations of Tone as a Physiological Basis for the Theory of Music (downloadable from California Digital Library) Third Edition of English Translation, based on Fourth German Edition of 1877, By Hermann von Helmholtz, Alexander John Ellis, Published by Longmans, Green, 1895, 576 pages
+On the Sensations of Tone as a Physiological Basis for the Theory of Music (downloadable from Google Books) Fourth Edition, By Hermann von Helmholtz, Alexander John Ellis, Published by Longmans, Green, 1912, 575 pages
+Treatise on Physiological Optics (1910) three volumes. English translation by Optical Society of America (1924–25).
+Popular lectures on scientific subjects (1885)
+Popular lectures on scientific subjects second series (1908)
+
+
+== See also ==
+Helmholtz coil
+List of people from Berlin
+List of things named after Hermann von Helmholtz
+Neo-Kantianism
+Theory of Colours
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Citations ===
+
+
+=== Sources ===
+Cahan, David Helmholtz: A Life in Science.    University of Chicago Press, 2018.  ISBN 978-0-226-48114-2.
+Cohen, Robert, and Wartofsky, Marx, eds. and trans. Reidel. Helmholtz: Epistemological Writings, 1977.
+Ewald, William B., ed. From Kant to Hilbert: A Source Book in the Foundations of Mathematics, 2 vols. Oxford Uni. Press, 1996.
+1876. "The origin and meaning of geometrical axioms," 663–88.
+1878. "The facts in perception," 698–726.
+1887. "Numbering and measuring from an epistemological viewpoint," 727–52.
+Groundwater, Jennifer. Alexander Graham Bell: The Spirit of Invention. Calgary: Altitude Publishing, 2005. ISBN 1-55439-006-0.
+Jackson, Myles W. Harmonious Triads: Physicists, Musicians, and Instrument Makers in Nineteenth-Century Germany (MIT Press, 2006).
+Kahl, Russell, ed. Wesleyan. Selected Writings of Hermann von Helmholtz, Uni. Press., 1971.
+Koenigsberger, Leo. Hermann von Helmholtz, translated by Frances A. Welby (Dover, 1965)
+MacKenzie, Catherine. Alexander Graham Bell. Whitefish, Montana: Kessinger Publishing, 2003. ISBN 978-0-7661-4385-2. Retrieved 29 July 2009.
+Shulman, Seth. The Telephone Gambit: Chasing Alexander Bell's Secret. New York: Norton & Company, 2008. ISBN 978-0-393-06206-9.
+
+
+== Further reading ==
+David Cahan: Helmholtz: A Life in Science (University of Chicago, 2018). ISBN 978-0-226-48114-2
+David Cahan (Ed.): Hermann von Helmholtz and the Foundations of Nineteenth-Century Science. Univ. California, Berkeley 1994, ISBN 978-0-520-08334-9.
+Gregor Schiemann: Hermann von Helmholtz's Mechanism: The Loss of Certainty. A Study on the Transition from Classical to Modern Philosophy of Nature. Dordrecht: Springer 2009, ISBN 978-1-4020-5629-1.
+Steven Shapin, "A Theorist of (Not Quite) Everything" (review of David Cahan, Helmholtz: A Life in Science, University of Chicago Press, 2018, ISBN 978-0-226-48114-2, 937 pp.), The New York Review of Books, vol. 66, no. 15 (10 October 2019), pp. 29–31.
+Franz Werner: Hermann Helmholtz´ Heidelberger Jahre (1858–1871). (= Sonderveröffentlichungen des Stadtarchivs Heidelberg 8). Mit 52 Abbildungen. Berlin / Heidelberg (Springer) 1997.
+
+
+== External links ==
+"Hermann von Helmholtz" (Obituary). Royal Society (Great Britain). (1894). Proceedings of the Royal Society of London. London: Printed by Taylor and Francis.
+"Hermann von Helmholtz" by Leo Koenigsberger (Oxford: Clarendon press, 1906) from Internet Archive
+"Hermann von Helmholtz" article by Lydia Patton, Stanford Encyclopedia of Philosophy
+O'Connor, John J.; Robertson, Edmund F., "Hermann von Helmholtz", MacTutor History of Mathematics archive, University of St Andrews
+J. G. McKendrick Hermann Ludwig Ferdinand von Helmholtz (London : Unwin, 1899)
+Biography, bibliography and access to digital sources in the Virtual Laboratory of the Max Planck Institute for the History of Science
+Free scores by Hermann von Helmholtz at the International Music Score Library Project (IMSLP) (Die Lehre von den Tonempfindungen)
+Helmholtz's (1867) Handbuch der physiologischen Optik – digital facsimile from the Linda Hall Library
+Hermann von Helmholtz at the Mathematics Genealogy Project

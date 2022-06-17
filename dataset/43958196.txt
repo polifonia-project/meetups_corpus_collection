@@ -1,0 +1,13 @@
+Robert Whitlock Adams is a Technical Fellow at Analog Devices, Inc. (ADI) in Wilmington, Massachusetts. His focus is on signal processing and analog-to-digital conversion for professional audio. He is a leader in the development of sigma-delta converters, introducing architectural advances including mismatch shaping, multi-bit quantization, and continuous-time architectures.Adams graduated with a Bachelor of Science in Electrical Engineering from Tufts University in 1976. From 1977 to 1988 he worked for DBX, a professional audio recording company. There, he helped develop the industry's first audio converter with greater than 16-bit resolution, as well as one of the earliest digital audio recorders. In 1988, he joined the Converter Group of Analog Devices as a Senior Staff Designer, and went on to develop ADI's first sigma-delta converters in partnership with Paul Ferguson. He produced the world's first monolithic asynchronous sample rate converters (the AD1890 family), and he created ADI's sigmaDSP line of audio-specific digital signal processing cores.As of 1998, Adams had received 15 patents related to audio signal processing.
+
+
+== Awards and honors ==
+Elected Fellow of the Audio Engineering Society (AES), 1991
+Received AES Silver Medal Award, 1995
+Included in Electronic Design  magazine's Engineering Hall of Fame, 2011
+Became a Fellow of the Institute of Electrical and Electronics Engineers (IEEE), 2012 "for contributions to analog and digital signal processing"
+Received the IEEE Donald O. Pederson Award, 2015 "for contributions to noise-shaping data converter circuits, digital signal processing, and log-domain analog filters"
+Elected as a member into the National Academy of Engineering in 2018 for contributions to digital storage and reproduction of high-fidelity audio.
+
+
+== References ==

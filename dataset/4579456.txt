@@ -1,0 +1,49 @@
+John Hales Whitney, Sr. (1917-1995) was an American animator, composer and inventor, widely considered to be one of the fathers of computer animation.
+
+
+== Life ==
+Whitney was born in Pasadena, California and attended Pomona College. He is a descendant of the Whitney family through his father's direct line. His first works in film were 8 mm movies of a lunar eclipse which he made using a home-made telescope. In 1937-38 he spent a year in Paris, studying twelve-tone composition under René Leibowitz. In 1939 he returned to America and began to collaborate with his brother James on a series of abstract films. Their work, Five Film Exercises (1940–45) was awarded a prize for sound at the First International Experimental Film Competition in Belgium in 1949. In 1948 he was awarded a Guggenheim Fellowship.
+During the 1950s, Whitney used his mechanical animation techniques to create sequences for television programs and commercials. In 1952, he directed engineering films on guided missile projects. One of his most famous works from this period was the animated title sequence from Alfred Hitchcock's 1958 film Vertigo, which he collaborated on with the graphic designer Saul Bass.
+In 1960, he founded Motion Graphics Incorporated, which used the mechanical analog computer of his own invention to create motion picture and television title sequences and commercials. The following year, he assembled a record of the visual effects he had perfected using his device, titled simply Catalog. In 1966, IBM awarded John Whitney, Sr. its first artist-in-residence position.
+By the 1970s, Whitney had abandoned his analog computer in favor of faster, digital processes. He taught the first computer graphics class at UCLA in 1972. The pinnacle of his digital films is his 1975 work Arabesque, characterized by psychedelic, blooming color-forms. In 1969–70, he experimented with motion graphics computer programming at California Institute of Technology. His work during the 1980s and 1990s benefited from faster computers and his invention of an audio-visual composition program called the Whitney-Reed RDTD (Radius-Differential Theta Differential). Works from this period, such as Moondrum (1989–1995), used self-composed music and often explored mystical or Native-American themes.
+All of John Whitney's sons (Michael, Mark and John Jr.) are also film-makers.
+Several of the films (plus some of James Whitney's), were preserved by Center for Visual Music, Los Angeles. HD transfers from their preservation have been seen in major museum exhibitions including Visual Music at Museum of Contemporary Art, Los Angeles and The Hirshhorn Museum (2005), Sons et Lumieres at Centre Pompidou (2004–05), The Third Mind at The Guggenheim Museum, and other shows.
+
+
+== Whitney's mechanical analog computer ==
+The analog computer Whitney used to create his most famous animations was built in the late 1950s by converting the mechanism of a World War II M-5 antiaircraft gun director. Later, Whitney would augment the mechanism with an M-7 mechanism, creating a twelve-foot-high machine. Design templates were placed on three different layers of rotating tables and photographed by multiple-axis rotating cameras. The color was added during optical printing. Whitney's son, John, Jr., described the mechanism in 1970:
+
+I don't know how many simultaneous motions can be happening at once. There must be at least five ways just to operate the shutter. The input shaft on the camera rotates at 180 rpm, which results in a photographing speed of 8 frame/s. That cycle time is constant, not variable, but we never shoot that fast. It takes about nine seconds to make one revolution. During this nine-second cycle, the tables are spinning on their own axes while simultaneously revolving around another axis while moving horizontally across the range of the camera, which may itself be turning or zooming up and down. During this operation we can have the shutter open all the time, or just at the end for a second or two, or at the beginning, or for half of the time if we want to do slit-scanning
+
+
+== Archive ==
+The Academy Film Archive houses the Whitney Collection and has preserved over a dozen films from the collection. The collection encompasses the work of John and James Whitney, as well as John's sons Mark, John, and Michael.
+
+
+== See also ==
+Spirograph – A drawing toy with a resemblance to some of Whitney's art.
+History of computer animation
+
+
+== Audio/video ==
+John Whitney's "Catalog" (1961) on YouTube
+John Whitney's "Experiments" (1968; in Motion Graphics) on YouTube
+John Whitney's "Arabesque" (1975; early computer graphics) on YouTube
+Experiments in Motion Graphics (1968) John Whitney is available for free download at the Internet Archive
+Coverpop.com
+
+
+== Further reading ==
+Manovich, Lev (2001). The Language of New Media Cambridge. MIT Press.
+Whitney, John (1980). Digital Harmony: On the Complementarity of Music and Visual Art. Peterborough, N.H. Byte Books/McGraw-Hill.
+Youngblood, Gene (1970). Expanded Cinema Clarke, Irwin & Company
+
+
+== References ==
+
+
+== External links ==
+John Whitney at IMDb
+The John Whitney Biographical Site at SIGGRAPH, now held at the Internet Archive
+Computational Periodics (essay by Whitney in Artist and Computer, 1976)
+Digital Harmony, article by William Moritz
