@@ -1,19 +1,20 @@
 ---
-id: 
+id: meetups-corpus-collection
 name: MEETUPS Corpus collection
 brief-description: This is a tool to build to download the Wikipedia pages of people in the music scene in Europe
 type: Software
-release-date: 24/02/2022
+release-date: 20/07/2022
 release-number: v1.0
 work-package:
-- WP3
-pilot: MEETUPS
+- WP4
+pilot:
+- MEETUPS
 keywords:
 - Wikipedia
 - Music
-licence: GPLv3
+licence: Apache 2.0
 release link:
-  - 
+  - https://github.com/polifonia-project/meetups_corpus_collection/releases/tag/v1.0
 credits:
   - https://github.com/albamoralest
 ---
