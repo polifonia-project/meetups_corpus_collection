@@ -13,7 +13,7 @@ keywords:
 - Wikipedia
 - Music
 licence: 
-- Apache 2.0
+- Apache-2.0
 release link:
   - https://github.com/polifonia-project/meetups_corpus_collection/releases/tag/v1.0
 credits:
