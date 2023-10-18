@@ -18,7 +18,7 @@ release link:
 contributors:
   - https://github.com/albamoralest
 related-components:
-- informed-by: 
+- generated-by: 
   - meetups-corpus-collection
 ---
 
